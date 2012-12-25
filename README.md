@@ -15,7 +15,7 @@ You'll also find list of all the nice humans who have contributed to this list a
 
 ### Manners
 - Be excellent to each other
-- If you spot somebody not being excellent to someone else, remind them to be excellent and have them apologi(s|z)e to the insulted part(y|ies).
+- If you spot somebody not being excellent to someone else, remind them to be excellent and have them apologi(s|z)e to the insulted part(y|ies), but only if the insulted wish to be apologi(s|z)ed to. Sometimes the insulted party will just want to move on and not have any further contact with someone who was unexcellent to them.
 - If you don't want to be called $swearword, don't behave like one.
 - Help each other out
 - Read the [Anti Harrassment Policy][3] and live by it :-)
@@ -41,6 +41,7 @@ You'll also find list of all the nice humans who have contributed to this list a
 - Driver's license (even an international one)
 - Hotel booking
 - Ham radio license
+- Hackerspace passport[5]
 
 
 
@@ -141,6 +142,7 @@ Your personal medication does not belong on the public interwebs for your privac
 - Charger for Laptop 
 	- Mac: Small Duck-head and long (Schuko Plug) cord
 	- Mac: MagSafe to MagSafe 2 Adapter
+- Plug adaptor from your country of origin to Schuko[6]
 - 3* or 5* Extension (230V≈ @50Hz) with Schuko Plug (and optional switch)
 - Simple extension cord (230V @50Hz, Schuko Plug)
 - USB Sticks
@@ -250,6 +252,8 @@ These people have contributed to improve this list for everyone. In no particula
 [2]:https://www.eventphone.de/
 [3]:https://events.ccc.de/congress/2012/wiki/29C3_Anti-Harassment_Policy
 [4]:http://r0cket.org/
+[5]:https://www.noisebridge.net/wiki/Passport
+[6]:https://en.wikipedia.org/wiki/Schuko
 
 [100]:https://twitter.com/Astarioth
 [101]:https://twitter.com/N4mes
