@@ -247,7 +247,7 @@ These people have contributed to improve this list for everyone. In no particula
 - [@towo][102]
 - [@michaelem][103]
 - [devdsp][104]
-- [@meepVIE][105]
+- [@meep_VIE][105]
 
 ## Links
 [1]:https://events.ccc.de/congress/2012/wiki/How_To_Survive 
@@ -262,4 +262,4 @@ These people have contributed to improve this list for everyone. In no particula
 [102]:https://twitter.com/towo
 [103]:https://twitter.com/michaelem
 [104]:https://github.com/devdsp
-[105]:https://github.com/meepVIE
+[105]:https://github.com/meep_VIE
