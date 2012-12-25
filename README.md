@@ -106,7 +106,6 @@ If you need help, just call for help, there are many, many people around to help
 - Parkemed
 - Clarityn (or other Anti-allergic)
 - Neocitran (Just in case hacker pest strikes)
-- Metavirulent
 - Contraceptives
 - Caffeine pills (In case you don't like Mate and nobody knows if you can actually drink the coffee served there.)
 - Something for your stomach (if you've got a nervous digestive system when under stress, while flying or generally travelling)
