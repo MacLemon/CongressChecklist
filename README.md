@@ -164,6 +164,7 @@ Your personal medication does not belong on the public interwebs for your privac
 		- For a local GSM network at the venue
 	- DECT phone (for the local wireless phone network)
 	- Be sure to register your extension number at [Eventphone][2]
+- DVB-T dongle, there might be local DVB-T transmitter for the streams
 - Chargers for all those phones, or at least matching wires if you can charge over USB.
 	- iPhone, iPhone 3G, iPhone 3GS, iPhone 4, iPhone 4S, iPad, iPad 2, iPad 3 (The new iPad)
 		- USB-30 Pin dock connector (one each)
@@ -244,6 +245,18 @@ Have at least one trusted, working and tested VPN endpoint available for tunneli
 
 Also have those tunnels configured on ALL the devices you intend to use, and have it tested. That includes your Laptops, phones, tablets, servers, fridge, etc.
 
+### Phones
+It is not recommended to connect your smartphone to the congress wifi, if you still can't resist, here are a few things to consider:
+- make sure that it's **not a 802.11b** device, as it would slow down the complete wifi network.
+- disable all synchronization services, as they might be using plaintext
+- disable all auto-discovery services (network music players, remote control apps, etc...)
+- make sure there are no known exploits for your device
+- update your apps, especially your browser
+- use a VPN tunnel if possible
+- use a Firewall and only allow the (few) services you trust.
+	- [DroidWall][20] for Android (root required)
+
+**If you are unsure** that there might still be some services running and transmitting plaintext data, **do not connect**.
 
 ## Thanks for being awesome
 These people have contributed to improve this list for everyone. In no particular order.
@@ -262,6 +275,8 @@ These people have contributed to improve this list for everyone. In no particula
 [4]:http://r0cket.org/
 [5]:https://www.noisebridge.net/wiki/Passport
 [6]:https://en.wikipedia.org/wiki/Schuko
+
+[20]:https://play.google.com/store/apps/details?id=com.googlecode.droidwall.free
 
 [100]:https://twitter.com/Astarioth
 [101]:https://twitter.com/N4mes
