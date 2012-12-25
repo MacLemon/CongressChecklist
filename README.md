@@ -134,6 +134,7 @@ Your personal medication does not belong on the public interwebs for your privac
 - Cap, wool cap
 - Umbrealla
 - Comfortable shoes (You'll make a lot of distance-units during your stay)
+- Plastic bag to separate laundry from clean clothes in your luggage
 
 
 
@@ -168,6 +169,8 @@ Your personal medication does not belong on the public interwebs for your privac
 		- USB-Lightning (one each)
 	- Most Android phones
 		- USB-micro USB cable
+- SIM cards (your usual one, local german SIM, CCC SIM)
+- Apple certified SIM eject tool (aka bent paperclip) to swap SIM cards
 - A portable battery pack so you can charge on the go. (And the necessary cable to recharge that battery pack overnight.)
 - WiFi Router/Firewall (to connect to the hotel Wifi/Network)
 - Photo camera
