@@ -82,6 +82,7 @@ If you need help, just call for help, there are many, many people around to help
 - Tampons
 - Sanitary Towels
 - Condoms
+- Lubricant (water based to be compatible with condoms)
 - Disinfectants
 - Soap
 - deodorant, antiperspirant
@@ -111,6 +112,7 @@ If you need help, just call for help, there are many, many people around to help
 - Contraceptives
 - Caffeine pills (In case you don't like Mate and nobody knows if you can actually drink the coffee served there.)
 - Something for your stomach (if you've got a nervous digestive system when under stress, while flying or generally travelling)
+- Bepanthen
 
 
 #### Personal medication
