@@ -50,8 +50,16 @@ General considerations to make the congress a worthwhile experience for everone,
 ### Emergency information
 In case of an accident or other emergency condition carry a piece of information whom to contact or any special medical inforation that might be viable to your survival/first aid/medical staff.
 
-Emergency Information for 29C3:
-- 
+
+#### Emergency Information for 29C3:
+29C3 Conflict helpers: Call local DECT/GSM 113
+29C3 Securiy: Call local DECT/GSM 110
+29C3 organizers: 29c3-orga@cccv.de
+Local law enforcement in Hamburg: 110 or +49 40 4286 - 51410
+Local sexual assault hotline in Hamburg: +49 40 - 255566 (http://www.frauennotruf-hamburg.de)
+Hamburg Police Department: +49 
+Hamburg Fire Department: +49 
+Hamburg Ambulance: +49 
 
 
 
