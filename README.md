@@ -14,6 +14,7 @@ General considerations to make the congress a worthwhile experience for everone,
 - If you spot somebody not being excellent to someone else, remind them to be excellent and have them apologi(s|z)e to the insulted part(y|ies).
 - If you don't want to be called $swearword, don't behave like one.
 - Help each other out
+- Read the [Anti Harrassment Policy][3] and live by it :-)
 
 
 ## Things to do before travelling
@@ -214,3 +215,4 @@ Also have those tunnels configured on ALL the devices you intend to use, and hav
 ## Links
 [1]:https://events.ccc.de/congress/2012/wiki/How_To_Survive 
 [2]:https://www.eventphone.de/
+[3]:https://events.ccc.de/congress/2012/wiki/29C3_Anti-Harassment_Policy
