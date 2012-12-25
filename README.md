@@ -251,7 +251,7 @@ It is not recommended to connect your smartphone to the congress wifi, if you st
 - update your apps, especially your browser
 - use a VPN tunnel if possible
 - use a Firewall and only allow the (few) services you trust.
-	- [DroidWall[20] for Android (root required)
+	- [DroidWall][20] for Android (root required)
 
 **If you are unsure** that there might still be some services running and transmitting plaintext data, **do not connect**.
 
