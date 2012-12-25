@@ -251,7 +251,7 @@ It is not recommended to connect your smartphone to the congress wifi, if you st
 - update your apps, especially your browser
 - use a VPN tunnel if possible
 - use a Firewall and only allow the (few) services you trust.
-	- DroidWall[20] for Android (root required)
+	- [DroidWall[20] for Android (root required)
 
 **If you are unsure** that there might still be some services running and transmitting plaintext data, **do not connect**.
 
@@ -273,7 +273,7 @@ These people have contributed to improve this list for everyone. In no particula
 [5]:https://www.noisebridge.net/wiki/Passport
 [6]:https://en.wikipedia.org/wiki/Schuko
 
-[20] https://play.google.com/store/apps/details?id=com.googlecode.droidwall.free
+[20]:https://play.google.com/store/apps/details?id=com.googlecode.droidwall.free
 
 [100]:https://twitter.com/Astarioth
 [101]:https://twitter.com/N4mes
