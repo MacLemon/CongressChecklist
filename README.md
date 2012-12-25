@@ -8,6 +8,8 @@ List of things to do, to pack and tips on attending a congress, especially Chaos
 
 ## Humans
 General considerations to make the congress a worthwhile experience for everone, humans, robots and aliens alike.
+You'll also find list of all the nice humans who have contributed to this list at the bottom.
+
 
 ### Manners
 - Be excellent to each other
@@ -15,6 +17,8 @@ General considerations to make the congress a worthwhile experience for everone,
 - If you don't want to be called $swearword, don't behave like one.
 - Help each other out
 - Read the [Anti Harrassment Policy][3] and live by it :-)
+- Ask if it is ok to take a picture BEFORE taking the picture.
+
 
 
 ## Things to do before travelling
@@ -222,9 +226,17 @@ Have at least one trusted, working and tested VPN endpoint available for tunneli
 Also have those tunnels configured on ALL the devices you intend to use, and have it tested. That includes your Laptops, phones, tablets, servers, fridge, etc.
 
 
+## Thanks for being awesome
+These people have contributed to improve this list for everyone. In no particular order.
+
+- [Astarioth][100]
+
+
 
 
 ## Links
 [1]:https://events.ccc.de/congress/2012/wiki/How_To_Survive 
 [2]:https://www.eventphone.de/
 [3]:https://events.ccc.de/congress/2012/wiki/29C3_Anti-Harassment_Policy
+
+[100]:https://twitter.com/Astarioth
