@@ -132,6 +132,7 @@ Your personal medication does not belong on the public interwebs for your privac
 - Jacket (wind proof, at least somewhat water resistant)
 - Cap, wool cap
 - Umbrealla
+- Comfortable shoes (You'll make a lot of distance-units during your stay)
 
 
 
