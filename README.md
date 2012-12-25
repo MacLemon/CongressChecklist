@@ -39,6 +39,7 @@ You'll also find list of all the nice humans who have contributed to this list a
 - Driver's license (even an international one)
 - Hotel booking
 - Ham radio license
+- Hackerspace passport[5]
 
 
 
@@ -242,6 +243,7 @@ These people have contributed to improve this list for everyone. In no particula
 [2]:https://www.eventphone.de/
 [3]:https://events.ccc.de/congress/2012/wiki/29C3_Anti-Harassment_Policy
 [4]:http://r0cket.org/
+[5]:https://www.noisebridge.net/wiki/Passport
 
 [100]:https://twitter.com/Astarioth
 [101]:https://twitter.com/N4mes
