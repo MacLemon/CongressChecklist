@@ -168,6 +168,7 @@ Your personal medication does not belong on the public interwebs for your privac
 	- Most Android phones
 		- USB-micro USB cable
 - SIM cards (your usual one, local german SIM, CCC SIM)
+- Apple certified SIM eject tool (aka bent paperclip) to swap SIM cards
 - A portable battery pack so you can charge on the go. (And the necessary cable to recharge that battery pack overnight.)
 - WiFi Router/Firewall (to connect to the hotel Wifi/Network)
 - Photo camera
