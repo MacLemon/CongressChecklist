@@ -183,6 +183,8 @@ Your personal medication does not belong on the public interwebs for your privac
 - Monitor adapters (VGA, DVI, mini Displayport) (Especially for the Mac users. ;-) You may need them for your presentation or lightningtalk.
 - Remote control for your presentation/lightningtalk
 	- Also check the batteries in the remote
+- Tablet computer, iPad, Android table, Microsoft surface
+- Kindle
 
 
 ### Other gear
