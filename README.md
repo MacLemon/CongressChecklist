@@ -137,6 +137,7 @@ Your personal medication does not belong on the public interwebs for your privac
 - Charger for Laptop 
 	- Mac: Small Duck-head and long (Schuko Plug) cord
 	- Mac: MagSafe to MagSafe 2 Adapter
+- Plug adaptor from your country of origin to Schuko[6]
 - 3* or 5* Extension (230V≈ @50Hz) with Schuko Plug (and optional switch)
 - Simple extension cord (230V @50Hz, Schuko Plug)
 - USB Sticks
@@ -244,6 +245,7 @@ These people have contributed to improve this list for everyone. In no particula
 [3]:https://events.ccc.de/congress/2012/wiki/29C3_Anti-Harassment_Policy
 [4]:http://r0cket.org/
 [5]:https://www.noisebridge.net/wiki/Passport
+[6]:https://en.wikipedia.org/wiki/Schuko
 
 [100]:https://twitter.com/Astarioth
 [101]:https://twitter.com/N4mes
