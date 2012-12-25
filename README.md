@@ -160,6 +160,7 @@ Your personal medication does not belong on the public interwebs for your privac
 		- USB-Lightning (one each)
 	- Most Android phones
 		- USB-micro USB cable
+- A portable battery pack so you can charge on the go. (And the necessary cable to recharge that battery pack overnight.)
 - WiFi Router/Firewall (to connect to the hotel Wifi/Network)
 - Photo camera
 	- batteries
