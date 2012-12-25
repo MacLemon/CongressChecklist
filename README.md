@@ -134,6 +134,7 @@ Your personal medication does not belong on the public interwebs for your privac
 - Cap, wool cap
 - Umbrealla
 - Comfortable shoes (You'll make a lot of distance-units during your stay)
+- Plastic bag to separate laundry from clean clothes in your luggage
 
 
 
