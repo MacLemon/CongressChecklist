@@ -90,6 +90,7 @@ If you need help, just call for help, there are many, many people around to help
 - Hairbrush/comb (to avoid bad-hair-days)
 - hair-band (Zopfringerl) to tame your mane
 - handkerchiefs
+- Towel. Never hitchhike the Galaxy without one.
 
 
 ### Cosmetics
