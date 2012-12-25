@@ -40,7 +40,7 @@ You'll also find list of all the nice humans who have contributed to this list a
 - Passport or other kind of photo ID (Personalausweis)
 - Driver's license (even an international one)
 - Hotel booking
-- Ham radio license
+- Ham radio license (CEPT license)
 
 
 
@@ -191,6 +191,7 @@ Your personal medication does not belong on the public interwebs for your privac
 	- Also check the batteries in the remote
 - Tablet computer, iPad, Android table, Microsoft surface
 - Kindle
+- Ham radio equipment, portable
 
 
 ### Other gear
