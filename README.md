@@ -9,7 +9,7 @@ This list is irregularly updated (and pushed). You may want to refresh regularly
 
 
 ## Humans
-General considerations to make the congress a worthwhile experience for everone, humans, robots and aliens alike.
+General considerations to make the congress a worthwhile experience for everyone, humans, robots and aliens alike.
 You'll also find list of all the nice humans who have contributed to this list at the bottom.
 
 
@@ -187,7 +187,7 @@ Your personal medication does not belong on the public interwebs for your privac
 - Antenna wire for WiFi or ham radio equipment
 - 3.5mm jack splitter (so you can watch a movie together on the train)
 - Headphones (so you don't have to talk to other carbon units while travelling)
-- [r0cket][4], fully charged (needs a micro USB cable for charging/programming)
+- [r0cket][4], fully charged (needs a micro USB cable for charging/programming1)
 - Monitor adapters (VGA, DVI, mini Displayport) (Especially for the Mac users. ;-) You may need them for your presentation or lightningtalk.
 - Remote control for your presentation/lightningtalk
 	- Also check the batteries in the remote
@@ -242,12 +242,12 @@ Also have those tunnels configured on ALL the devices you intend to use, and hav
 ## Thanks for being awesome
 These people have contributed to improve this list for everyone. In no particular order.
 
-- [Astarioth][100]
-- [N4mes][101]
-- [towo][102]
-- [michaelem][103]
+- [@Astarioth][100]
+- [@N4mes][101]
+- [@towo][102]
+- [@michaelem][103]
 - [devdsp][104]
-
+- [@meepVIE][105]
 
 ## Links
 [1]:https://events.ccc.de/congress/2012/wiki/How_To_Survive 
@@ -262,3 +262,4 @@ These people have contributed to improve this list for everyone. In no particula
 [102]:https://twitter.com/towo
 [103]:https://twitter.com/michaelem
 [104]:https://github.com/devdsp
+[105]:https://github.com/meepVIE
