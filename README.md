@@ -187,7 +187,7 @@ Your personal medication does not belong on the public interwebs for your privac
 - Antenna wire for WiFi or ham radio equipment
 - 3.5mm jack splitter (so you can watch a movie together on the train)
 - Headphones (so you don't have to talk to other carbon units while travelling)
-- [r0cket][4], fully charged
+- [r0cket][4], fully charged (needs a micro USB cable for charging/programming)
 - Monitor adapters (VGA, DVI, mini Displayport) (Especially for the Mac users. ;-) You may need them for your presentation or lightningtalk.
 - Remote control for your presentation/lightningtalk
 	- Also check the batteries in the remote
