@@ -40,12 +40,8 @@ You'll also find list of all the nice humans who have contributed to this list a
 - Passport or other kind of photo ID (Personalausweis)
 - Driver's license (even an international one)
 - Hotel booking
-<<<<<<< HEAD
 - Ham radio license (CEPT license)
-=======
-- Ham radio license
-- Hackerspace passport[5]
->>>>>>> 7bcb1e55feaa42a1288fd874bc7bb3ff033bbed3
+- [Hackerspace passport][5]
 
 
 
@@ -144,11 +140,11 @@ Your personal medication does not belong on the public interwebs for your privac
 ### Gear
 - Laptop (with a working battery)
 - Charger for Laptop 
-	- Mac: Small Duck-head and long (Schuko Plug) cord
+	- Mac: Small Duck-head and long ([Schuko Plug][6]) cord
 	- Mac: MagSafe to MagSafe 2 Adapter
-- Plug adaptor from your country of origin to Schuko[6]
-- 3* or 5* Extension (230V≈ @50Hz) with Schuko Plug (and optional switch)
-- Simple extension cord (230V @50Hz, Schuko Plug)
+- Plug adaptor from your country of origin to [Schuko Plug][6]
+- 3* or 5* Extension (230V≈ @50Hz) with [Schuko Plug][6] (and optional switch)
+- Simple extension cord (230V @50Hz, [Schuko Plug][6])
 - USB Sticks
 	- Put an OWNER.txt file on them with information on how to contact you in case one gets lost accidentally. (Twitter, phone (for example DECT, 29C3 GSM extensions), email, name of the assembly you're well known at, owl, raven)
 	- For devices with private information be sure to encrypt them! (TrueCrypt, GPG, FileVault)
@@ -250,6 +246,7 @@ These people have contributed to improve this list for everyone. In no particula
 - [N4mes][101]
 - [towo][102]
 - [michaelem][103]
+- [devdsp][104]
 
 
 ## Links
@@ -264,3 +261,4 @@ These people have contributed to improve this list for everyone. In no particula
 [101]:https://twitter.com/N4mes
 [102]:https://twitter.com/towo
 [103]:https://twitter.com/michaelem
+[104]:https://github.com/devdsp
