@@ -160,6 +160,7 @@ Your personal medication does not belong on the public interwebs for your privac
 		- For a local GSM network at the venue
 	- DECT phone (for the local wireless phone network)
 	- Be sure to register your extension number at [Eventphone][2]
+- DVB-T dongle, there might be local DVB-T transmitter for the streams
 - Chargers for all those phones, or at least matching wires if you can charge over USB.
 	- iPhone, iPhone 3G, iPhone 3GS, iPhone 4, iPhone 4S, iPad, iPad 2, iPad 3 (The new iPad)
 		- USB-30 Pin dock connector (one each)
