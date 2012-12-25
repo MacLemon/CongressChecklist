@@ -179,7 +179,7 @@ Your personal medication does not belong on the public interwebs for your privac
 - Antenna wire for WiFi or ham radio equipment
 - 3.5mm jack splitter (so you can watch a movie together on the train)
 - Headphones (so you don't have to talk to other carbon units while travelling)
-- 
+- [r0cket][4], fully charged
 
 
 ### Other gear
@@ -230,6 +230,7 @@ These people have contributed to improve this list for everyone. In no particula
 
 - [Astarioth][100]
 - [N4mes][101]
+- [towo][102]
 
 
 
@@ -237,6 +238,8 @@ These people have contributed to improve this list for everyone. In no particula
 [1]:https://events.ccc.de/congress/2012/wiki/How_To_Survive 
 [2]:https://www.eventphone.de/
 [3]:https://events.ccc.de/congress/2012/wiki/29C3_Anti-Harassment_Policy
+[4]:http://r0cket.org/
 
 [100]:https://twitter.com/Astarioth
 [101]:https://twitter.com/N4mes
+[102]:https://twitter.com/towo
