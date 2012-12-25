@@ -98,7 +98,8 @@ If you need help, just call for help, there are many, many people around to help
 - Nail scissors
 - Nail file
 - Razor (with spare blades)
-
+- Lipstick/Lipgloss
+- Lipbalm
 
 
 ### Medication
@@ -135,7 +136,8 @@ Your personal medication does not belong on the public interwebs for your privac
 - Umbrealla
 - Comfortable shoes (You'll make a lot of distance-units during your stay)
 - Plastic bag to separate laundry from clean clothes in your luggage
-
+- Gloves
+- Scarf
 
 
 ### Gear
