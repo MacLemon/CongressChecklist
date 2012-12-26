@@ -165,6 +165,7 @@ Your personal medication does not belong on the public interwebs for your privac
 	- make note of the filesystem used so you know if they will work on the system of the person you want to exchange data with. (FAT32 is a safe bet to work everywhere.)
 	- Mac: NTFS, ZFS, Ext can be read, but not written to without 3rd party software. FAT, ExFAT, HFS+(J), HFSX are fine for current OS X versions.
 - Ethernet cords (Cat5e) of multiple lenths. Maybe have a spare to tether a friend.
+- Cat5 o'nine tails
 - Torch (Have spare batteries or rechargables and a matching charger that works with 230V≈ @50Hz)
 - LED throwies
 - Phones
@@ -205,13 +206,14 @@ Your personal medication does not belong on the public interwebs for your privac
 - Antenna wire for WiFi or ham radio equipment
 - 3.5mm jack splitter (so you can watch a movie together on the train)
 - Headphones (so you don't have to talk to other carbon units while travelling)
-- [r0cket][4], fully charged (needs a micro USB cable for charging/programming1)
+- [r0cket][4], fully charged (needs a micro USB cable for charging/programming)
 - Monitor adapters (VGA, DVI, mini Displayport) (Especially for the Mac users. ;-) You may need them for your presentation or lightningtalk.
 - Remote control for your presentation/lightningtalk
 	- Also check the batteries in the remote
-- Tablet computer, iPad, Android table, Microsoft surface
+- Tablet computer, iPad, Android tablet, Microsoft surface
 - Kindle
 - Ham radio equipment, portable
+- Infrared, Bluetooth or radio remote (for presentations)
 
 
 ### Other gear
@@ -223,6 +225,7 @@ Your personal medication does not belong on the public interwebs for your privac
 - any other tools you may need (even if unlikely)
 - analog notebook (dead tree style)
 - pen, pencil, quill
+- rubber ducks
 - musical instruments (guitar, trumpe, grand piano, laser harp, cajón, gameboy)
 - cable ties
 - duct tape or gaffer tape
