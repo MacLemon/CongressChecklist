@@ -224,6 +224,7 @@ Your personal medication does not belong on the public interwebs for your privac
 - pen, pencil, quill
 - musical instruments (guitar, trumpe, grand piano, laser harp, cajón, gameboy)
 - cable ties
+- duct tape or gaffer tape
 
 
 ## Securing your devices
