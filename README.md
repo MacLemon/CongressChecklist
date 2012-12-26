@@ -279,6 +279,7 @@ These people have contributed to improve this list for everyone. In no particula
 - [MarioVilas][106]
 - [schwindp][107]
 - [oe1rfc][108]
+- [bekassine][109]
 
 ## Links
 [1]:https://events.ccc.de/congress/2012/wiki/How_To_Survive 
@@ -296,7 +297,7 @@ These people have contributed to improve this list for everyone. In no particula
 [103]:https://twitter.com/michaelem
 [104]:https://github.com/devdsp
 [105]:https://twitter.com/meep_VIE
-[106]:https://twitter.com/meep_VIE
-[107]:https://github.com/MarioVilas
-[108]:https://github.com/schwindp
-[109]:https://github.com/oe1rfc
+[106]:https://github.com/MarioVilas
+[107]:https://github.com/schwindp
+[108]:https://github.com/oe1rfc
+[109]:https://twitter.com/bekassine
