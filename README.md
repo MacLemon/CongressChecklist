@@ -82,7 +82,7 @@ If you need help, just call for help, there are many, many people around to help
 - Conditioner
 - Tampons
 - Sanitary Towels
-- Condoms, Dental Dams and other protective gear
+- Condoms, Dental Dams and other protective gear (Make sure the condoms are not beyond their usage date! (Yes, it really happens…))
 - Lubricant (water based to be compatible with condoms)
 - Disinfectants
 - Soap
@@ -198,6 +198,7 @@ Your personal medication does not belong on the public interwebs for your privac
 - RS232 cable
 - USB A-B cable
 - mini USB cable
+- tesla coils
 - micro USB cable
 - Firewire (400, 800) cable
 - Antenna wire for WiFi or ham radio equipment
@@ -221,6 +222,7 @@ Your personal medication does not belong on the public interwebs for your privac
 - any other tools you may need (even if unlikely)
 - analog notebook (dead tree style)
 - pen, pencil, quill
+- musical instruments (guitar, trumpe, grand piano, laser harp, cajón, gameboy)
 
 
 ## Securing your devices
