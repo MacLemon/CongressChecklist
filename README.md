@@ -91,6 +91,15 @@ If you need help, just call for help, there are many, many people around to help
 - hair-band (Zopfringerl) to tame your mane
 - handkerchiefs
 - Towel. Never hitchhike the Galaxy without one.
+- Contact lenses
+	- cleaning fluid
+	- contact lens container
+	- replacement contact lenses
+	- replacement glasses
+	- eye drops
+- glasses
+- spectacle case
+- cleaning cloth
 
 
 ### Cosmetics
@@ -267,6 +276,9 @@ These people have contributed to improve this list for everyone. In no particula
 - [@michaelem][103]
 - [devdsp][104]
 - [@meep_VIE][105]
+- [MarioVilas][106]
+- [schwindp][107]
+- [oe1rfc][108]
 
 ## Links
 [1]:https://events.ccc.de/congress/2012/wiki/How_To_Survive 
@@ -284,3 +296,7 @@ These people have contributed to improve this list for everyone. In no particula
 [103]:https://twitter.com/michaelem
 [104]:https://github.com/devdsp
 [105]:https://twitter.com/meep_VIE
+[106]:https://twitter.com/meep_VIE
+[107]:https://github.com/MarioVilas
+[108]:https://github.com/schwindp
+[109]:https://github.com/oe1rfc
