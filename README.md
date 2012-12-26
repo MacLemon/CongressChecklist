@@ -283,6 +283,7 @@ These people have contributed to improve this list for everyone. In no particula
 - [schwindp][107]
 - [oe1rfc][108]
 - [bekassine][109]
+- [Monikae][110]
 
 ## Links
 [1]:https://events.ccc.de/congress/2012/wiki/How_To_Survive 
@@ -305,3 +306,4 @@ These people have contributed to improve this list for everyone. In no particula
 [107]:https://github.com/schwindp
 [108]:https://github.com/oe1rfc
 [109]:https://twitter.com/bekassine
+[110]:https://github.com/Monikae
