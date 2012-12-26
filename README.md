@@ -131,8 +131,10 @@ If you need help, just call for help, there are many, many people around to help
 #### Personal medication
 Your personal medication does not belong on the public interwebs for your privacy. This is just a reminder to pack it. Please do not include your personal medications in pull requests. :-)
 
-
-
+### Schedule
+- Have a look at the [conference schedule](http://events.ccc.de/congress/2012/wiki/Schedule) and maybe make a preelection of talks you really "have to", "want to" or "would be nice to" see
+- be sure to schedule a period of time to get your T-Shirt or pullover(when preordered in the first two days)!
+- have a sense of how the trains are going from the station near by, enter Dammtor here: http://geofox.de/jsf/stationSchedule.seam direct connections to the airport, enter Dammtor at start and Airport
 
 ### Clothing
 - At least ONE clean shirt for each day you stay, plus two for travelling to and from congress. (nerdy print is always welcome)
