@@ -10,7 +10,7 @@ This list is irregularly updated (and pushed). You may want to refresh regularly
 
 ## Humans
 General considerations to make the congress a worthwhile experience for everyone, humans, robots and aliens alike.
-You'll also find list of all the nice humans who have contributed to this list at the bottom.
+You'll also find a list of all the nice humans who have contributed to this list at the bottom.
 
 
 ### Manners
@@ -27,6 +27,7 @@ You'll also find list of all the nice humans who have contributed to this list a
 
 - Charge ALL the batteries!
 - Make backups
+- Bonus points for even testing restore
 - Update all the software on your devices
 - Send a pull request to this list for all the things I did not think of.
 
@@ -64,7 +65,7 @@ If you're in an emergency shout HELP!
 If you need help, just call for help, there are many, many people around to help you.
 
 - 29C3 Conflict helpers: Call local DECT/GSM 113
-- 29C3 Medical Emergency or in case of fire: Cal local DECT/GSM 112 (CERT)
+- 29C3 Medical Emergency or in case of fire: Call local DECT/GSM 112 (CERT)
 - 29C3 Security: Call local DECT/GSM 110
 - 29C3 organizers: 29c3-orga@cccv.de
 - Local law enforcement in Hamburg: 110 or +49 40 4286 - 51410
@@ -87,7 +88,7 @@ If you need help, just call for help, there are many, many people around to help
 - Disinfectants
 - Soap
 - deodorant, antiperspirant
-- Hairbrush/comb (to avoid bad-hair-days)
+- Hairbrush/comb (to avoid bad hair days)
 - hair-band (Zopfringerl) to tame your mane
 - handkerchiefs
 - Towel. Never hitchhike the Galaxy without one.
@@ -168,7 +169,7 @@ Your personal medication does not belong on the public interwebs for your privac
 - LED throwies
 - Phones
 	- Mobile Phone (GSM) One each
-		- For your normally used SIM card
+		- For your day-to-day SIM card
 		- For an optional SIM card of the country you travel to
 		- For a local GSM network at the venue
 	- DECT phone (for the local wireless phone network)
@@ -204,11 +205,11 @@ Your personal medication does not belong on the public interwebs for your privac
 - Antenna wire for WiFi or ham radio equipment
 - 3.5mm jack splitter (so you can watch a movie together on the train)
 - Headphones (so you don't have to talk to other carbon units while travelling)
-- [r0cket][4], fully charged (needs a micro USB cable for charging/programming1)
+- [r0cket][4], fully charged (needs a micro USB cable for charging/programming)
 - Monitor adapters (VGA, DVI, mini Displayport) (Especially for the Mac users. ;-) You may need them for your presentation or lightningtalk.
-- Remote control for your presentation/lightningtalk
+- Remote control for your presentation / lightning talk
 	- Also check the batteries in the remote
-- Tablet computer, iPad, Android table, Microsoft surface
+- Tablet computer, iPad, Android tablet, Microsoft surface
 - Kindle
 - Ham radio equipment, portable
 
