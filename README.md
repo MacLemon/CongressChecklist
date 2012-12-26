@@ -82,7 +82,7 @@ If you need help, just call for help, there are many, many people around to help
 - Conditioner
 - Tampons
 - Sanitary Towels
-- Condoms
+- Condoms, Dental Dams and other protective gear
 - Lubricant (water based to be compatible with condoms)
 - Disinfectants
 - Soap
