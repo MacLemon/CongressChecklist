@@ -148,6 +148,7 @@ Your personal medication does not belong on the public interwebs for your privac
 - Plastic bag to separate laundry from clean clothes in your luggage
 - Gloves
 - Scarf
+- Swim suite, Bikini, trunks (In case your hotel has a pool)
 
 
 ### Gear
