@@ -223,6 +223,7 @@ Your personal medication does not belong on the public interwebs for your privac
 - analog notebook (dead tree style)
 - pen, pencil, quill
 - musical instruments (guitar, trumpe, grand piano, laser harp, cajón, gameboy)
+- cable ties
 
 
 ## Securing your devices
@@ -284,9 +285,10 @@ These people have contributed to improve this list for everyone. In no particula
 - [MarioVilas][106]
 - [schwindp][107]
 - [oe1rfc][108]
-- [bekassine][109]
+- [@bekassine][109]
 - [Monikae][110]
 - [@fin][111]
+- [@RedPlanetAT][112]
 
 ## Links
 [1]:https://events.ccc.de/congress/2012/wiki/How_To_Survive 
@@ -311,3 +313,4 @@ These people have contributed to improve this list for everyone. In no particula
 [109]:https://twitter.com/bekassine
 [110]:https://github.com/Monikae
 [111]:https://twitter.com/fin
+[112]:https://twitter.com/RedPlanetAT
