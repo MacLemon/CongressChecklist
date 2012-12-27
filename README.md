@@ -297,6 +297,7 @@ These people have contributed to improve this list for everyone. In no particula
 - [Monikae][110]
 - [@fin][111]
 - [@RedPlanetAT][112]
+- [kjellski][113]
 
 ## Links
 [1]:https://events.ccc.de/congress/2012/wiki/How_To_Survive 
@@ -322,3 +323,4 @@ These people have contributed to improve this list for everyone. In no particula
 [110]:https://github.com/Monikae
 [111]:https://twitter.com/fin
 [112]:https://twitter.com/RedPlanetAT
+[113]:https://github.com/kjellski
