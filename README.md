@@ -234,6 +234,7 @@ Your personal medication does not belong on the public interwebs for your privac
 - musical instruments (guitar, trumpe, grand piano, laser harp, cajón, gameboy)
 - cable ties
 - duct tape or gaffer tape
+- knitting needles and yarn (for guerilla knitting/yarn bombing)
 
 
 ## Securing your devices
@@ -301,6 +302,7 @@ These people have contributed to improve this list for everyone. In no particula
 - [@RedPlanetAT][112]
 - [kjellski][113]
 - [@uliwitness][114]
+- [@anked][115]
 
 ## Links
 [1]:https://events.ccc.de/congress/2012/wiki/How_To_Survive 
@@ -329,3 +331,4 @@ These people have contributed to improve this list for everyone. In no particula
 [112]:https://twitter.com/RedPlanetAT
 [113]:https://github.com/kjellski
 [114]:https://twitter.com/uliwitness
+[115]:https://twitter.com/anked
