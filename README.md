@@ -160,6 +160,7 @@ Your personal medication does not belong on the public interwebs for your privac
 - Charger for Laptop 
 	- Mac: Small Duck-head and long ([Schuko Plug][6]) cord
 	- Mac: MagSafe to MagSafe 2 Adapter
+	- Mac: There are also cords that you can plug directly into the MagSafe charger (when removing the duck head) that end in a [Euro Plug][8]. These cables are also often used on electric shavers.
 - Plug adaptor from your country of origin to [Schuko Plug][6]
 - 3* or 5* Extension (230V≈ @50Hz) with [Schuko Plug][6] (and optional switch)
 - Simple extension cord (230V @50Hz, [Schuko Plug][6])
@@ -309,6 +310,7 @@ These people have contributed to improve this list for everyone. In no particula
 [5]:https://www.noisebridge.net/wiki/Passport
 [6]:https://en.wikipedia.org/wiki/Schuko
 [7]:https://itunes.apple.com/at/app/onion-browser/id519296448?l=en&mt=8
+[8]:http://en.wikipedia.org/wiki/Euro_plug
 
 [20]:https://play.google.com/store/apps/details?id=com.googlecode.droidwall.free
 
