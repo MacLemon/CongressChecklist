@@ -136,6 +136,7 @@ Your personal medication does not belong on the public interwebs for your privac
 - be sure to schedule a period of time to get your T-Shirt or pullover(when preordered in the first two days)!
 - have a sense of how the trains are going from the station near by, enter Dammtor here: http://geofox.de/jsf/stationSchedule.seam direct connections to the airport, enter Dammtor at start and Airport
 
+
 ### Clothing
 - At least ONE clean shirt for each day you stay, plus two for travelling to and from congress. (nerdy print is always welcome)
 - At least ONE set of clean underwear for each day you stay, plus two for travelling to and from congress. (Doesn't necessarily need to be in matching pairs, but that if up to you.)
@@ -146,12 +147,12 @@ Your personal medication does not belong on the public interwebs for your privac
 - Hoodies, Pullovers
 - Jacket (wind proof, at least somewhat water resistant)
 - Cap, wool cap
-- Umbrealla
+- Umbrella
 - Comfortable shoes (You'll make a lot of distance-units during your stay)
 - Plastic bag to separate laundry from clean clothes in your luggage
 - Gloves
 - Scarf
-- Swim suite, Bikini, trunks (In case your hotel has a pool)
+- Swim suit, Bikini, trunks (In case your hotel has a pool)
 
 
 ### Gear
@@ -298,6 +299,7 @@ These people have contributed to improve this list for everyone. In no particula
 - [@fin][111]
 - [@RedPlanetAT][112]
 - [kjellski][113]
+- [uliwitness][114]
 
 ## Links
 [1]:https://events.ccc.de/congress/2012/wiki/How_To_Survive 
@@ -324,3 +326,4 @@ These people have contributed to improve this list for everyone. In no particula
 [111]:https://twitter.com/fin
 [112]:https://twitter.com/RedPlanetAT
 [113]:https://github.com/kjellski
+[114]:https://twitter.com/uliwitness
