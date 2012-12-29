@@ -101,6 +101,7 @@ If you need help, just call for help, there are many, many people around to help
 - glasses
 - spectacle case
 - cleaning cloth
+- Oropax or other things to plug into your ears for a good “night”'s sleep.
 
 
 ### Cosmetics
@@ -139,7 +140,7 @@ Your personal medication does not belong on the public interwebs for your privac
 
 ### Clothing
 - At least ONE clean shirt for each day you stay, plus two for travelling to and from congress. (nerdy print is always welcome)
-- At least ONE set of clean underwear for each day you stay, plus two for travelling to and from congress. (Doesn't necessarily need to be in matching pairs, but that if up to you.)
+- At least ONE set of clean underwear for each day you stay, plus two for travelling to and from congress. (Doesn't necessarily need to be in matching pairs, but that is up to you.)
 - At least ONE pair of clean socks/stockings/tights/overknees for each day you stay, plus two for travelling to and from congress.
 - Enough pants/skirts/trousers/dresses/etc. so you can wear clean clothes every day you attend congress. (Even if somebody accidentally (or intentionally) spills a beverage all over you!)
 - Sewing set (needle, thread, spare button for your trousers/skirts/shirts/blouses/etc.)
@@ -263,6 +264,7 @@ Have at least one trusted, working and tested VPN endpoint available for tunneli
 - OpenVPN
 - L2TP/IPSec
 - SSH
+- [SSHuttle][9]
 - iodine (DNS tunnel for those pesky for-pay captive portal WiFi networks)
 - Tor/Vidalia
 
@@ -303,6 +305,7 @@ These people have contributed to improve this list for everyone. In no particula
 - [kjellski][113]
 - [@uliwitness][114]
 - [@anked][115]
+- [badboy][116]
 
 ## Links
 [1]:https://events.ccc.de/congress/2012/wiki/How_To_Survive 
@@ -313,6 +316,7 @@ These people have contributed to improve this list for everyone. In no particula
 [6]:https://en.wikipedia.org/wiki/Schuko
 [7]:https://itunes.apple.com/at/app/onion-browser/id519296448?l=en&mt=8
 [8]:http://en.wikipedia.org/wiki/Euro_plug
+[9]:https://github.com/apenwarr/sshuttle
 
 [20]:https://play.google.com/store/apps/details?id=com.googlecode.droidwall.free
 
@@ -332,3 +336,4 @@ These people have contributed to improve this list for everyone. In no particula
 [113]:https://github.com/kjellski
 [114]:https://twitter.com/uliwitness
 [115]:https://twitter.com/anked
+[116]:https://github.com/badboy
