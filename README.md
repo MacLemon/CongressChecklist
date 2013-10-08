@@ -59,19 +59,19 @@ You'll also find a list of all the nice humans who have contributed to this list
 In case of an accident or other emergency condition carry a piece of information whom to contact or any special medical inforation that might be viable to your survival/first aid/medical staff.
 
 
-#### Emergency Information for 29C3:
+#### Emergency Information for 30C3:
 If you're in an emergency shout HELP!  
 
 If you need help, just call for help, there are many, many people around to help you.
 
 - 29C3 Conflict helpers: Call local DECT/GSM 113
-- 29C3 Medical Emergency or in case of fire: Call local DECT/GSM 112 (CERT)
-- 29C3 Security: Call local DECT/GSM 110
-- 29C3 organizers: 29c3-orga@cccv.de
+- 30C3 Medical Emergency or in case of fire: Call local DECT/GSM 112 (CERT)
+- 30C3 Security: Call local DECT/GSM 110
+- 30C3 organizers: 30c3-orga@cccv.de
 - Local law enforcement in Hamburg: 110 or +49 40 4286 - 51410
 - Local sexual assault hotline in Hamburg: +49 40 - 255566 (http://www.frauennotruf-hamburg.de)
-- Hamburg Fire Department: +49 40 42851-0 (BETTER USE 112 ON YOUR non-29C3 PHONE)
-- Hamburg Ambulance: +49 40 42851-0 (BETTER USE 112 ON YOUR non-29C3 PHONE)
+- Hamburg Fire Department: +49 40 42851-0 (BETTER USE 112 ON YOUR non-30C3 PHONE)
+- Hamburg Ambulance: +49 40 228022  (BETTER USE 112 ON YOUR non-30C3 PHONE)
 
 
 
@@ -166,7 +166,7 @@ Your personal medication does not belong on the public interwebs for your privac
 - 3* or 5* Extension (230V≈ @50Hz) with [Schuko Plug][6] (and optional switch)
 - Simple extension cord (230V @50Hz, [Schuko Plug][6])
 - USB Sticks
-	- Put an OWNER.txt file on them with information on how to contact you in case one gets lost accidentally. (Twitter, phone (for example DECT, 29C3 GSM extensions), email, name of the assembly you're well known at, owl, raven)
+	- Put an OWNER.txt file on them with information on how to contact you in case one gets lost accidentally. (Twitter, phone (for example DECT, 30C3 GSM extensions), email, name of the assembly you're well known at, owl, raven)
 	- For devices with private information be sure to encrypt them! (TrueCrypt, GPG, FileVault)
 	- make note of the filesystem used so you know if they will work on the system of the person you want to exchange data with. (FAT32 is a safe bet to work everywhere.)
 	- Mac: NTFS, ZFS, Ext can be read, but not written to without 3rd party software. FAT, ExFAT, HFS+(J), HFSX are fine for current OS X versions.
