@@ -15,7 +15,7 @@ You'll also find a list of all the nice humans who have contributed to this list
 
 ### Manners
 - Be excellent to each other
-- If you spot somebody not being excellent to someone else, remind them to be excellent and have them apologi(s|z)e to the insulted part(y|ies), but only if the insulted wish to be apologi(s|z)ed to. Sometimes the insulted party will just want to move on and not have any further contact with someone who was unexcellent to them.
+- If you spot somebody not being excellent to someone else, remind them to be excellent and have them apologi(s|z)e to the insulted part(y|ies), but only if the insulted wish to be apologi(s|z)ed to. Sometimes the insulted party will just want to move on and not have any further contact with someone who was coarse to them.
 - If you don't want to be called $swearword, don't behave like one.
 - Help each other out
 - Read the “[Anti Harrassment Policy][3]” and live by it :-)
