@@ -316,8 +316,8 @@ These people have contributed to improve this list for everyone. In no particula
 - [@uliwitness][114]
 - [@anked][115]
 - [badboy][116]
-- [nic_ko][117]
-- [schwindp][118]
+- [@nic_ko][117]
+
 
 ## Links
 [1]:https://events.ccc.de/congress/2012/wiki/How_To_Survive <!--- Needs updated link -->
@@ -327,7 +327,7 @@ These people have contributed to improve this list for everyone. In no particula
 [5]:https://www.noisebridge.net/wiki/Passport
 [6]:https://en.wikipedia.org/wiki/Schuko
 [7]:https://itunes.apple.com/at/app/onion-browser/id519296448?l=en&mt=8
-[8]:http://en.wikipedia.org/wiki/Euro_plug
+[8]:https://en.wikipedia.org/wiki/Euro_plug
 [9]:https://github.com/apenwarr/sshuttle
 [10]:https://www.blau.de/
 [11]:https://en.wikipedia.org/wiki/Sim_card#Formats "SIM card formats"
@@ -351,5 +351,4 @@ These people have contributed to improve this list for everyone. In no particula
 [114]:https://twitter.com/uliwitness
 [115]:https://twitter.com/anked
 [116]:https://github.com/badboy
-[117]:http://twitter.com/nic_ko
-[118]:https://github.com/schwindp
+[117]:https://twitter.com/nic_ko
