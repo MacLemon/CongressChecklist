@@ -140,9 +140,9 @@ Your personal medication does not belong on the public interwebs for your privac
 
 
 ### Clothing
-- At least ONE clean shirt for each day you stay, plus two for travelling to and from congress. (nerdy print is always welcome)
-- At least ONE set of clean underwear for each day you stay, plus two for travelling to and from congress. (Doesn't necessarily need to be in matching pairs, but that is up to you.)
-- At least ONE pair of clean socks/stockings/tights/overknees for each day you stay, plus two for travelling to and from congress.
+- At least ONE clean shirt for each day you stay, plus two for traveling to and from congress. (nerdy print is always welcome)
+- At least ONE set of clean underwear for each day you stay, plus two for traveling to and from congress. (Doesn't necessarily need to be in matching pairs, but that is up to you.)
+- At least ONE pair of clean socks/stockings/tights/overknees for each day you stay, plus two for traveling to and from congress.
 - Enough pants/skirts/trousers/dresses/etc. so you can wear clean clothes every day you attend congress. (Even if somebody accidentally (or intentionally) spills a beverage all over you!)
 - Sewing set (needle, thread, spare button for your trousers/skirts/shirts/blouses/etc.)
 - Long sleeve shirts
@@ -171,9 +171,9 @@ Your personal medication does not belong on the public interwebs for your privac
 	- For devices with private information be sure to encrypt them! (TrueCrypt, GPG, FileVault)
 	- make note of the filesystem used so you know if they will work on the system of the person you want to exchange data with. (FAT32 is a safe bet to work everywhere.)
 	- Mac: NTFS, ZFS, Ext can be read, but not written to without 3rd party software. FAT, ExFAT, HFS+(J), HFSX are fine for current OS X versions.
-- Ethernet cords (Cat5e) of multiple lenths. Maybe have a spare to tether a friend.
+- Ethernet cords (Cat5e) of multiple lengths. Maybe have a spare to tether a friend.
 - Cat5 o'nine tails
-- Torch (Have spare batteries or rechargables and a matching charger that works with 230V≈ @50Hz)
+- Torch (Have spare batteries or rechargeables and a matching charger that works with 230V≈ @50Hz)
 - LED throwies
 - Phones
 	- Mobile Phone (GSM) One each
@@ -212,7 +212,7 @@ Your personal medication does not belong on the public interwebs for your privac
 - Firewire (400, 800) cable
 - Antenna wire for WiFi or ham radio equipment
 - 3.5mm jack splitter (so you can watch a movie together on the train)
-- Headphones (so you don't have to talk to other carbon units while travelling)
+- Headphones (so you don't have to talk to other carbon units while traveling)
 - [r0cket][4], fully charged (needs a micro USB cable for charging/programming)
 - Monitor adapters (VGA, DVI, mini Displayport) (Especially for the Mac users. ;-) You may need them for your presentation or lightningtalk.
 - Remote control for your presentation / lightning talk
@@ -233,11 +233,11 @@ Your personal medication does not belong on the public interwebs for your privac
 - analog notebook (dead tree style)
 - pen, pencil, quill
 - rubber ducks
-- musical instruments (guitar, trumpe, grand piano, laser harp, cajón, gameboy, ukulele)
+- musical instruments (guitar, trumpet, grand piano, laser harp, cajón, gameboy, ukulele)
 - Electronic Tuner (with fresh batteries)
 - cable ties
 - duct tape or gaffer tape
-- knitting needles and yarn (for guerilla knitting/yarn bombing)
+- knitting needles and yarn (for guerrilla knitting/yarn bombing)
 
 
 ## Securing your devices
