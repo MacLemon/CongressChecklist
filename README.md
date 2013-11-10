@@ -57,7 +57,7 @@ You'll also find a list of all the nice humans who have contributed to this list
 
 
 ### Emergency information
-In case of an accident or other emergency condition carry a piece of information whom to contact or any special medical inforation that might be viable to your survival/first aid/medical staff.
+In case of an accident or other emergency condition carry a piece of information whom to contact or any special medical information that might be viable to your survival/first aid/medical staff.
 
 
 #### Emergency Information for 30C3:
