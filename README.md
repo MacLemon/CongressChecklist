@@ -31,6 +31,7 @@ You'll also find a list of all the nice humans who have contributed to this list
 - Update all the software on your devices
 - You DID make backups of all your devices, didn't you? That includes portable Computers, Servers, mobile phones, tables, navigation devices, wristwatches and all your other $gadgets.
 - Send a pull request to this list for all the things I did not think of.
+- Feed the guineapigs
 
 
  
@@ -293,7 +294,7 @@ It is not recommended to connect your smartphone to the congress wifi, if you st
 Make sure you get a [right sized SIM card][11] for your GSM mobile phone!
 If you need help with buying a SIM card, ask a local for assistance. They're friendly!
 
-- [Blau.de][118]
+- [Blau.de][10]
 
 
 ## Thanks for being awesome
