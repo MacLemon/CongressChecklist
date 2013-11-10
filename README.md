@@ -219,6 +219,7 @@ Your personal medication does not belong on the public interwebs for your privac
 	- Also check the batteries in the remote
 - Tablet computer, iPad, Android tablet, Microsoft surface
 - Kindle
+- An actual book (for those offline blackout moments)
 - Ham radio equipment, portable
 - Infrared, Bluetooth or radio remote (for presentations)
 
