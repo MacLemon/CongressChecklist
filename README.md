@@ -245,7 +245,7 @@ Read the [How to survive guide][1] in the Congress Wiki. There are many excellen
 
 
 ### Backups
-Make fresh backups of ALL the devices you bring to CCCongress.
+Make fresh backups of ALL the devices you bring to CCCongress. Test that you can actually restore data from those backups!
 
 
 ### BIOS/EFI Password
