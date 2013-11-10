@@ -29,6 +29,7 @@ You'll also find a list of all the nice humans who have contributed to this list
 - Make backups
 - Bonus points for even testing restore
 - Update all the software on your devices
+- You DID make backups of all your devices, didn't you? That includes portable Computers, Servers, mobile phones, tables, navigation devices, wristwatches and all your other $gadgets.
 - Send a pull request to this list for all the things I did not think of.
 
 
@@ -37,7 +38,7 @@ You'll also find a list of all the nice humans who have contributed to this list
 
 ### Documents
 - Train/plane tickets (including verification documents for self-printed DB tickets, like your credit card or Personalausweis)
-- Congress tickets (printed or in iOS 6 passbook)
+- Congress tickets (printed or in iOS passbook)
 - Passport or other kind of photo ID (Personalausweis)
 - Driver's license (even an international one)
 - Hotel booking
