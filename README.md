@@ -3,7 +3,7 @@
 
 List of things to do, to pack and tips on attending a congress, especially Chaos Communication Congress.
 
-This list is irregularly updated (and pushed). You may want to refresh regularly. :-)
+This list is irregularly updated (and pushed). You may want to refresh regularly. :-) Pull requests are welcome!
 
 ---
 
@@ -308,6 +308,7 @@ These people have contributed to improve this list for everyone. In no particula
 - [@anked][115]
 - [badboy][116]
 - [nic_ko][117]
+- [schwindp][118]
 
 ## Links
 [1]:https://events.ccc.de/congress/2012/wiki/How_To_Survive 
@@ -340,3 +341,4 @@ These people have contributed to improve this list for everyone. In no particula
 [115]:https://twitter.com/anked
 [116]:https://github.com/badboy
 [117]:http://twitter.com/nic_ko
+[118]:https://github.com/schwindp
