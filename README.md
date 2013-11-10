@@ -289,6 +289,13 @@ It is not recommended to connect your smartphone to the congress wifi, if you st
 
 **If you are unsure** that there might still be some services running and transmitting plaintext data, **do not connect**.
 
+### PrePaid SIM Cards
+Make sure you get a [right sized SIM card][11] for your GSM mobile phone!
+If you need help with buying a SIM card, ask a local for assistance. They're friendly!
+
+- [Blau.de][118]
+
+
 ## Thanks for being awesome
 These people have contributed to improve this list for everyone. In no particular order.
 
@@ -322,6 +329,8 @@ These people have contributed to improve this list for everyone. In no particula
 [7]:https://itunes.apple.com/at/app/onion-browser/id519296448?l=en&mt=8
 [8]:http://en.wikipedia.org/wiki/Euro_plug
 [9]:https://github.com/apenwarr/sshuttle
+[10]:https://www.blau.de/
+[11]:https://en.wikipedia.org/wiki/Sim_card#Formats "SIM card formats"
 
 [20]:https://play.google.com/store/apps/details?id=com.googlecode.droidwall.free
 
