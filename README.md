@@ -120,13 +120,13 @@ If you need help, just call for help, there are many, many people around to help
 #### Generic medication
 - Patches (Pflaster)
 - Aspirin (If you partied too long…)
-- Thomapyrin
-- Parkemed
-- Clarityn (or other Anti-allergic)
-- Neocitran (Just in case hacker pest strikes)
-- Contraceptives
+- Thomapyrin (Analgetic)
+- Parkemed (DE/AT), Ponstel (USA), Ponstel (UK) (Analgetic)
+- Clarityn (or other histamine blocker if you're allergic to something)
+- Neocitran/Theraflu/Paracetamol (Just in case hacker pest strikes)
+- Contraceptives, prophylactic (contraceptive pill, condoms, etc.)
 - Caffeine pills (In case you don't like Mate and nobody knows if you can actually drink the coffee served there.)
-- Something for your stomach (if you've got a nervous digestive system when under stress, while flying or generally travelling)
+- Something for your stomach (if you've got a nervous digestive system when under stress, while flying or generally traveling)
 - Bepanthen
 
 
@@ -134,7 +134,7 @@ If you need help, just call for help, there are many, many people around to help
 Your personal medication does not belong on the public interwebs for your privacy. This is just a reminder to pack it. Please do not include your personal medications in pull requests. :-)
 
 ### Schedule
-- Have a look at the [conference schedule](http://events.ccc.de/congress/2012/wiki/Schedule) and maybe make a preelection of talks you really "have to", "want to" or "would be nice to" see
+- Have a look at the [conference schedule](http://events.ccc.de/congress/2012/wiki/Schedule) and maybe make a preselection of talks you really "have to", "want to" or "would be nice to" see
 - be sure to schedule a period of time to get your T-Shirt or pullover(when preordered in the first two days)!
 - have a sense of how the trains are going from the station near by, enter Dammtor here: http://geofox.de/jsf/stationSchedule.seam direct connections to the airport, enter Dammtor at start and Airport
 
