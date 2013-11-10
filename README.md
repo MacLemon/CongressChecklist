@@ -312,9 +312,9 @@ These people have contributed to improve this list for everyone. In no particula
 - [schwindp][118]
 
 ## Links
-[1]:https://events.ccc.de/congress/2012/wiki/How_To_Survive 
+[1]:https://events.ccc.de/congress/2012/wiki/How_To_Survive <!--- Needs updated link -->
 [2]:https://www.eventphone.de/
-[3]:https://events.ccc.de/congress/2012/wiki/29C3_Anti-Harassment_Policy
+[3]:https://events.ccc.de/congress/2012/wiki/29C3_Anti-Harassment_Policy <!--- Needs updated link -->
 [4]:http://r0cket.org/
 [5]:https://www.noisebridge.net/wiki/Passport
 [6]:https://en.wikipedia.org/wiki/Schuko
