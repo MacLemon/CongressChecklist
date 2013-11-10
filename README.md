@@ -32,6 +32,7 @@ You'll also find a list of all the nice humans who have contributed to this list
 - You DID make backups of all your devices, didn't you? That includes portable Computers, Servers, mobile phones, tables, navigation devices, wristwatches and all your other $gadgets.
 - Send a pull request to this list for all the things I did not think of.
 - Feed the guineapigs
+- Water your plants
 
 
  
@@ -128,6 +129,7 @@ If you need help, just call for help, there are many, many people around to help
 - Contraceptives, prophylactic (contraceptive pill, condoms, etc.)
 - Caffeine pills (In case you don't like Mate and nobody knows if you can actually drink the coffee served there.)
 - Something for your stomach (if you've got a nervous digestive system when under stress, while flying or generally traveling)
+	- camomile tea relives hyperacidity very well 
 - Bepanthen
 
 
@@ -205,6 +207,7 @@ Your personal medication does not belong on the public interwebs for your privac
 	- camera strap
 	- lenses with lens caps
 	- lens cleaning cloth
+- USB <-> RS232 adapter (preferably FTDI)
 - RS232 cable
 - USB A-B cable
 - mini USB cable
@@ -318,7 +321,7 @@ These people have contributed to improve this list for everyone. In no particula
 - [@anked][115]
 - [badboy][116]
 - [@nic_ko][117]
-
+- [@a_z_e_t][118]
 
 ## Links
 [1]:https://events.ccc.de/congress/2012/wiki/How_To_Survive <!--- Needs updated link -->
@@ -353,3 +356,4 @@ These people have contributed to improve this list for everyone. In no particula
 [115]:https://twitter.com/anked
 [116]:https://github.com/badboy
 [117]:https://twitter.com/nic_ko
+[118]:https://twitter.com/a_z_e_t
