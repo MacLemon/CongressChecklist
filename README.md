@@ -51,7 +51,7 @@ You'll also find a list of all the nice humans who have contributed to this list
 - Some cash (€uros)
 - CreditCard
 - Coins (€uros, for automated vending machines, like public transport tickets)
-- Bitcoin wallet
+- Bitcoin wallet (the encrypted fashion with a good passphrase)
 - Emergency numbers for your bank so you can lock your credit card/debit card/Bankomatkarte in case it gets lost/stolen/left behind.
 
 
