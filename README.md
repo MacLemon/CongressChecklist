@@ -23,7 +23,7 @@ You'll also find a list of all the nice humans who have contributed to this list
 
 
 
-## Things to do before travelling
+## Things to do before traveling
 
 - Charge ALL the batteries!
 - Make backups
