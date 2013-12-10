@@ -175,7 +175,7 @@ Your personal medication does not belong on the public interwebs for your privac
 	- make note of the filesystem used so you know if they will work on the system of the person you want to exchange data with. (FAT32 is a safe bet to work everywhere.)
 	- Mac: NTFS, ZFS, Ext can be read, but not written to without 3rd party software. FAT, ExFAT, HFS+(J), HFSX are fine for current OS X versions.
 - Ethernet cords (Cat5e) of multiple lengths. Maybe have a spare to tether a friend.
-	- USB Ethernet Adapter, if your device needs one (thin ones)
+	- USB Ethernet adapter, if your device needs one (for example thin notebooks)
 - Cat5 o'nine tails
 - Torch (Have spare batteries or rechargeables and a matching charger that works with 230V≈ @50Hz)
 - LED throwies
@@ -227,7 +227,7 @@ Your personal medication does not belong on the public interwebs for your privac
 - An actual book (for those offline blackout moments)
 - Ham radio equipment, portable
 - Infrared, Bluetooth or radio remote (for presentations)
-- Raspberry Pi + Cables + SD-Cards (+ GPIO equipment)
+- Raspberry Pi + cables + SD-cards (+ GPIO equipment)
 	- extra WiFi antenna (USB) and/or
 	- extra Ethernet cord
 
