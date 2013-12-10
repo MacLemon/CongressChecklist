@@ -33,6 +33,7 @@ You'll also find a list of all the nice humans who have contributed to this list
 - Send a pull request to this list for all the things I did not think of.
 - Feed the guineapigs
 - Water your plants
+- (optional) Create account in the [congress wiki][12], [add your projects][13] and [find your assembly][14]
 
 
  
@@ -326,6 +327,7 @@ These people have contributed to improve this list for everyone. In no particula
 - [badboy][116]
 - [@nic_ko][117]
 - [@a_z_e_t][118]
+- [@stefan2904][119]
 
 ## Links
 [1]:https://events.ccc.de/congress/2012/wiki/How_To_Survive <!--- Needs updated link -->
@@ -339,6 +341,9 @@ These people have contributed to improve this list for everyone. In no particula
 [9]:https://github.com/apenwarr/sshuttle
 [10]:https://www.blau.de/
 [11]:https://en.wikipedia.org/wiki/Sim_card#Formats "SIM card formats"
+[12]:https://events.ccc.de/congress/2013/wiki/
+[13]:https://events.ccc.de/congress/2013/wiki/Form:Projects
+[14]:https://events.ccc.de/congress/2013/wiki/Static:Assemblies
 
 [20]:https://play.google.com/store/apps/details?id=com.googlecode.droidwall.free
 
@@ -361,3 +366,4 @@ These people have contributed to improve this list for everyone. In no particula
 [116]:https://github.com/badboy
 [117]:https://twitter.com/nic_ko
 [118]:https://twitter.com/a_z_e_t
+[119]:https://twitter.com/stefan2904
