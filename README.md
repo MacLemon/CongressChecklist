@@ -87,7 +87,7 @@ If you need help, just call for help, there are many, many people around to help
 - Conditioner
 - Tampons
 - Sanitary Towels
-- Condoms, Dental Dams and other protective gear (Make sure the condoms are not beyond their usage date! (Yes, it really happens…))
+- Condoms, Dental Dams and other protective gear (Make sure the condoms are not beyond their usage date! (Yes, it really happens …))
 - Lubricant (water based to be compatible with condoms)
 - Disinfectants
 - Soap
@@ -122,7 +122,7 @@ If you need help, just call for help, there are many, many people around to help
 
 #### Generic medication
 - Patches (Pflaster)
-- Aspirin (If you partied too long…)
+- Aspirin (If you partied too long …)
 - Thomapyrin (Analgetic)
 - Parkemed (DE/AT), Ponstel (USA), Ponstel (UK) (Analgetic)
 - Clarityn (or other histamine blocker if you're allergic to something)
@@ -287,7 +287,7 @@ It is not recommended to connect your smartphone to the congress wifi, if you st
 
 - make sure that it's **not a 802.11b** device, as it would slow down the complete wifi network.
 - disable all synchronization services, as they might be using plaintext
-- disable all auto-discovery services (network music players, remote control apps, etc...)
+- disable all auto-discovery services (network music players, remote control apps, etc …)
 - make sure there are no known exploits for your device (not that unknown-to-you exploits wouldn't be a possible risk as well…)
 - Turn off push notifications
 - update your apps, especially your browser
