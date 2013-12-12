@@ -228,9 +228,9 @@ Your personal medication does not belong on the public interwebs for your privac
 - An actual book (for those offline blackout moments)
 - Ham radio equipment, portable
 - Infrared, Bluetooth or radio remote (for presentations)
-- Raspberry Pi + cables + SD-cards (+ GPIO equipment)
-	- extra WiFi antenna (USB) and/or
-	- extra Ethernet cord
+- All your devices!!1 (Raspberry Pi, Arduino, FreedomBox, DreamPlug, …)
+	- + cables + SD-cards (+ GPIO equipment)
+	- + extra WiFi antenna (USB) and/or extra Ethernet cord
 
 
 ### Other gear
