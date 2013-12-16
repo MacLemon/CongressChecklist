@@ -324,7 +324,7 @@ These people have contributed to improve this list for everyone. In no particula
 - [@a_z_e_t][118]
 
 ## Links
-[1]:https://events.ccc.de/congress/2012/wiki/How_To_Survive <!--- Needs updated link -->
+[1]:https://events.ccc.de/congress/2013/wiki/Static:How_To_Survive
 [2]:https://www.eventphone.de/
 [3]:https://events.ccc.de/congress/2012/wiki/29C3_Anti-Harassment_Policy <!--- Needs updated link -->
 [4]:http://r0cket.org/
