@@ -67,7 +67,6 @@ If you're in an emergency shout HELP!
 
 If you need help, just call for help, there are many, many people around to help you.
 
-- 29C3 Conflict helpers: Call local DECT/GSM 113
 - 30C3 Medical Emergency or in case of fire: Call local DECT/GSM 112 (CERT)
 - 30C3 Security: Call local DECT/GSM 110
 - 30C3 organizers: 30c3-orga@cccv.de
@@ -137,7 +136,7 @@ If you need help, just call for help, there are many, many people around to help
 Your personal medication does not belong on the public interwebs for your privacy. This is just a reminder to pack it. Please do not include your personal medications in pull requests. :-)
 
 ### Schedule
-- Have a look at the [conference schedule](http://events.ccc.de/congress/2012/wiki/Schedule) and maybe make a preselection of talks you really "have to", "want to" or "would be nice to" see
+- Have a look at the [Fahrplan][20] and maybe make a preselection of talks you really "have to", "want to" or "would be nice to" see
 - be sure to schedule a period of time to get your T-Shirt or pullover(when preordered in the first two days)!
 - have a sense of how the trains are going from the station near by, enter Dammtor here: http://geofox.de/jsf/stationSchedule.seam direct connections to the airport, enter Dammtor at start and Airport
 
@@ -353,6 +352,7 @@ These people have contributed to improve this list for everyone. In no particula
 [17]:http://code.kryo.se/iodine/ "iodine"
 [18]:http://openssh.org/ "OpenSSH"
 [19]:https://www.torproject.org/ "Tor Project"
+[20]:https://events.ccc.de/congress/2013/Fahrplan/ "30C3 Fahrplan aka conference schedule"
 
 [20]:https://play.google.com/store/apps/details?id=com.googlecode.droidwall.free
 
