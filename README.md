@@ -266,7 +266,7 @@ You did make fresh backups of all your devices, did you?
 
 
 ### VPN tunnel
-Have at least one trusted, working and tested VPN endpoint available for tunneling out of the congress network.  
+Have at least one trusted, working and tested VPN endpoint available for tunneling out of the congress network. If you don't have your own VPN server at your disposal ask friends you trust to help you out. If you do, ask your friends if the need a VPN endpoint and share!  
 
 - OpenVPN
 - L2TP/IPSec
