@@ -269,6 +269,10 @@ Activate full disk encryption with pre-boot authentication. (Mac: Activate FileV
 You did make fresh backups of all your devices, did you?
 
 
+### Servers
+Check that _all_ your server services are using proper TLS. See [bettercrypto.org][15] for help on how to properly configure your servers. (Mail, Web, VPN, SSH, etc.)
+
+
 ### VPN tunnel
 Have at least one trusted, working and tested VPN endpoint available for tunneling out of the congress network. If you don't have your own VPN server at your disposal ask friends you trust to help you out. If you do, ask your friends if the need a VPN endpoint and share!  
 
@@ -344,6 +348,7 @@ These people have contributed to improve this list for everyone. In no particula
 [12]:https://events.ccc.de/congress/2013/wiki/
 [13]:https://events.ccc.de/congress/2013/wiki/Form:Projects
 [14]:https://events.ccc.de/congress/2013/wiki/Static:Assemblies
+[15]:https://bettercrypto.org/ "Better Crypto"
 
 [20]:https://play.google.com/store/apps/details?id=com.googlecode.droidwall.free
 
