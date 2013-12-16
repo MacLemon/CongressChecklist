@@ -33,6 +33,7 @@ You'll also find a list of all the nice humans who have contributed to this list
 - Send a pull request to this list for all the things I did not think of.
 - Feed the guineapigs
 - Water your plants
+- (optional) Create account in the [congress wiki][12], [add your projects][13] and [find your assembly][14]
 
 
  
@@ -86,7 +87,7 @@ If you need help, just call for help, there are many, many people around to help
 - Conditioner
 - Tampons
 - Sanitary Towels
-- Condoms, Dental Dams and other protective gear (Make sure the condoms are not beyond their usage date! (Yes, it really happens…))
+- Condoms, Dental Dams and other protective gear (Make sure the condoms are not beyond their usage date! (Yes, it really happens …))
 - Lubricant (water based to be compatible with condoms)
 - Disinfectants
 - Soap
@@ -121,7 +122,7 @@ If you need help, just call for help, there are many, many people around to help
 
 #### Generic medication
 - Patches (Pflaster)
-- Aspirin (If you partied too long…)
+- Aspirin (If you partied too long …)
 - Thomapyrin (Analgetic)
 - Parkemed (DE/AT), Ponstel (USA), Ponstel (UK) (Analgetic)
 - Clarityn (or other histamine blocker if you're allergic to something)
@@ -175,6 +176,7 @@ Your personal medication does not belong on the public interwebs for your privac
 	- make note of the filesystem used so you know if they will work on the system of the person you want to exchange data with. (FAT32 is a safe bet to work everywhere.)
 	- Mac: NTFS, ZFS, Ext can be read, but not written to without 3rd party software. FAT, ExFAT, HFS+(J), HFSX are fine for current OS X versions.
 - Ethernet cords (Cat5e) of multiple lengths. Maybe have a spare to tether a friend.
+	- USB/Thunderbolt to Ethernet adapter, if your device needs one (for example thin notebooks)
 - Cat5 o'nine tails
 - Torch (Have spare batteries or rechargeables and a matching charger that works with 230V≈ @50Hz)
 - LED throwies
@@ -226,6 +228,9 @@ Your personal medication does not belong on the public interwebs for your privac
 - An actual book (for those offline blackout moments)
 - Ham radio equipment, portable
 - Infrared, Bluetooth or radio remote (for presentations)
+- All your devices!!1 (Raspberry Pi, Arduino, FreedomBox, DreamPlug, …)
+	- + cables + SD-cards (+ GPIO equipment)
+	- + extra WiFi antenna (USB) and/or extra Ethernet cord
 
 
 ### Other gear
@@ -282,7 +287,7 @@ It is not recommended to connect your smartphone to the congress wifi, if you st
 
 - make sure that it's **not a 802.11b** device, as it would slow down the complete wifi network.
 - disable all synchronization services, as they might be using plaintext
-- disable all auto-discovery services (network music players, remote control apps, etc...)
+- disable all auto-discovery services (network music players, remote control apps, etc …)
 - make sure there are no known exploits for your device (not that unknown-to-you exploits wouldn't be a possible risk as well…)
 - Turn off push notifications
 - update your apps, especially your browser
@@ -322,6 +327,7 @@ These people have contributed to improve this list for everyone. In no particula
 - [badboy][116]
 - [@nic_ko][117]
 - [@a_z_e_t][118]
+- [@stefan2904][119]
 
 ## Links
 [1]:https://events.ccc.de/congress/2013/wiki/Static:How_To_Survive
@@ -335,6 +341,9 @@ These people have contributed to improve this list for everyone. In no particula
 [9]:https://github.com/apenwarr/sshuttle
 [10]:https://www.blau.de/
 [11]:https://en.wikipedia.org/wiki/Sim_card#Formats "SIM card formats"
+[12]:https://events.ccc.de/congress/2013/wiki/
+[13]:https://events.ccc.de/congress/2013/wiki/Form:Projects
+[14]:https://events.ccc.de/congress/2013/wiki/Static:Assemblies
 
 [20]:https://play.google.com/store/apps/details?id=com.googlecode.droidwall.free
 
@@ -357,3 +366,4 @@ These people have contributed to improve this list for everyone. In no particula
 [116]:https://github.com/badboy
 [117]:https://twitter.com/nic_ko
 [118]:https://twitter.com/a_z_e_t
+[119]:https://twitter.com/stefan2904
