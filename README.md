@@ -24,7 +24,6 @@ You'll also find a list of all the nice humans who have contributed to this list
 
 
 ## Things to do before traveling
-
 - Charge ALL the batteries!
 - Make backups
 - Bonus points for even testing restore
@@ -295,6 +294,7 @@ It is not recommended to connect your smartphone to the congress wifi, if you st
 - use a Firewall and only allow the (few) services you trust.
 	- [DroidWall][20] for Android (root required)
 - If you don't have a VPN tunnel available, you can use [OnionBrowser][7] to surf via tor (which may be it's own kind of risk)
+- Set your GSM network selection to **manual** or you might end up connected to a rogue GMS network by somebody.
 
 **If you are unsure** that there might still be some services running and transmitting plaintext data, **do not connect**.
 
