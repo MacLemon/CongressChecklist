@@ -336,8 +336,7 @@ These people have contributed to improve this list for everyone. In no particula
 ## Links
 [1]:https://events.ccc.de/congress/2013/wiki/Static:How_To_Survive
 [2]:https://www.eventphone.de/
-[3]:https://events.ccc.de/congress/2012/wiki/29C3_Anti-Harassment_Policy
-<!--- Needs updated link -->
+[3]:https://events.ccc.de/congress/2013/wiki/Static:Anti-Harassment_Policy "Anti Harrassment Policy"
 [4]:http://r0cket.org/
 [5]:https://www.noisebridge.net/wiki/Passport
 [6]:https://en.wikipedia.org/wiki/Schuko
