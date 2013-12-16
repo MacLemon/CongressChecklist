@@ -276,12 +276,12 @@ Check that _all_ your server services are using proper TLS. See [bettercrypto.or
 ### VPN tunnel
 Have at least one trusted, working and tested VPN endpoint available for tunneling out of the congress network. If you don't have your own VPN server at your disposal ask friends you trust to help you out. If you do, ask your friends if the need a VPN endpoint and share!  
 
-- OpenVPN
+- [OpenVPN][16]
 - L2TP/IPSec
-- SSH
+- [SSH][18]
 - [SSHuttle][9]
-- iodine (DNS tunnel for those pesky for-pay captive portal WiFi networks)
-- Tor/Vidalia
+- [iodine][17] (DNS tunnel for those pesky for-pay captive portal WiFi networks)
+- [Tor/Vidalia][19]
 
 Also have those tunnels configured on ALL the devices you intend to use, and have it tested. That includes your Laptops, phones, tablets, servers, fridge, etc.
 
@@ -349,6 +349,10 @@ These people have contributed to improve this list for everyone. In no particula
 [13]:https://events.ccc.de/congress/2013/wiki/Form:Projects
 [14]:https://events.ccc.de/congress/2013/wiki/Static:Assemblies
 [15]:https://bettercrypto.org/ "Better Crypto"
+[16]:https://openvpn.net/ "OpenVPN"
+[17]:http://code.kryo.se/iodine/ "iodine"
+[18]:http://openssh.org/ "OpenSSH"
+[19]:https://www.torproject.org/ "Tor Project"
 
 [20]:https://play.google.com/store/apps/details?id=com.googlecode.droidwall.free
 
