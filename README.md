@@ -331,6 +331,7 @@ These people have contributed to improve this list for everyone. In no particula
 - [@nic_ko][117]
 - [@a_z_e_t][118]
 - [@stefan2904][119]
+- [@ccc][120]
 
 ## Links
 [1]:https://events.ccc.de/congress/2013/wiki/Static:How_To_Survive
@@ -376,3 +377,4 @@ These people have contributed to improve this list for everyone. In no particula
 [117]:https://twitter.com/nic_ko
 [118]:https://twitter.com/a_z_e_t
 [119]:https://twitter.com/stefan2904
+[120]:https://twitter.com/ccc
