@@ -167,8 +167,8 @@ Your personal medication does not belong on the public interwebs for your privac
 	- Mac: MagSafe to MagSafe 2 Adapter
 	- Mac: There are also cords that you can plug directly into the MagSafe charger (when removing the duck head) that end in a [Euro Plug][8]. These cables are also often used on electric shavers.
 - Plug adaptor from your country of origin to [Schuko Plug][6]
-- 3* or 5* Extension (230V≈ @50Hz) with [Schuko Plug][6] (and optional switch)
-- Simple extension cord (230V @50Hz, [Schuko Plug][6])
+- 3* or 5* multi-plug power extension (230V≈ @50Hz) with [Schuko Plug][6] (and optional switch, hotel rooms usually suffer from severe lack of outlets)
+- Simple extension cord (230V @50Hz, [Schuko Plug][6], the power outlet in your hotel room may be far away from your bedside) 
 - USB Sticks
 	- Put an OWNER.txt file on them with information on how to contact you in case one gets lost accidentally. (Twitter, phone (for example DECT, 30C3 GSM extensions), email, name of the assembly you're well known at, owl, raven)
 	- For devices with private information be sure to encrypt them! (TrueCrypt, GPG, FileVault)
