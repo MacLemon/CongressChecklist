@@ -67,8 +67,8 @@ If you're in an emergency shout HELP!
 
 If you need help, just call for help, there are many, many people around to help you.
 
-- 30C3 Medical Emergency or in case of fire: Call local DECT/GSM 112 (CERT)
-- 30C3 Security: Call local DECT/GSM 110
+- 30C3 Medical Emergency or in case of fire: Call local DECT 112 (CERT)
+- 30C3 Security: Call local DECT 110
 - 30C3 organizers: 30c3-orga@cccv.de
 - Local law enforcement in Hamburg: 110 or +49 40 4286 - 51410
 - Local sexual assault hotline in Hamburg: +49 40 - 255566 (http://www.frauennotruf-hamburg.de)
