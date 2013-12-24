@@ -119,7 +119,7 @@ If you need help, just call for help, there are many, many people around to help
 ### Medication
 
 #### Generic medication
-- Patches (Pflaster)
+- Patches (Pflaster, for your webcam or if a MacBook AirFrisbee hit you)
 - Aspirin (If you partied too long …)
 - Thomapyrin (Analgetic)
 - Parkemed (DE/AT), Ponstel (USA), Ponstel (UK) (Analgetic)
@@ -128,7 +128,7 @@ If you need help, just call for help, there are many, many people around to help
 - Contraceptives, prophylactic (contraceptive pill, condoms, etc.)
 - Caffeine pills (In case you don't like Mate and nobody knows if you can actually drink the coffee served there.)
 - Something for your stomach (if you've got a nervous digestive system when under stress, while flying or generally traveling)
-	- camomile tea relives hyperacidity very well 
+- camomile tea relives hyperacidity very well 
 - Bepanthen
 
 
@@ -153,7 +153,7 @@ Your personal medication does not belong on the public interwebs for your privac
 - Cap, wool cap
 - Umbrella
 - Comfortable shoes (You'll make a lot of distance-units during your stay)
-- Plastic bag to separate laundry from clean clothes in your luggage
+- Bag to separate laundry from clean clothes in your luggage
 - Gloves
 - Scarf
 - Swim suit, Bikini, trunks (In case your hotel has a pool)
