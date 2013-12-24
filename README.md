@@ -28,7 +28,7 @@ You'll also find a list of all the nice humans who have contributed to this list
 - Make backups
 - Bonus points for even testing restore
 - Update all the software on your devices
-- You DID make backups of all your devices, didn't you? That includes portable Computers, Servers, mobile phones, tables, navigation devices, wristwatches and all your other $gadgets.
+- You DID make backups of all your devices, didn't you? That includes portable Computers, Servers, mobile phones, tablets, navigation devices, wristwatches and all your other $gadgets.
 - Send a pull request to this list for all the things I did not think of.
 - Feed the guineapigs
 - Water your plants
