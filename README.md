@@ -273,7 +273,7 @@ Check that _all_ your server services are using proper TLS. See [bettercrypto.or
 
 
 ### VPN tunnel
-Have at least one trusted, working and tested VPN endpoint available for tunneling out of the congress network. If you don't have your own VPN server at your disposal ask friends you trust to help you out. If you do, ask your friends if the need a VPN endpoint and share!  
+Have at least one trusted, working and tested VPN endpoint available for tunneling out of the congress network. If you don't have your own VPN server at your disposal ask friends you trust to help you out. If you do, ask your friends if they need a VPN endpoint and share!  
 
 - [OpenVPN][16]
 - L2TP/IPSec
