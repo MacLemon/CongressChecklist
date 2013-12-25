@@ -247,6 +247,7 @@ Your personal medication does not belong on the public interwebs for your privac
 - cable ties
 - duct tape or gaffer tape
 - knitting needles and yarn (for guerrilla knitting/yarn bombing)
+- A blanket
 
 
 ## Securing your devices
