@@ -46,7 +46,8 @@ You'll also find a list of all the nice humans who have contributed to this list
 - Hotel booking
 - Ham radio license (CEPT license)
 - [Hackerspace passport][5]
-
+- An [Organ donor card][21] (We really hope you won't need them, but just in the case: you might safe a life!)
+- Your health insurance card
 
 
 ### Payment stuff
@@ -246,6 +247,7 @@ Your personal medication does not belong on the public interwebs for your privac
 - cable ties
 - duct tape or gaffer tape
 - knitting needles and yarn (for guerrilla knitting/yarn bombing)
+- A blanket
 
 
 ## Securing your devices
@@ -332,6 +334,8 @@ These people have contributed to improve this list for everyone. In no particula
 - [@a_z_e_t][118]
 - [@stefan2904][119]
 - [@ccc][120]
+- [@cheatha][121]
+- [@FrauFledermaus][122]
 
 ## Links
 [1]:https://events.ccc.de/congress/2013/wiki/Static:How_To_Survive
@@ -356,6 +360,7 @@ These people have contributed to improve this list for everyone. In no particula
 [20]:https://events.ccc.de/congress/2013/Fahrplan/ "30C3 Fahrplan aka conference schedule"
 
 [20]:https://play.google.com/store/apps/details?id=com.googlecode.droidwall.free
+[21]:https://www.organspende-info.de
 
 [100]:https://twitter.com/Astarioth
 [101]:https://twitter.com/N4mes
@@ -378,3 +383,5 @@ These people have contributed to improve this list for everyone. In no particula
 [118]:https://twitter.com/a_z_e_t
 [119]:https://twitter.com/stefan2904
 [120]:https://twitter.com/ccc
+[121]:https://twitter.com/cheatha
+[122]:https://twitter.com/FrauFledermaus
