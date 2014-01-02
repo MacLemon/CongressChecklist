@@ -232,10 +232,11 @@ Your personal medication does not belong on the public interwebs for your privac
 	- + extra WiFi antenna (USB) and/or extra Ethernet cord
 
 
-### Other gear
-- Swiss knife
-- Victorinox cybertool
-- Leatherman
+### Other geari
+- Pocket knife (As required by german law: Blade must not exceed 12cm, must not be able to be opened with one hand.)
+    - Swiss knife
+    - Victorinox cybertool
+    - Leatherman
 - Screw drivers, pit set
 - soldering iron
 - any other tools you may need (even if unlikely)
@@ -336,6 +337,7 @@ These people have contributed to improve this list for everyone. In no particula
 - [@ccc][120]
 - [@cheatha][121]
 - [@FrauFledermaus][122]
+- [n0la][123]
 
 ## Links
 [1]:https://events.ccc.de/congress/2013/wiki/Static:How_To_Survive
@@ -385,3 +387,4 @@ These people have contributed to improve this list for everyone. In no particula
 [120]:https://twitter.com/ccc
 [121]:https://twitter.com/cheatha
 [122]:https://twitter.com/FrauFledermaus
+[123]:https://github.com/n0la
