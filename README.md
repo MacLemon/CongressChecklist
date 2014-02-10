@@ -195,7 +195,7 @@ Your personal medication does not belong on the public interwebs for your privac
 		- USB-micro USB cable
 - SIM cards (your usual one, local german SIM, CCC SIM)
 - Apple certified SIM eject tool (aka bent paperclip) to swap SIM cards
-- a portable battery pack so you can charge on the go. (And the necessary cable to recharge that battery pack overnight.)
+- a portable battery pack (aka powerbank) so you can charge on the go. (And the necessary cable to recharge that battery pack overnight.)
 - WiFi router/firewall (to connect to the hotel Wifi/network)
 - photo camera
 	- batteries
@@ -340,6 +340,7 @@ These people have contributed to improve this list for everyone (in no particula
 - [@FrauFledermaus][122]
 - [n0la][123]
 - [RobFog][124]
+- [Anon_Hannibal][125]
 
 ## Links
 [1]:https://events.ccc.de/congress/2013/wiki/Static:How_To_Survive
@@ -391,3 +392,4 @@ These people have contributed to improve this list for everyone (in no particula
 [122]:https://twitter.com/FrauFledermaus
 [123]:https://github.com/n0la
 [124]:https://github.com/RobFog
+[125]:https://twitter.com/Anon_Hannibal
