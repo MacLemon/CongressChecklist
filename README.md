@@ -113,6 +113,7 @@ If you need help, just call for help, there are many, many people around to help
 - razor (with spare blades)
 - lipstick/lipgloss
 - lipbalm
+- tweezers
 
 
 ### Medication
@@ -310,6 +311,15 @@ If you need help with buying a SIM card, ask a local for assistance. They're fri
 
 - [Blau.de][10]
 
+
+### If you travel with your dog:
+- Blanket
+- Food (wet & dry, Snacks)
+- containers for water and food
+- brush
+- tick forceps / tick tweezers
+- backup leash
+- medication
 
 
 ## Thanks for being awesome
