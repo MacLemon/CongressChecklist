@@ -114,6 +114,9 @@ If you need help, just call for help, there are many, many people around to help
 - lipstick/lipgloss
 - lipbalm
 - tweezers
+- cotton swabs (Wattestäbchen)
+- make up remover pads
+- skin care
 
 
 ### Medication
@@ -351,6 +354,8 @@ These people have contributed to improve this list for everyone (in no particula
 - [n0la][123]
 - [RobFog][124]
 - [Anon_Hannibal][125]
+- [Sarah][126]
+
 
 ## Links
 [1]:https://events.ccc.de/congress/2013/wiki/Static:How_To_Survive
@@ -403,3 +408,4 @@ These people have contributed to improve this list for everyone (in no particula
 [123]:https://github.com/n0la
 [124]:https://github.com/RobFog
 [125]:https://twitter.com/Anon_Hannibal
+[126]:https://twitter.com/SarahKriesche
