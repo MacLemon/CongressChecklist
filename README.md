@@ -38,6 +38,13 @@ You'll also find a list of all the nice humans who have contributed to this list
  
 ## Things to pack
 
+### Decoration
+- Bring ridiculous amounts of LED strips so we can illuminate ALL the windows of the Radisson Hotel next to the CCH.
+- If you have a lot of them, bring some more so we can also decorate all the other windows.
+
+A normal window of a two-bed room is about 3.50m x 1.20m = 9.4m circumference.
+
+
 ### Documents
 - train/plane tickets (including verification documents for self-printed DB tickets, like your credit card or Personalausweis)
 - congress tickets (printed or in iOS passbook)
