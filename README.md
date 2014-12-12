@@ -74,6 +74,8 @@ If you're in an emergency shout HELP!
 
 If you need help, just call for help, there are many, many people around to help you.
 
+See the [Safety and Security][23]
+
 - 31C3 Medical Emergency or in case of fire: Call local DECT 112 (CERT)
 - 31C3 Security: Call local DECT 110
 - 31C3 organizers: 31c3-orga@cccv.de
@@ -309,7 +311,7 @@ It is not recommended to connect your smartphone to the congress wifi, if you st
 - Update your apps, especially your browser.
 - Use a VPN tunnel if possible.
 - Use a Firewall and only allow the (few) services you trust.
-	- [DroidWall][20] for Android (root required)
+	- [DroidWall][22] for Android (root required)
 - If you don't have a VPN tunnel available, you can use [OnionBrowser][7] to surf via tor (which may be it's own kind of risk).
 - Set your GSM network selection to **manual** or you might end up connected to a rogue GMS network by somebody.
 
@@ -385,9 +387,9 @@ These people have contributed to improve this list for everyone (in no particula
 [18]:http://openssh.org/ "OpenSSH"
 [19]:https://www.torproject.org/ "Tor Project"
 [20]:https://events.ccc.de/congress/2014/Fahrplan/ "31C3 Fahrplan aka conference schedule"
-
-[20]:https://play.google.com/store/apps/details?id=com.googlecode.droidwall.free
 [21]:https://www.organspende-info.de
+[22]:https://play.google.com/store/apps/details?id=com.googlecode.droidwall.free
+[23]:https://events.ccc.de/congress/2014/wiki/Static:Safety_and_Security "31C3 Wiki: Safety and Security"
 
 [100]:https://twitter.com/Astarioth
 [101]:https://twitter.com/N4mes
