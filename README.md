@@ -365,7 +365,7 @@ These people have contributed to improve this list for everyone (in no particula
 
 
 ## Links
-[1]:https://events.ccc.de/congress/2013/wiki/Static:How_To_Survive
+[1]:https://events.ccc.de/congress/2014/wiki/Static:How_To_Survive
 [2]:https://www.eventphone.de/
 [3]:https://events.ccc.de/congress/2013/wiki/Static:Anti-Harassment_Policy "Anti Harrassment Policy"
 [4]:http://r0cket.org/
