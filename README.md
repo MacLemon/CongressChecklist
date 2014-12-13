@@ -150,6 +150,7 @@ Your personal medication does not belong on the public interwebs for your privac
 
 ### Schedule
 - Have a look at the [Fahrplan][20] and maybe make a preselection of talks you really "have to", "want to" or "would be nice to" see
+- Install one of the Fahrplan apps for Android ([PlayStore][FahrplanAndroidPlaystore], [Source][FahrplanAndroidSources]) or iOS ([iTunes][FahrplaniTunes])
 - Be sure to schedule a period of time to get your T-Shirt or pullover(when preordered in the first two days)!
 - Have a sense of how the trains are going from the station near by, enter Dammtor here: http://geofox.de/jsf/stationSchedule.seam direct connections to the airport, enter Dammtor at start and Airport
 
@@ -418,3 +419,6 @@ These people have contributed to improve this list for everyone (in no particula
 [124]:https://github.com/RobFog
 [125]:https://twitter.com/Anon_Hannibal
 [126]:https://twitter.com/SarahKriesche
+[FahrplanAndroidPlaystore]: https://play.google.com/store/apps/details?id=nerd.tuxmobil.fahrplan.congress
+[FahrplanAndroidSources]: https://github.com/tuxmobil/CampFahrplan
+[FahrplaniTunes]: https://itunes.apple.com/us/app/30c3-fahrplan-30c3-event-organizer/id764609606?mt=8
