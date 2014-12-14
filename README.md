@@ -262,6 +262,15 @@ Your personal medication does not belong on the public interwebs for your privac
 - a blanket
 
 
+### If you travel with your dog
+- Blanket
+- Food (wet & dry, Snacks)
+- containers for water and food
+- brush
+- tick forceps / tick tweezers
+- backup leash
+- medication
+
 
 ## Securing your devices
 Read the [How to survive guide][1] in the Congress Wiki. There are many excellent tips in there.
@@ -322,16 +331,6 @@ Make sure you get a [right sized SIM card][11] for your GSM mobile phone!
 If you need help with buying a SIM card, ask a local for assistance. They're friendly!
 
 - [Blau.de][10]
-
-
-### If you travel with your dog:
-- Blanket
-- Food (wet & dry, Snacks)
-- containers for water and food
-- brush
-- tick forceps / tick tweezers
-- backup leash
-- medication
 
 
 ## Thanks for being awesome
