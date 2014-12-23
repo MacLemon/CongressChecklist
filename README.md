@@ -29,6 +29,7 @@ You'll also find a list of all the nice humans who have contributed to this list
 - bonus points for even testing restore
 - Update all the software on your devices.
 - You DID make backups of all your devices, didn't you? That includes portable computers, servers, mobile phones, tablets, navigation devices, wrist watches and all your other $gadgets.
+- Store the backups not only on the device your backing up or another device you’re taking with you. A swiss bank locker is good, if you have one.
 - Send a pull request to this list for all the things I did not think of.
 - Feed the guinea pigs.
 - Water your plants.
