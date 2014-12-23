@@ -28,6 +28,7 @@ You'll also find a list of all the nice humans who have contributed to this list
 - Make backups.
 - bonus points for even testing restore
 - Update all the software on your devices.
+- Put your name on your stuff, especially on things you’ll likely lend to someone (power strips, cables etc). Twitter handles make excellent name tags because people know how to contact you right away. Prefer permanent markers over stickers, for theft reasons.
 - You DID make backups of all your devices, didn't you? That includes portable computers, servers, mobile phones, tablets, navigation devices, wrist watches and all your other $gadgets.
 - Send a pull request to this list for all the things I did not think of.
 - Feed the guinea pigs.
@@ -363,6 +364,7 @@ These people have contributed to improve this list for everyone (in no particula
 - [RobFog][124]
 - [Anon_Hannibal][125]
 - [Sarah][126]
+- [@scy][127]
 
 
 ## Links
@@ -417,3 +419,4 @@ These people have contributed to improve this list for everyone (in no particula
 [124]:https://github.com/RobFog
 [125]:https://twitter.com/Anon_Hannibal
 [126]:https://twitter.com/SarahKriesche
+[127]:https://twitter.com/scy
