@@ -152,6 +152,7 @@ Your personal medication does not belong on the public interwebs for your privac
 
 ### Schedule
 - Have a look at the [Fahrplan][20] and maybe make a preselection of talks you really "have to", "want to" or "would be nice to" see
+- Install one of the Fahrplan apps for Android ([PlayStore][26], [Source][27]) or iOS ([iTunes][28])
 - Be sure to schedule a period of time to get your T-Shirt or pullover(when preordered in the first two days)!
 - Have a sense of how the trains are going from the station near by, enter Dammtor here: http://geofox.de/jsf/stationSchedule.seam direct connections to the airport, enter Dammtor at start and Airport
 
@@ -372,6 +373,7 @@ These people have contributed to improve this list for everyone (in no particula
 - [@scy][127]
 - [azet][128]
 - [qsuscs][129]
+- [johnjohndoe][130]
 
 ## Links
 [1]:https://events.ccc.de/congress/2014/wiki/Static:How_To_Survive
@@ -399,6 +401,10 @@ These people have contributed to improve this list for everyone (in no particula
 [23]:https://events.ccc.de/congress/2014/wiki/Static:Safety_and_Security "31C3 Wiki: Safety and Security"
 [24]:https://wifipineapple.com/ "WiFi Pinapple"
 [25]:https://greatscottgadgets.com/throwingstar/ "Throwing star"
+[26]: https://play.google.com/store/apps/details?id=nerd.tuxmobil.fahrplan.congress
+[27]: https://github.com/tuxmobil/CampFahrplan
+[28]: https://itunes.apple.com/us/app/30c3-fahrplan-30c3-event-organizer/id764609606?mt=8
+
 
 [100]:https://twitter.com/Astarioth
 [101]:https://twitter.com/N4mes
@@ -430,3 +436,4 @@ These people have contributed to improve this list for everyone (in no particula
 [127]:https://twitter.com/scy
 [128]:https://github.com/azet
 [129]:https://github.com/qsuscs
+[130]:https://github.com/johnjohndoe
