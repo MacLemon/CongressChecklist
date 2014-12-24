@@ -40,6 +40,8 @@ You'll also find a list of all the nice humans who have contributed to this list
 
 ## Things to pack
 
+- https://www.youtube.com/watch?v=MvgN5gCuLac a copy of George Carlin's "stuff"
+
 ### Decoration
 - Bring ridiculous amounts of LED strips so we can illuminate ALL the windows of the Radisson Hotel next to the CCH.
 - If you have a lot of them, bring some more so we can also decorate all the other windows.
