@@ -190,6 +190,10 @@ Your personal medication does not belong on the public interwebs for your privac
 - Ethernet cords (Cat5e) of multiple lengths (Maybe have a spare to tether a friend)
 	- USB/Thunderbolt to Ethernet adapter, if your device needs one (for example thin notebooks)
 - Cat5 o'nine tails
+- [Throwing star LAN Tap](https://greatscottgadgets.com/throwingstar/)
+- **Optional** 1-10Gigabit Ethernet Switch
+- [Pineappleboard](https://wifipineapple.com/)
+- SDR Equipment: HackRF, RTL-SDR, Ettus,..
 - torch (Have spare batteries or rechargeables and a matching charger that works with 230V≈ @50Hz)
 - LED throwies
 - phones
