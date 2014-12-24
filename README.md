@@ -251,10 +251,10 @@ Your personal medication does not belong on the public interwebs for your privac
 
 
 ### Other gear
-- pocket knife (As required by german law: Blade must not exceed 12cm, must not be able to be opened with one hand.)
+- pocket knife ((Conforming to the German Weapons Act:)[29] Blade must not exceed 12cm; Folding knifes with locking blades must not be designed to be opened with one hand. Also, “thrusting weapons” such as daggers, stilettos, swords etc. are restricted items.)
     - Swiss knife
     - Victorinox cybertool
-    - Leatherman
+    - Leatherman (check for one-handed opening mechanisms, such as thumb holes or studs)
 - screw drivers, pit set
 - soldering iron
 - any other tools you may need (even if unlikely)
@@ -280,6 +280,8 @@ Your personal medication does not belong on the public interwebs for your privac
 
 
 ## Securing your devices
+All security measures for devices on public Internet networks also apply here – threats might come from untrusted devices ''within'', as well as from maleficent third parties ''outside'' the Congress network.
+
 Read the [How to survive guide][1] in the Congress Wiki. There are many excellent tips in there.
 
 
@@ -404,7 +406,7 @@ These people have contributed to improve this list for everyone (in no particula
 [26]: https://play.google.com/store/apps/details?id=nerd.tuxmobil.fahrplan.congress
 [27]: https://github.com/tuxmobil/CampFahrplan
 [28]: https://itunes.apple.com/us/app/30c3-fahrplan-30c3-event-organizer/id764609606?mt=8
-
+[29]: http://en.wikipedia.org/wiki/Knife_legislation#Germany
 
 [100]:https://twitter.com/Astarioth
 [101]:https://twitter.com/N4mes
