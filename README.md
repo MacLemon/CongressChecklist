@@ -37,7 +37,7 @@ You'll also find a list of all the nice humans who have contributed to this list
 - (optional) Create account in the [congress wiki][12], [add your projects][13] and [find your assembly][14].
 
 
- 
+
 ## Things to pack
 
 ### Decoration
@@ -191,9 +191,9 @@ Your personal medication does not belong on the public interwebs for your privac
 - Ethernet cords (Cat5e) of multiple lengths (Maybe have a spare to tether a friend)
 	- USB/Thunderbolt to Ethernet adapter, if your device needs one (for example thin notebooks)
 - Cat5 o'nine tails
-- [Throwing star LAN Tap](https://greatscottgadgets.com/throwingstar/)
+- [Throwing star LAN Tap][25]
 - **Optional** 1-10Gigabit Ethernet Switch
-- [Pineappleboard](https://wifipineapple.com/)
+- [Pineappleboard][24]
 - SDR Equipment: HackRF, RTL-SDR, Ettus,..
 - torch (Have spare batteries or rechargeables and a matching charger that works with 230V≈ @50Hz)
 - LED throwies
@@ -370,7 +370,8 @@ These people have contributed to improve this list for everyone (in no particula
 - [Anon_Hannibal][125]
 - [Sarah][126]
 - [@scy][127]
-
+- [azet][128]
+- [qsuscs][129]
 
 ## Links
 [1]:https://events.ccc.de/congress/2014/wiki/Static:How_To_Survive
@@ -396,6 +397,8 @@ These people have contributed to improve this list for everyone (in no particula
 [21]:https://www.organspende-info.de
 [22]:https://play.google.com/store/apps/details?id=com.googlecode.droidwall.free
 [23]:https://events.ccc.de/congress/2014/wiki/Static:Safety_and_Security "31C3 Wiki: Safety and Security"
+[24]:https://wifipineapple.com/ "WiFi Pinapple"
+[25]:https://greatscottgadgets.com/throwingstar/ "Throwing star"
 
 [100]:https://twitter.com/Astarioth
 [101]:https://twitter.com/N4mes
@@ -425,3 +428,5 @@ These people have contributed to improve this list for everyone (in no particula
 [125]:https://twitter.com/Anon_Hannibal
 [126]:https://twitter.com/SarahKriesche
 [127]:https://twitter.com/scy
+[128]:https://github.com/azet
+[129]:https://github.com/qsuscs
