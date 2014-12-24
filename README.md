@@ -30,6 +30,7 @@ You'll also find a list of all the nice humans who have contributed to this list
 - Update all the software on your devices.
 - Put your name on your stuff, especially on things you’ll likely lend to someone (power strips, cables etc). Twitter handles make excellent name tags because people know how to contact you right away. Prefer permanent markers over stickers, for theft reasons.
 - You DID make backups of all your devices, didn't you? That includes portable computers, servers, mobile phones, tablets, navigation devices, wrist watches and all your other $gadgets.
+- Store the backups not only on the device your backing up or another device you’re taking with you. A swiss bank locker is good, if you have one.
 - Send a pull request to this list for all the things I did not think of.
 - Feed the guinea pigs.
 - Water your plants.
