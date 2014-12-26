@@ -28,6 +28,7 @@ You'll also find a list of all the nice humans who have contributed to this list
 - Make backups.
 - bonus points for even testing restore
 - Update all the software on your devices.
+- You might want to empty your drives to make room for some COMPLETELY LEGAL media files that might be shared
 - Put your name on your stuff, especially on things you’ll likely lend to someone (power strips, cables etc). Twitter handles make excellent name tags because people know how to contact you right away. Prefer permanent markers over stickers, for theft reasons.
 - You DID make backups of all your devices, didn't you? That includes portable computers, servers, mobile phones, tablets, navigation devices, wrist watches and all your other $gadgets.
 - Store the backups not only on the device your backing up or another device you’re taking with you. A swiss bank locker is good, if you have one.
@@ -191,6 +192,7 @@ Your personal medication does not belong on the public interwebs for your privac
 	- Mac: NTFS, ZFS, Ext can be read, but not written to without 3rd party software. FAT, ExFAT, HFS+(J), HFSX are fine for current OS X versions
 - Ethernet cords (Cat5e) of multiple lengths (Maybe have a spare to tether a friend)
 	- USB/Thunderbolt to Ethernet adapter, if your device needs one (for example thin notebooks)
+- mass storage drives (take some empty ones with you to fill with data and/or bring your own data and share it!)
 - Cat5 o'nine tails
 - [Throwing star LAN Tap][25]
 - **Optional** 1-10Gigabit Ethernet Switch
@@ -261,12 +263,14 @@ Your personal medication does not belong on the public interwebs for your privac
 - analog notebook (dead tree style)
 - pen, pencil, quill
 - rubber ducks
+- NERF guns and ammuntion
 - musical instruments (guitar, trumpet, grand piano, laser harp, cajón, gameboy, ukulele)
 - Electronic Tuner (with fresh batteries)
 - cable ties
 - duct tape or gaffer tape
 - knitting needles and yarn (for guerrilla knitting/yarn bombing)
 - a blanket
+- a pillow (and sleeping bag/camping mat if you intend to sleep at the gym)
 
 
 ### If you travel with your dog
@@ -376,6 +380,7 @@ These people have contributed to improve this list for everyone (in no particula
 - [azet][128]
 - [qsuscs][129]
 - [johnjohndoe][130]
+- [Ps0ke][131]
 
 ## Links
 [1]:https://events.ccc.de/congress/2014/wiki/Static:How_To_Survive
@@ -439,3 +444,4 @@ These people have contributed to improve this list for everyone (in no particula
 [128]:https://github.com/azet
 [129]:https://github.com/qsuscs
 [130]:https://github.com/johnjohndoe
+[131]:http://ps0ke.de
