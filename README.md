@@ -355,6 +355,10 @@ If you need help with buying a SIM card, ask a local for assistance. They're fri
 - [Blau.de][10]
 
 
+## For when you return home
+- store chocolate at home as an post-event depression antidote
+
+
 ## Thanks for being awesome
 These people have contributed to improve this list for everyone (in no particular order):
 
@@ -391,6 +395,7 @@ These people have contributed to improve this list for everyone (in no particula
 - [johnjohndoe][130]
 - [Ps0ke][131]
 - [@musevg][132]
+- [@leyrer][133]
 
 ## Links
 [1]:https://events.ccc.de/congress/2014/wiki/Static:How_To_Survive
@@ -456,3 +461,4 @@ These people have contributed to improve this list for everyone (in no particula
 [130]:https://github.com/johnjohndoe
 [131]:http://ps0ke.de
 [132]:https://twitter.com/musevg
+[133]:https://twitter.com/leyrer
