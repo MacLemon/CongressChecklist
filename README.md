@@ -38,6 +38,9 @@ You'll also find a list of all the nice humans who have contributed to this list
 - (optional) Create account in the [congress wiki][12], [add your projects][13] and [find your assembly][14].
 
 
+## Things to send
+Stuff that you're not allowed to bring on a plane or otherwise need to send via package courier or freight train. (Depending on its size.)
+
 
 ## Things to pack
 
