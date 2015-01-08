@@ -42,10 +42,7 @@ You'll also find a list of all the nice humans who have contributed to this list
 ## Things to pack
 
 ### Decoration
-- Bring ridiculous amounts of LED strips so we can illuminate ALL the windows of the Radisson Hotel next to the CCH.
-- If you have a lot of them, bring some more so we can also decorate all the other windows.
-
-A normal window of a two-bed room is about 3.50m x 1.20m = 9.4m circumference.
+- Bring ridiculous amounts of LED strips so we can illuminate ALL the things
 
 
 ### Documents
@@ -66,6 +63,10 @@ A normal window of a two-bed room is about 3.50m x 1.20m = 9.4m circumference.
 - coins (€uros, for automated vending machines, like public transport tickets)
 - Bitcoin wallet (the encrypted fashion with a good passphrase)
 - emergency numbers for your bank so you can lock your credit card/debit card/Bankomatkarte in case it gets lost/stolen/left behind.
+
+
+### Mobility
+- Cards and PINs for Car-Sharing
 
 
 ### Emergency information
@@ -115,6 +116,7 @@ See the [Safety and Security][23]
 - spectacle case
 - cleaning cloth
 - Oropax or other things to plug into your ears for a good “night”'s sleep.
+- Hair dryer (in case your place/hotel doesn't supply one)
 
 
 ### Cosmetics
@@ -132,6 +134,10 @@ See the [Safety and Security][23]
 
 
 ### Medication
+
+#### Personal Hygiene ####
+- Hand desinfectant
+
 
 #### Generic medication
 - patches (Pflaster, for your webcam or if a MacBook AirFrisbee hit you)
@@ -273,7 +279,7 @@ Your personal medication does not belong on the public interwebs for your privac
 - a pillow (and sleeping bag/camping mat if you intend to sleep at the gym)
 
 
-### If you travel with your dog
+## If you travel with your dog
 - Blanket
 - Food (wet & dry, Snacks)
 - containers for water and food
@@ -381,6 +387,7 @@ These people have contributed to improve this list for everyone (in no particula
 - [qsuscs][129]
 - [johnjohndoe][130]
 - [Ps0ke][131]
+- [@musevg][132]
 
 ## Links
 [1]:https://events.ccc.de/congress/2014/wiki/Static:How_To_Survive
@@ -445,3 +452,4 @@ These people have contributed to improve this list for everyone (in no particula
 [129]:https://github.com/qsuscs
 [130]:https://github.com/johnjohndoe
 [131]:http://ps0ke.de
+[132]:https://twitter.com/musevg
