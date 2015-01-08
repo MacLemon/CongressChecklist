@@ -41,6 +41,10 @@ You'll also find a list of all the nice humans who have contributed to this list
 ## Things to send
 Stuff that you're not allowed to bring on a plane or otherwise need to send via package courier or freight train. (Depending on its size.)
 
+### Not allowed on flights, or at least not in hand-lagguage
+- Knifes, even some pocket knifes
+- Lockpicking equipment
+- Handcuffs
 
 ## Things to pack
 
