@@ -81,19 +81,17 @@ In case of an accident or other emergency condition carry a piece of information
 
 
 #### Emergency Information for 31C3:
-If you're in an emergency shout HELP!  
+If you're in an emergency shout *HELP!*  
 
 If you need help, just call for help, there are many, many people around to help you.
 
-See the [Safety and Security][23]
+Event and location related emergency information is in a seperate document for the corresponding event in this repository!
 
-- 31C3 Medical Emergency or in case of fire: Call local DECT 112 (CERT)
-- 31C3 Security: Call local DECT 110
-- 31C3 organizers: 31c3-orga@cccv.de
-- local law enforcement in Hamburg: 110 or +49 40 4286 - 51410
-- local sexual assault hotline in Hamburg: +49 40 - 255566 (http://www.frauennotruf-hamburg.de)
-- Hamburg fire department: +49 40 42851-0 (BETTER USE 112 ON YOUR non-31C3 PHONE)
-- Hamburg ambulance: +49 40 228022  (BETTER USE 112 ON YOUR non-31C3 PHONE)
+#### Upcoming events:
+Chaos Communication Camp 2015
+
+
+
 
 
 ### Personal hygiene
@@ -424,7 +422,6 @@ These people have contributed to improve this list for everyone (in no particula
 [20]:https://events.ccc.de/congress/2014/Fahrplan/ "31C3 Fahrplan aka conference schedule"
 [21]:https://www.organspende-info.de
 [22]:https://play.google.com/store/apps/details?id=com.googlecode.droidwall.free
-[23]:https://events.ccc.de/congress/2014/wiki/Static:Safety_and_Security "31C3 Wiki: Safety and Security"
 [24]:https://wifipineapple.com/ "WiFi Pinapple"
 [25]:https://greatscottgadgets.com/throwingstar/ "Throwing star"
 [26]: https://play.google.com/store/apps/details?id=nerd.tuxmobil.fahrplan.congress
