@@ -41,7 +41,7 @@ You'll also find a list of all the nice humans who have contributed to this list
 ## Things to send
 Stuff that you're not allowed to bring on a plane or otherwise need to send via package courier or freight train. (Depending on its size.)
 
-### Not allowed on flights, or at least not in hand-lagguage
+### Not allowed or often problematic on flights, or at least not in hand-lagguage
 - Knifes, even some pocket knifes
 - Lockpicking equipment
 - Handcuffs
@@ -80,7 +80,7 @@ Stuff that you're not allowed to bring on a plane or otherwise need to send via 
 In case of an accident or other emergency condition carry a piece of information whom to contact or any special medical information that might be viable to your survival/first aid/medical staff.
 
 
-#### Emergency Information for 31C3:
+#### Emergency Information for Events:
 If you're in an emergency shout *HELP!*  
 
 If you need help, just call for help, there are many, many people around to help you.
@@ -88,8 +88,8 @@ If you need help, just call for help, there are many, many people around to help
 Event and location related emergency information is in a seperate document for the corresponding event in this repository!
 
 #### Upcoming events:
-Chaos Communication Camp 2015
-
+Chaos Communication Camp 2015 (2015-08-13 .. 2015-08-17)
+Chaos Communication Congress 2015 (2015-12-27 .. 2015-12-30)
 
 
 
@@ -154,7 +154,7 @@ Chaos Communication Camp 2015
 - contraceptives, prophylactic (contraceptive pill, condoms, etc.)
 - caffeine pills (In case you don't like Mate and nobody knows if you can actually drink the coffee served there.)
 - something for your stomach (if you've got a nervous digestive system when under stress, while flying or generally traveling)
-- camomile tea relives hyperacidity very well 
+- camomile tea relives hyperacidity very well
 - Bepanthen
 
 
@@ -193,6 +193,7 @@ Your personal medication does not belong on the public interwebs for your privac
 	- Mac: small Duck-head and long ([Schuko Plug][6]) cord
 	- Mac: MagSafe to MagSafe 2 Adapter
 	- Mac: There are also cords that you can plug directly into the MagSafe charger (when removing the duck head) that end in a [Euro Plug][8]. These cables are also often used on electric shavers
+    - Mac: USB-C type connector/charger
 - plug adaptor from your country of origin to [Schuko Plug][6]
 - 3* or 5* multi-plug power extension (230V≈ @50Hz) with [Schuko Plug][6] (and optional switch, hotel rooms usually suffer from severe lack of outlets)
 - simple extension cord (230V @50Hz, [Schuko Plug][6], the power outlet in your hotel room may be far away from your bedside)
@@ -208,26 +209,32 @@ Your personal medication does not belong on the public interwebs for your privac
 - [Throwing star LAN Tap][25]
 - **Optional** 1-10Gigabit Ethernet Switch
 - [Pineappleboard][24]
-- SDR Equipment: HackRF, RTL-SDR, Ettus,..
-- torch (Have spare batteries or rechargeables and a matching charger that works with 230V≈ @50Hz)
+- SDR Equipment: HackRF, RTL-SDR, Ettus, [Rad1o badge][30], …
+- Torch (Have spare batteries or rechargeables and a matching charger that works with 230V≈ @50Hz)
+- Headlamp
 - LED throwies
 - phones
 	- mobile phone (GSM) one each
 		- for your day-to-day SIM card
 		- for an optional SIM card of the country you travel to
 		- for a local GSM network at the venue,
-	- DECT phone (for the local wireless phone network),
-	- Be sure to register your extension number at [Eventphone][2].
+	- DECT phone (for the local wireless phone network avilable at many CCC events)
+        - Be sure to register your extension number at [Eventphone][2] prior to the event.
+        - Check if your DECT model is [compatible with Eventphone][31]
 - DVB-T dongle, there might be local DVB-T transmitter for the streams,
 - chargers for all those phones, or at least matching wires if you can charge over USB.
 	- iPhone, iPhone 3G, iPhone 3GS, iPhone 4, iPhone 4S, iPad, iPad 2, iPad 3 (The new iPad)
 		- USB-30 Pin dock connector (one each)
-	- iPhone 5 (or newer), iPad 4, iPad mini
+	- iPhone 5, iPhone 5S, iPhone 6, iPhone 6+ (or newer), iPad 4, iPad mini, iPad mini 2 with retina display, iPad mini 3
 		- USB-Lightning (one each)
 	- most Android phones
 		- USB-micro USB cable
+    - DECT phones
+        - Charging cradle (with power brick if required)
 - SIM cards (your usual one, local german SIM, CCC SIM)
-- Apple certified SIM eject tool (aka bent paperclip) to swap SIM cards
+- Apple certified SIM eject tool™ (aka bent paperclip) to swap SIM cards
+- Smart Watches
+    - Charging cable or docking station required to charge
 - a portable battery pack (aka powerbank) so you can charge on the go. (And the necessary cable to recharge that battery pack overnight.)
 - WiFi router/firewall (to connect to the hotel Wifi/network)
 - photo camera
@@ -247,15 +254,16 @@ Your personal medication does not belong on the public interwebs for your privac
 - tesla coils
 - micro USB cable
 - Firewire (400, 800) cable
+- RJ45 Ethernet adapter (from USB or Thunderbolt) to access the wired network. Thanks for not leeching on the WiFi!
 - antenna wire for WiFi or ham radio equipment
-- 3.5mm jack splitter (so you can watch a movie together on the train)
+- 3.5mm jack splitter (so you can watch a movie or talk recording together on the train)
 - headphones (so you don't have to talk to other carbon units while traveling)
 - [r0cket][4], fully charged (needs a micro USB cable for charging/programming)
-- monitor adapters (VGA, DVI, mini Displayport; especially for the Mac users. ;-) ), you may need them for your presentation or lightning talk.
-- remote control for your presentation / lightning talk (also check the batteries in the remote)
+- monitor adapters (VGA, DVI, HDMI, mini Displayport/Displayport, USB-C; especially for the Mac users and those with other fancy slim laptops. ;-) ), you may need them for your presentation or lightning talk.
+- remote control for your presentation / lightning talk (also check the batteries in the remote), dont' forget the USB dongle if your remote requires one
 - tablet computer, iPad, Android tablet, Microsoft surface
 - Kindle
-- an actual book (for those offline blackout moments)
+- an actual book (for those offline blackout moments), see [B.O.O.K.][32]
 - ham radio equipment, portable
 - Infrared, Bluetooth or radio remote (for presentations)
 - all your devices!!1 (Raspberry Pi, Arduino, FreedomBox, DreamPlug, …)
@@ -273,18 +281,21 @@ Your personal medication does not belong on the public interwebs for your privac
 - any other tools you may need (even if unlikely)
 - analog notebook (dead tree style)
 - pen, pencil, quill
+- Winkekatze
 - rubber ducks
 - NERF guns and ammuntion
-- musical instruments (guitar, trumpet, grand piano, laser harp, cajón, gameboy, ukulele)
+- musical instruments (guitar, trumpet, grand piano, theremin, laser harp, cajón, gameboy, ukulele, tesla coils)
 - Electronic Tuner (with fresh batteries)
 - cable ties
-- duct tape or gaffer tape
-- knitting needles and yarn (for guerrilla knitting/yarn bombing)
+- A Slinky for the escalators
+- duct tape or gaffer tape (vital)
+- knitting/sewing needles and yarn (for guerrilla knitting/yarn bombing)
 - a blanket
-- a pillow (and sleeping bag/camping mat if you intend to sleep at the gym)
+- a pillow (and sleeping bag/camping mat if you intend to sleep at the gym or in heaven)
 
 
 ## If you travel with your dog
+Please check in advance if dogs are allowed at the event you want to attend. Guide dogs are usually exempt, even if dogs are not allowed.
 - Blanket
 - Food (wet & dry, Snacks)
 - containers for water and food
@@ -295,9 +306,9 @@ Your personal medication does not belong on the public interwebs for your privac
 
 
 ## Securing your devices
-All security measures for devices on public Internet networks also apply here – threats might come from untrusted devices _within_, as well as from maleficent third parties _outside_ the Congress network.
+All security measures for devices on public Internet networks also apply here – threats might come from untrusted devices _within_, as well as from maleficent third parties _outside_ the Congress network. Of course you should have these measures in place everywhere and all the time since event networks are no more or no less dangerous than the internet in general.
 
-Read the [How to survive guide][1] in the Congress Wiki. There are many excellent tips in there.
+Read the [How to survive guide][1] in the Congress Wiki. There are many excellent tips in there or consult you local [CryptoParty][33] meetup.
 
 
 ### Backups
@@ -317,7 +328,7 @@ You did make fresh backups of all your devices, did you?
 
 
 ### Servers
-Check that _all_ your server services are using proper TLS. See [bettercrypto.org][15] for help on how to properly configure your servers. (Mail, Web, VPN, SSH, etc.)
+Check that _all_ your server services are using proper TLS. See [bettercrypto.org][15] or other sources you trust for help on how to properly configure your servers. (Mail, Web, VPN, SSH, etc.)
 
 
 ### VPN tunnel
@@ -428,6 +439,10 @@ These people have contributed to improve this list for everyone (in no particula
 [27]: https://github.com/tuxmobil/CampFahrplan
 [28]: https://itunes.apple.com/us/app/30c3-fahrplan-30c3-event-organizer/id764609606?mt=8
 [29]: http://en.wikipedia.org/wiki/Knife_legislation#Germany
+[30]:https://rad1o.badge.events.ccc.de/ "Rad1o Badge, CCCamp 2015"
+[31]:https://www.eventphone.de/wiki/index.php/DECT_Phone_Compatibility_List "Eventphone DECT handset compatibility list"
+[32]:https://www.youtube.com/watch?v=J0MUEqzWve8 "YouTube: B.O.O.K."
+[33]:https://www.cryptoparty.in/location "List of international CryptoParty events"
 
 [100]:https://twitter.com/Astarioth
 [101]:https://twitter.com/N4mes
