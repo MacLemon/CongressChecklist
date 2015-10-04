@@ -70,6 +70,7 @@ Stuff that you're not allowed to bring on a plane or otherwise need to send via 
 - coins (€uros, for automated vending machines, like public transport tickets)
 - Bitcoin wallet (the encrypted fashion with a good passphrase)
 - emergency numbers for your bank so you can lock your credit card/debit card/Bankomatkarte in case it gets lost/stolen/left behind.
+    - For your Bankomat Karte (EC debit card) check if the “Geo Control” of your bank allows withdrawing in your destination country.
 
 
 ### Mobility
