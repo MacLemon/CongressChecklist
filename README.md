@@ -89,7 +89,6 @@ If you need help, just call for help, there are many, many people around to help
 Event and location related emergency information is in a seperate document for the corresponding event in this repository!
 
 #### Upcoming events:
-Chaos Communication Camp 2015 (2015-08-13 .. 2015-08-17)
 Chaos Communication Congress 2015 (2015-12-27 .. 2015-12-30)
 
 
@@ -223,7 +222,7 @@ Your personal medication does not belong on the public interwebs for your privac
         - Be sure to register your extension number at [Eventphone][2] prior to the event.
         - Check if your DECT model is [compatible with Eventphone][31]
 - DVB-T dongle, there might be local DVB-T transmitter for the streams,
-- chargers for all those phones, or at least matching wires if you can charge over USB.
+- chargers for all those phones, or at least matching cables if you can charge over USB.
 	- iPhone, iPhone 3G, iPhone 3GS, iPhone 4, iPhone 4S, iPad, iPad 2, iPad 3 (The new iPad)
 		- USB-30 Pin dock connector (one each)
 	- iPhone 5, iPhone 5S, iPhone 6, iPhone 6+ (or newer), iPad 4, iPad mini, iPad mini 2 with retina display, iPad mini 3
