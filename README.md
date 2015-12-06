@@ -140,6 +140,7 @@ Chaos Communication Congress 2015 (2015-12-27 .. 2015-12-30)
 
 ### Medication
 
+
 #### Personal Hygiene ####
 - Hand desinfectant
 
@@ -160,7 +161,7 @@ Chaos Communication Congress 2015 (2015-12-27 .. 2015-12-30)
 
 #### Personal medication
 Your personal medication does not belong on the public interwebs for your privacy. This is just a reminder to pack it. Please do not include your personal medications in pull requests. :-)
-
+If you need refrigeration for your personal medication, that is possible at the C3 CERT on site.
 
 ### Schedule
 - Have a look at the [Fahrplan][20] and maybe make a preselection of talks you really "have to", "want to" or "would be nice to" see
