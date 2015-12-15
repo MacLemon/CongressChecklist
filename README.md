@@ -126,17 +126,17 @@ Chaos Communication Congress 2015 (2015-12-27 .. 2015-12-30)
 
 
 ### Cosmetics
-- make up
-- nail polish
-- nail scissors
-- nail file
-- razor (with spare blades)
-- lipstick/lipgloss
-- lipbalm
-- tweezers
-- cotton swabs (Wattestäbchen)
-- make up remover pads
-- skin care
+- Make up
+- Nail polish
+- Nail scissors
+- Nail file
+- Razor (with spare blades / plus charger if it is an electrical one)
+- Lipstick/lipgloss
+- Lipbalm
+- Tweezers
+- Cotton swabs (Wattestäbchen)
+- Make up remover pads
+- Skin care
 
 
 ### Medication
@@ -147,16 +147,16 @@ Chaos Communication Congress 2015 (2015-12-27 .. 2015-12-30)
 
 
 #### Generic medication
-- patches (Pflaster, for your webcam or if a MacBook AirFrisbee hit you)
+- Patches (Pflaster, for your webcam or if a MacBook AirFrisbee hit you)
 - Aspirin (If you partied too long …)
 - Thomapyrin (analgetic)
 - Parkemed (DE/AT), Ponstel (USA), Ponstel (UK) (analgetic)
 - Clarityn (or other histamine blocker if you're allergic to something)
 - Neocitran/Theraflu/Paracetamol (just in case hacker pest strikes)
-- contraceptives, prophylactic (contraceptive pill, condoms, etc.)
-- caffeine pills (In case you don't like Mate and nobody knows if you can actually drink the coffee served there.)
-- something for your stomach (if you've got a nervous digestive system when under stress, while flying or generally traveling)
-- camomile tea relives hyperacidity very well
+- Contraceptives, prophylactic (contraceptive pill, condoms, etc.)
+- Caffeine pills (In case you don't like Mate and nobody knows if you can actually drink the coffee served there.)
+- Something for your stomach (if you've got a nervous digestive system when under stress, while flying or generally traveling)
+- Camomile tea relives hyperacidity very well
 - Bepanthen
 
 
@@ -172,26 +172,26 @@ If you need refrigeration for your personal medication, that is possible at the 
 
 
 ### Clothing
-- at least ONE clean shirt for each day you stay, plus two for traveling to and from congress (nerdy print is always welcome)
-- at least ONE set of clean underwear for each day you stay, plus two for traveling to and from congress (Doesn't necessarily need to be in matching pairs, but that is up to you.)
-- at least ONE pair of clean socks/stockings/tights/overknees for each day you stay, plus two for traveling to and from congress
-- enough pants/skirts/trousers/dresses/etc. so you can wear clean clothes every day you attend congress (even if somebody accidentally (or intentionally) spills a beverage all over you!)
-- sewing set (needle, thread, spare button for your trousers/skirts/shirts/blouses/etc.)
-- long sleeve shirts
-- hoodies, pullovers (it's cold outside!)
-- jacket (wind proof, at least somewhat water resistant) (it's cold outside!)
-- cap, wool cap
-- umbrella
-- comfortable shoes (You'll make a lot of distance-units during your stay)
-- bag to separate laundry from clean clothes in your luggage
-- gloves
-- scarf
-- swim suit, bikini, trunks (in case your hotel has a pool)
+- At least ONE clean shirt for each day you stay, plus two for traveling to and from congress (nerdy print is always welcome)
+- At least ONE set of clean underwear for each day you stay, plus two for traveling to and from congress (Doesn't necessarily need to be in matching pairs, but that is up to you.)
+- At least ONE pair of clean socks/stockings/tights/overknees for each day you stay, plus two for traveling to and from congress
+- Enough pants/skirts/trousers/dresses/etc. so you can wear clean clothes every day you attend congress (even if somebody accidentally (or intentionally) spills a beverage all over you!)
+- Sewing set (needle, thread, spare button for your trousers/skirts/shirts/blouses/etc.)
+- Long sleeve shirts
+- Hoodies, pullovers (it's cold outside!)
+- Jacket (wind proof, at least somewhat water resistant) (it's cold outside!)
+- Cap, wool cap
+- Umbrella
+- Comfortable shoes (You'll make a lot of distance-units during your stay)
+- Bag to separate laundry from clean clothes in your luggage
+- Gloves
+- Scarf
+- Swim suit, bikini, trunks (in case your hotel has a pool)
 
 
 ### Gear
 #### Laptop and Devices
-- laptop (with a working battery)
+- Laptop (with a working battery)
 - USB flash drives
 	- Put an OWNER.txt file on them with information on how to contact you in case one gets lost accidentally. (Twitter, phone (for example DECT, 31C3 GSM extensions), email, name of the assembly you're well known at, owl, raven)
 	- For devices with private information be sure to encrypt them! (TrueCrypt, GPG, FileVault, EncFS, Bitlocker, gbde, geli, dm-crypt, LUKS, eCryptFS)
@@ -205,23 +205,23 @@ If you need refrigeration for your personal medication, that is possible at the 
 - an actual book (for those offline blackout moments), see [B.O.O.K.][32]
 
 #### Power and Chargers
-- charger for laptop
+- Charger for laptop
 	- Mac: small Duck-head and long ([Schuko Plug][6]) cord
 	- Mac: MagSafe to MagSafe 2 Adapter
 	- Mac: There are also cords that you can plug directly into the MagSafe charger (when removing the duck head) that end in a [Euro Plug][8]. These cables are also often used on electric shavers
     - Mac: USB-C type connector/charger
-- plug adaptor from your country of origin to [Schuko Plug][6]
-- 3* or 5* multi-plug power extension (230V≈ @50Hz) with [Schuko Plug][6] (and optional switch, hotel rooms usually suffer from severe lack of outlets)
-- simple extension cord (230V @50Hz, [Schuko Plug][6], the power outlet in your hotel room may be far away from your bedside)
-- chargers for all those phones, or at least matching cables if you can charge over USB.
+- Plug adaptor from your country of origin to [Schuko Plug][6]
+- 3* or 5* multi-plug power extension (230V AC @50Hz) with [Schuko Plug][6] (and optional switch, hotel rooms usually suffer from severe lack of outlets)
+- Simple extension cord (230V AC @50Hz, [Schuko Plug][6], the power outlet in your hotel room may be far away from your bedside)
+- Chargers for all those phones, or at least matching cables if you can charge over USB.
 	- iPhone, iPhone 3G, iPhone 3GS, iPhone 4, iPhone 4S, iPad, iPad 2, iPad 3 (The new iPad)
 		- USB-30 Pin dock connector (one each)
 	- iPhone 5, iPhone 5S, iPhone 6, iPhone 6+ (or newer), iPad 4, iPad mini, iPad mini 2 with retina display, iPad mini 3
 		- USB-Lightning (one each)
 	- most Android phones
 		- USB-micro USB cable
-    - DECT phones
-        - Charging cradle (with power brick if required)
+  - DECT phones
+      - Charging cradle (with power brick if required)
 - a portable battery pack (aka powerbank) so you can charge on the go. (And the necessary cable to recharge that battery pack overnight.)
 
 #### Wireless and HF
@@ -234,11 +234,11 @@ If you need refrigeration for your personal medication, that is possible at the 
 - USB <-> RS232 adapter (preferably FTDI)
 - RS232 cable
 - USB A-B cable
-- mini USB cable
-- micro USB cable
+- Mini USB cable
+- Micro USB cable
 - Firewire (400, 800) cable
 - RJ45 Ethernet adapter (from USB or Thunderbolt) to access the wired network. Thanks for not leeching on the WiFi!
-- antenna wire for WiFi or ham radio equipment
+- Antenna wire for WiFi or ham radio equipment
 - 3.5mm jack splitter (so you can watch a movie or talk recording together on the train)
 
 #### Mobil and Communications
@@ -258,20 +258,20 @@ If you need refrigeration for your personal medication, that is possible at the 
 
 
 #### Camera
-- photo camera
-	- batteries
-	- charger
-	- memory cards (CF, SD, SDHC, xD, memory stick, etc.)
+- Photo camera / Actioncam
+	- Batteries
+	- Charger
+	- Memory cards (CF, SD, SDHC, xD, memory stick, etc.)
 		- freshly formatted
-	- card reader to import pictures (if your laptop doesn't have a matching built-in card reader)
-	- camera bag
-	- camera strap
-	- lenses with lens caps
-	- lens cleaning cloth
+	- Card reader to import pictures (if your laptop doesn't have a matching built-in card reader)
+	- Camera bag
+	- Camera strap
+	- Lenses with lens caps
+	- Lens cleaning cloth
 
 #### Talk gear
-- monitor adapters (VGA, DVI, HDMI, mini Displayport/Displayport, USB-C; especially for the Mac users and those with other fancy slim laptops. ;-) ), you may need them for your presentation or lightning talk.
-- remote control for your presentation / lightning talk (also check the batteries in the remote), dont' forget the USB dongle if your remote requires one
+- Monitor adapters (VGA, DVI, HDMI, mini Displayport/Displayport, USB-C; especially for the Mac users and those with other fancy slim laptops. ;-) ), you may need them for your presentation or lightning talk.
+- Remote control for your presentation / lightning talk (also check the batteries in the remote), dont' forget the USB dongle if your remote requires one
 - Infrared, Bluetooth or radio remote (for presentations)
 
 #### CCC
@@ -285,44 +285,44 @@ If you need refrigeration for your personal medication, that is possible at the 
 - Torch (Have spare batteries or rechargeables and a matching charger that works with 230V≈ @50Hz)
 - Headlamp
 - LED throwies
-- tesla coils
-- headphones (so you don't have to talk to other carbon units while traveling)
-- all your devices!!1 (Raspberry Pi, Arduino, FreedomBox, DreamPlug, …)
+- Tesla coils
+- Headphones (so you don't have to talk to other carbon units while traveling)
+- All your devices!!1 (Raspberry Pi, Arduino, FreedomBox, DreamPlug, …)
 	- + cables + SD-cards (+ GPIO equipment)
 	- + extra WiFi antenna (USB) and/or extra Ethernet cord
 
 ### Other gear
-- pocket knife ([Conforming to the German Weapons Act:][29] Blade must not exceed 12cm; Folding knifes with locking blades must not be designed to be opened with one hand. Also, “thrusting weapons” such as daggers, stilettos, swords etc. are restricted items.)
+- Pocket knife ([Conforming to the German Weapons Act:][29] Blade must not exceed 12cm; Folding knifes with locking blades must not be designed to be opened with one hand. Also, “thrusting weapons” such as daggers, stilettos, swords etc. are restricted items.)
     - Swiss knife
     - Victorinox cybertool
     - Leatherman (check for one-handed opening mechanisms, such as thumb holes or studs)
-- screw drivers, pit set
-- soldering iron
-- any other tools you may need (even if unlikely)
-- analog notebook (dead tree style)
-- pen, pencil, quill
+- Screw drivers, pit set
+- Soldering iron
+- Any other tools you may need (even if unlikely)
+- Analog notebook (dead tree style)
+- Pen, pencil, quill
 - Winkekatze
-- rubber ducks
+- Rubber ducks
 - NERF guns and ammuntion
-- musical instruments (guitar, trumpet, grand piano, theremin, laser harp, cajón, gameboy, ukulele, tesla coils)
+- Musical instruments (guitar, trumpet, grand piano, theremin, laser harp, cajón, gameboy, ukulele, tesla coils)
 - Electronic Tuner (with fresh batteries)
-- cable ties
+- Cable ties
 - A Slinky for the escalators
-- duct tape or gaffer tape (vital)
-- knitting/sewing needles and yarn (for guerrilla knitting/yarn bombing)
-- a blanket
-- a pillow (and sleeping bag/camping mat if you intend to sleep at the gym or in heaven)
+- Duct tape or gaffer tape (vital)
+- Knitting/sewing needles and yarn (for guerrilla knitting/yarn bombing)
+- A blanket
+- A pillow (and sleeping bag/camping mat if you intend to sleep at the gym or in heaven)
 
 
 ## If you travel with your dog
 Please check in advance if dogs are allowed at the event you want to attend. Guide dogs are usually exempt, even if dogs are not allowed.
 - Blanket
 - Food (wet & dry, Snacks)
-- containers for water and food
-- brush
-- tick forceps / tick tweezers
-- backup leash
-- medication
+- Containers for water and food
+- Brush
+- Tick forceps / tick tweezers
+- Backup leash
+- Medication
 
 
 ## Securing your devices
@@ -429,6 +429,8 @@ These people have contributed to improve this list for everyone (in no particula
 - [Ps0ke][131]
 - [@musevg][132]
 - [@leyrer][133]
+- [@cloelkes][134]
+
 
 ## Links
 [1]:https://events.ccc.de/congress/2014/wiki/Static:How_To_Survive
@@ -498,3 +500,4 @@ These people have contributed to improve this list for everyone (in no particula
 [131]:http://ps0ke.de
 [132]:https://twitter.com/musevg
 [133]:https://twitter.com/leyrer
+[134]:https://twitter.com/cloelkes
