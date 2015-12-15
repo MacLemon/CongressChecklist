@@ -26,7 +26,7 @@ You'll also find a list of all the nice humans who have contributed to this list
 ## Things to do before traveling
 - Charge ALL the batteries!
 - Make backups.
-- bonus points for even testing restore
+- Bonus points for even testing restore
 - Update all the software on your devices.
 - You might want to empty your drives to make room for some COMPLETELY LEGAL media files that might be shared
 - Put your name on your stuff, especially on things you’ll likely lend to someone (power strips, cables etc). Twitter handles make excellent name tags because people know how to contact you right away. Prefer permanent markers over stickers, for theft reasons.
@@ -53,23 +53,24 @@ Stuff that you're not allowed to bring on a plane or otherwise need to send via 
 
 
 ### Documents
-- train/plane tickets (including verification documents for self-printed DB tickets, like your credit card or Personalausweis)
-- congress tickets (printed or in iOS passbook)
-- passport or other kind of photo ID (Personalausweis)
-- driver's license (even an international one)
-- hotel booking
-- ham radio license (CEPT license)
+- Train/plane tickets (including verification documents for self-printed DB tickets, like your credit card or Personalausweis)
+- Congress tickets (printed or in iOS passbook)
+- Passport or other kind of photo ID (Personalausweis)
+- Driver's license (even an international one)
+- Hotel booking
+- Ham radio license (CEPT license)
 - [Hackerspace passport][5]
-- an [organ donor card][21] (We really hope you won't need them, but just in the case: you might save a life!)
-- your health insurance card
+- An [organ donor card][21] (We really hope you won't need them, but just in the case: you might save a life!)
+- Your health insurance card
+- Your vaccination documents or history (Impfpass)
 
 
 ### Payment stuff
-- some cash (€uros)
-- credit card
-- coins (€uros, for automated vending machines, like public transport tickets)
+- Some cash (€uros)
+- Credit card
+- Coins (€uros, for automated vending machines, like public transport tickets)
 - Bitcoin wallet (the encrypted fashion with a good passphrase)
-- emergency numbers for your bank so you can lock your credit card/debit card/Bankomatkarte in case it gets lost/stolen/left behind.
+- Emergency numbers for your bank so you can lock your credit card/debit card/Bankomatkarte in case it gets lost/stolen/left behind.
     - For your Bankomat Karte (EC debit card) check if the “Geo Control” of your bank allows withdrawing in your destination country.
 
 
@@ -95,31 +96,31 @@ Chaos Communication Congress 2015 (2015-12-27 .. 2015-12-30)
 
 
 ### Personal hygiene
-- tooth brush (plus charger if it is an electrical one)
-- toothpaste
-- shower gel
-- shampoo (to avoid bad hair days)
-- conditioner
-- tampons
-- sanitary towels
-- condoms, dental dams and other protective gear (Make sure the condoms are not beyond their usage date! (Yes, it really happens…))
-- lubricant (water based to be compatible with condoms)
-- disinfectants
-- soap
-- deodorant, antiperspirant
-- hairbrush/comb (to avoid bad hair days)
-- hair-band (Zopfringerl) to tame your mane
-- handkerchiefs
-- towel. Never hitchhike the Galaxy without one.
-- contact lenses
+- Tooth brush (plus charger if it is an electrical one)
+- Toothpaste
+- Shower gel
+- Shampoo (to avoid bad hair days)
+- Conditioner
+- Tampons
+- Sanitary towels
+- Condoms, dental dams and other protective gear (Make sure the condoms are not beyond their usage date! (Yes, it really happens…))
+- Lubricant (water based to be compatible with condoms)
+- Disinfectants
+- Soap
+- Deodorant, antiperspirant
+- Hairbrush/comb (to avoid bad hair days)
+- Hair-band (Zopfringerl) to tame your mane
+- Handkerchiefs
+- Towel. Never hitchhike the Galaxy without one.
+- Contact lenses
 	- cleaning fluid
 	- contact lens container
 	- replacement contact lenses
 	- replacement glasses
 	- eye drops
-- glasses
-- spectacle case
-- cleaning cloth
+- Glasses
+- Spectacle case
+- Cleaning cloth
 - Oropax or other things to plug into your ears for a good “night”'s sleep.
 - Hair dryer (in case your place/hotel doesn't supply one)
 
@@ -177,8 +178,8 @@ If you need refrigeration for your personal medication, that is possible at the 
 - enough pants/skirts/trousers/dresses/etc. so you can wear clean clothes every day you attend congress (even if somebody accidentally (or intentionally) spills a beverage all over you!)
 - sewing set (needle, thread, spare button for your trousers/skirts/shirts/blouses/etc.)
 - long sleeve shirts
-- hoodies, pullovers
-- jacket (wind proof, at least somewhat water resistant)
+- hoodies, pullovers (it's cold outside!)
+- jacket (wind proof, at least somewhat water resistant) (it's cold outside!)
 - cap, wool cap
 - umbrella
 - comfortable shoes (You'll make a lot of distance-units during your stay)
