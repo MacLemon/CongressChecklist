@@ -199,10 +199,10 @@ If you need refrigeration for your personal medication, that is possible at the 
 	- Mac: NTFS, ZFS, Ext can be read, but not written to without 3rd party software. FAT, ExFAT, HFS+(J), HFSX are fine for current OS X versions
 - Ethernet cords (Cat5e) of multiple lengths (Maybe have a spare to tether a friend)
 	- USB/Thunderbolt to Ethernet adapter, if your device needs one (for example thin notebooks)
-- mass storage drives (take some empty ones with you to fill with data and/or bring your own data and share it!)
-- tablet computer, iPad, Android tablet, Microsoft surface
+- Mass storage drives (take some empty ones with you to fill with data and/or bring your own data and share it!)
+- Tablet computer, iPad, Android tablet, Microsoft surface
 - Kindle
-- an actual book (for those offline blackout moments), see [B.O.O.K.][32]
+- An actual book (for those offline blackout moments), see [B.O.O.K.][32]
 
 #### Power and Chargers
 - Charger for laptop
@@ -222,12 +222,12 @@ If you need refrigeration for your personal medication, that is possible at the 
 		- USB-micro USB cable
   - DECT phones
       - Charging cradle (with power brick if required)
-- a portable battery pack (aka powerbank) so you can charge on the go. (And the necessary cable to recharge that battery pack overnight.)
+- A portable battery pack (aka powerbank) so you can charge on the go. (And the necessary cable to recharge that battery pack overnight.)
 
 #### Wireless and HF
 - SDR Equipment: HackRF, RTL-SDR, Ettus, …
 - DVB-T dongle, there might be local DVB-T transmitter for the streams,
-- ham radio equipment, portable
+- Ham radio equipment, portable
 - WiFi router/firewall (to connect to the hotel Wifi/network)
 
 #### Cables and Adapters
@@ -242,8 +242,8 @@ If you need refrigeration for your personal medication, that is possible at the 
 - 3.5mm jack splitter (so you can watch a movie or talk recording together on the train)
 
 #### Mobil and Communications
-- phones
-	- mobile phone (GSM) one each
+- Phones
+	- Mobile phone (GSM) one each
 		- for your day-to-day SIM card
 		- for an optional SIM card of the country you travel to
 		- for a local GSM network at the venue,
