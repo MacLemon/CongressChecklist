@@ -42,7 +42,7 @@ You'll also find a list of all the nice humans who have contributed to this list
 Stuff that you're not allowed to bring on a plane or otherwise need to send via package courier or freight train. (Depending on its size.)
 
 ### Not allowed or often problematic on flights, or at least not in hand-lagguage
-- Knifes, even some pocket knifes
+- Knives, even some pocket knives
 - Lockpicking equipment
 - Handcuffs
 
@@ -229,8 +229,8 @@ If you need refrigeration for your personal medication, that is possible at the 
 		- USB-30 Pin dock connector (one each)
 	- iPhone 5, iPhone 5S, iPhone 6, iPhone 6+ (or newer), iPad 4, iPad mini, iPad mini 2 with retina display, iPad mini 3
 		- USB-Lightning (one each)
-	- most Android phones
-		- USB-micro USB cable
+	- most Android phones (and other exotic stuff like WP, Firefox OS, etc)
+		- micro USB cable
     - DECT phones
         - Charging cradle (with power brick if required)
 - SIM cards (your usual one, local german SIM, CCC SIM)
@@ -239,7 +239,7 @@ If you need refrigeration for your personal medication, that is possible at the 
     - Charging cable or docking station required to charge
 - a portable battery pack (aka powerbank) so you can charge on the go. (And the necessary cable to recharge that battery pack overnight.)
 - WiFi router/firewall (to connect to the hotel Wifi/network)
-- photo camera
+- photo camera (but please remember to ask if it is ok to take a picture BEFORE taking the picture)
 	- batteries
 	- charger
 	- memory cards (CF, SD, SDHC, xD, memory stick, etc.)
