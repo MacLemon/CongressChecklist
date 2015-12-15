@@ -70,6 +70,7 @@ Stuff that you're not allowed to bring on a plane or otherwise need to send via 
 - coins (€uros, for automated vending machines, like public transport tickets)
 - Bitcoin wallet (the encrypted fashion with a good passphrase)
 - emergency numbers for your bank so you can lock your credit card/debit card/Bankomatkarte in case it gets lost/stolen/left behind.
+    - german cards can be locked via the [lockinghotline][34] 116 116 (or +49 - 30 4050 4050)
     - For your Bankomat Karte (EC debit card) check if the “Geo Control” of your bank allows withdrawing in your destination country.
 
 
@@ -410,6 +411,7 @@ These people have contributed to improve this list for everyone (in no particula
 - [Ps0ke][131]
 - [@musevg][132]
 - [@leyrer][133]
+- [hax404][134]
 
 ## Links
 [1]:https://events.ccc.de/congress/2014/wiki/Static:How_To_Survive
@@ -444,6 +446,7 @@ These people have contributed to improve this list for everyone (in no particula
 [31]:https://www.eventphone.de/wiki/index.php/DECT_Phone_Compatibility_List "Eventphone DECT handset compatibility list"
 [32]:https://www.youtube.com/watch?v=J0MUEqzWve8 "YouTube: B.O.O.K."
 [33]:https://www.cryptoparty.in/location "List of international CryptoParty events"
+[34]:http://www.sperr-notruf.de/
 
 [100]:https://twitter.com/Astarioth
 [101]:https://twitter.com/N4mes
@@ -479,3 +482,4 @@ These people have contributed to improve this list for everyone (in no particula
 [131]:http://ps0ke.de
 [132]:https://twitter.com/musevg
 [133]:https://twitter.com/leyrer
+[134]:https://www.hax404.de/
