@@ -189,15 +189,8 @@ If you need refrigeration for your personal medication, that is possible at the 
 
 
 ### Gear
+#### Laptop and Devices
 - laptop (with a working battery)
-- charger for laptop
-	- Mac: small Duck-head and long ([Schuko Plug][6]) cord
-	- Mac: MagSafe to MagSafe 2 Adapter
-	- Mac: There are also cords that you can plug directly into the MagSafe charger (when removing the duck head) that end in a [Euro Plug][8]. These cables are also often used on electric shavers
-    - Mac: USB-C type connector/charger
-- plug adaptor from your country of origin to [Schuko Plug][6]
-- 3* or 5* multi-plug power extension (230V≈ @50Hz) with [Schuko Plug][6] (and optional switch, hotel rooms usually suffer from severe lack of outlets)
-- simple extension cord (230V @50Hz, [Schuko Plug][6], the power outlet in your hotel room may be far away from your bedside)
 - USB flash drives
 	- Put an OWNER.txt file on them with information on how to contact you in case one gets lost accidentally. (Twitter, phone (for example DECT, 31C3 GSM extensions), email, name of the assembly you're well known at, owl, raven)
 	- For devices with private information be sure to encrypt them! (TrueCrypt, GPG, FileVault, EncFS, Bitlocker, gbde, geli, dm-crypt, LUKS, eCryptFS)
@@ -206,23 +199,19 @@ If you need refrigeration for your personal medication, that is possible at the 
 - Ethernet cords (Cat5e) of multiple lengths (Maybe have a spare to tether a friend)
 	- USB/Thunderbolt to Ethernet adapter, if your device needs one (for example thin notebooks)
 - mass storage drives (take some empty ones with you to fill with data and/or bring your own data and share it!)
-- Cat5 o'nine tails
-- [Throwing star LAN Tap][25]
-- **Optional** 1-10Gigabit Ethernet Switch
-- [Pineappleboard][24]
-- SDR Equipment: HackRF, RTL-SDR, Ettus, [Rad1o badge][30], …
-- Torch (Have spare batteries or rechargeables and a matching charger that works with 230V≈ @50Hz)
-- Headlamp
-- LED throwies
-- phones
-	- mobile phone (GSM) one each
-		- for your day-to-day SIM card
-		- for an optional SIM card of the country you travel to
-		- for a local GSM network at the venue,
-	- DECT phone (for the local wireless phone network avilable at many CCC events)
-        - Be sure to register your extension number at [Eventphone][2] prior to the event.
-        - Check if your DECT model is [compatible with Eventphone][31]
-- DVB-T dongle, there might be local DVB-T transmitter for the streams,
+- tablet computer, iPad, Android tablet, Microsoft surface
+- Kindle
+- an actual book (for those offline blackout moments), see [B.O.O.K.][32]
+
+#### Power and Chargers
+- charger for laptop
+	- Mac: small Duck-head and long ([Schuko Plug][6]) cord
+	- Mac: MagSafe to MagSafe 2 Adapter
+	- Mac: There are also cords that you can plug directly into the MagSafe charger (when removing the duck head) that end in a [Euro Plug][8]. These cables are also often used on electric shavers
+    - Mac: USB-C type connector/charger
+- plug adaptor from your country of origin to [Schuko Plug][6]
+- 3* or 5* multi-plug power extension (230V≈ @50Hz) with [Schuko Plug][6] (and optional switch, hotel rooms usually suffer from severe lack of outlets)
+- simple extension cord (230V @50Hz, [Schuko Plug][6], the power outlet in your hotel room may be far away from your bedside)
 - chargers for all those phones, or at least matching cables if you can charge over USB.
 	- iPhone, iPhone 3G, iPhone 3GS, iPhone 4, iPhone 4S, iPad, iPad 2, iPad 3 (The new iPad)
 		- USB-30 Pin dock connector (one each)
@@ -232,12 +221,42 @@ If you need refrigeration for your personal medication, that is possible at the 
 		- USB-micro USB cable
     - DECT phones
         - Charging cradle (with power brick if required)
+- a portable battery pack (aka powerbank) so you can charge on the go. (And the necessary cable to recharge that battery pack overnight.)
+
+#### Wireless and HF
+- SDR Equipment: HackRF, RTL-SDR, Ettus, …
+- DVB-T dongle, there might be local DVB-T transmitter for the streams,
+- ham radio equipment, portable
+- WiFi router/firewall (to connect to the hotel Wifi/network)
+
+#### Cables and Adapters
+- USB <-> RS232 adapter (preferably FTDI)
+- RS232 cable
+- USB A-B cable
+- mini USB cable
+- micro USB cable
+- Firewire (400, 800) cable
+- RJ45 Ethernet adapter (from USB or Thunderbolt) to access the wired network. Thanks for not leeching on the WiFi!
+- antenna wire for WiFi or ham radio equipment
+- 3.5mm jack splitter (so you can watch a movie or talk recording together on the train)
+
+#### Mobil and Communications
+- phones
+	- mobile phone (GSM) one each
+		- for your day-to-day SIM card
+		- for an optional SIM card of the country you travel to
+		- for a local GSM network at the venue,
+	- DECT phone (for the local wireless phone network avilable at many CCC events)
+        - Be sure to register your extension number at [Eventphone][2] prior to the event.
+        - Check if your DECT model is [compatible with Eventphone][31]
 - SIM cards (your usual one, local german SIM, CCC SIM)
 - Apple certified SIM eject tool™ (aka bent paperclip) to swap SIM cards
 - Smart Watches
     - Charging cable or docking station required to charge
-- a portable battery pack (aka powerbank) so you can charge on the go. (And the necessary cable to recharge that battery pack overnight.)
-- WiFi router/firewall (to connect to the hotel Wifi/network)
+- **Optional** 1-10Gigabit Ethernet Switch
+
+
+#### Camera
 - photo camera
 	- batteries
 	- charger
@@ -248,29 +267,28 @@ If you need refrigeration for your personal medication, that is possible at the 
 	- camera strap
 	- lenses with lens caps
 	- lens cleaning cloth
-- USB <-> RS232 adapter (preferably FTDI)
-- RS232 cable
-- USB A-B cable
-- mini USB cable
-- tesla coils
-- micro USB cable
-- Firewire (400, 800) cable
-- RJ45 Ethernet adapter (from USB or Thunderbolt) to access the wired network. Thanks for not leeching on the WiFi!
-- antenna wire for WiFi or ham radio equipment
-- 3.5mm jack splitter (so you can watch a movie or talk recording together on the train)
-- headphones (so you don't have to talk to other carbon units while traveling)
-- [r0cket][4], fully charged (needs a micro USB cable for charging/programming)
+
+#### Talk gear
 - monitor adapters (VGA, DVI, HDMI, mini Displayport/Displayport, USB-C; especially for the Mac users and those with other fancy slim laptops. ;-) ), you may need them for your presentation or lightning talk.
 - remote control for your presentation / lightning talk (also check the batteries in the remote), dont' forget the USB dongle if your remote requires one
-- tablet computer, iPad, Android tablet, Microsoft surface
-- Kindle
-- an actual book (for those offline blackout moments), see [B.O.O.K.][32]
-- ham radio equipment, portable
 - Infrared, Bluetooth or radio remote (for presentations)
+
+#### CCC
+- [r0cket][4], fully charged (needs a micro USB cable for charging/programming)
+- [Rad1o badge][30]
+
+#### Other
+- Cat5 o'nine tails
+- [Throwing star LAN Tap][25]
+- [Pineappleboard][24]
+- Torch (Have spare batteries or rechargeables and a matching charger that works with 230V≈ @50Hz)
+- Headlamp
+- LED throwies
+- tesla coils
+- headphones (so you don't have to talk to other carbon units while traveling)
 - all your devices!!1 (Raspberry Pi, Arduino, FreedomBox, DreamPlug, …)
 	- + cables + SD-cards (+ GPIO equipment)
 	- + extra WiFi antenna (USB) and/or extra Ethernet cord
-
 
 ### Other gear
 - pocket knife ([Conforming to the German Weapons Act:][29] Blade must not exceed 12cm; Folding knifes with locking blades must not be designed to be opened with one hand. Also, “thrusting weapons” such as daggers, stilettos, swords etc. are restricted items.)
