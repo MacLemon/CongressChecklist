@@ -133,6 +133,8 @@ Chaos Communication Congress 2015 (2015-12-27 .. 2015-12-30)
 - Nail scissors
 - Nail file
 - Razor (with spare blades / plus charger if it is an electrical one)
+- Shaving soap
+- Shaving brush
 - Lipstick/lipgloss
 - Lipbalm
 - Tweezers
