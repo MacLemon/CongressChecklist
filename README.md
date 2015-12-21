@@ -456,7 +456,7 @@ These people have contributed to improve this list for everyone (in no particula
 - [@cloelkes][135]
 
 ## Links
-[1]:https://events.ccc.de/congress/2014/wiki/Static:How_To_Survive
+[1]:https://events.ccc.de/congress/2015/wiki/Static:How_To_Survive
 [2]:https://www.eventphone.de/
 [3]:https://events.ccc.de/congress/2013/wiki/Static:Anti-Harassment_Policy "Anti Harrassment Policy"
 [4]:http://r0cket.org/
@@ -467,15 +467,15 @@ These people have contributed to improve this list for everyone (in no particula
 [9]:https://github.com/apenwarr/sshuttle
 [10]:https://www.blau.de/
 [11]:https://en.wikipedia.org/wiki/Sim_card#Formats "SIM card formats"
-[12]:https://events.ccc.de/congress/2014/wiki/
-[13]:https://events.ccc.de/congress/2014/wiki/Form:Projects
-[14]:https://events.ccc.de/congress/2014/wiki/Static:Assemblies
+[12]:https://events.ccc.de/congress/2015/wiki/
+[13]:https://events.ccc.de/congress/2015/wiki/Static:Projects
+[14]:https://events.ccc.de/congress/2015/wiki/Static:Assemblies
 [15]:https://bettercrypto.org/ "Better Crypto"
 [16]:https://openvpn.net/ "OpenVPN"
 [17]:http://code.kryo.se/iodine/ "iodine"
 [18]:http://openssh.org/ "OpenSSH"
 [19]:https://www.torproject.org/ "Tor Project"
-[20]:https://events.ccc.de/congress/2014/Fahrplan/ "31C3 Fahrplan aka conference schedule"
+[20]:https://events.ccc.de/congress/2015/Fahrplan/ "32C3 Fahrplan aka conference schedule"
 [21]:https://www.organspende-info.de
 [22]:https://play.google.com/store/apps/details?id=com.googlecode.droidwall.free
 [24]:https://wifipineapple.com/ "WiFi Pinapple"
