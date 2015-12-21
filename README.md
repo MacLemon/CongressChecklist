@@ -241,7 +241,6 @@ Also remember to pack some reserves of your medication. Better to have too much 
 	- camera strap
 	- lenses with lens caps
 	- lens cleaning cloth
-=======
 	- most Android phones
 		- USB-micro USB cable
   - DECT phones
