@@ -54,7 +54,7 @@ Stuff that you're not allowed to bring on a plane or otherwise need to send via 
 
 ### Documents
 - Train/plane tickets (including verification documents for self-printed DB tickets, like your credit card or Personalausweis)
-- Congress tickets (printed or in iOS passbook)
+- Congress tickets (printed or digital. iOS passbook, PDF)
 - Passport or other kind of photo ID (Personalausweis)
 - Driver's license (even an international one)
 - Hotel booking
