@@ -312,6 +312,7 @@ Also remember to pack some reserves of your medication. Better to have too much 
 - LED throwies
 - Tesla coils
 - Headphones (so you don't have to talk to other carbon units while traveling)
+- Neck cushion (for long journeys)
 - All your devices!!1 (Raspberry Pi, Arduino, FreedomBox, DreamPlug, …)
 	- + cables + SD-cards (+ GPIO equipment)
 	- + extra WiFi antenna (USB) and/or extra Ethernet cord
