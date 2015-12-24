@@ -461,7 +461,7 @@ These people have contributed to improve this list for everyone (in no particula
 [1]:https://events.ccc.de/congress/2015/wiki/Static:How_To_Survive
 [2]:https://www.eventphone.de/
 [3]:https://events.ccc.de/congress/2013/wiki/Static:Anti-Harassment_Policy "Anti Harrassment Policy"
-[4]:http://r0cket.org/
+[4]:http://r0cket.de/
 [5]:https://www.noisebridge.net/wiki/Passport
 [6]:https://en.wikipedia.org/wiki/Schuko
 [7]:https://itunes.apple.com/at/app/onion-browser/id519296448?l=en&mt=8
