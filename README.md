@@ -130,6 +130,7 @@ Chaos Communication Congress 2015 (2015-12-27 .. 2015-12-30)
 ### Cosmetics
 - Make up
 - Nail polish
+- Nail polish remover
 - Nail scissors
 - Nail file
 - Razor (with spare blades / plus charger if it is an electrical one)
