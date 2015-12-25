@@ -243,7 +243,7 @@ Also remember to pack some reserves of your medication. Better to have too much 
 - Chargers for all those phones, or at least matching cables if you can charge over USB.
 	- iPhone, iPhone 3G, iPhone 3GS, iPhone 4, iPhone 4S, iPad, iPad 2, iPad 3 (The new iPad)
 		- USB-30 Pin dock connector (one each)
-	- iPhone 5, iPhone 5S, iPhone 6, iPhone 6+ (or newer), iPad 4, iPad mini, iPad mini 2 with retina display, iPad mini 3
+	- iPhone 5, iPhone 5S, iPhone 6, iPhone 6+, iPhone 6S, iPhone 6S+ (or newer, iPad 4, iPad mini, iPad mini 2 with retina display, iPad mini 3, iPad mini 2, iPad Air, iPad Air 2
 		- USB-Lightning (one each)
 	- most Android phones (and other exotic stuff like WP, Firefox OS, etc)
 		- micro USB cable
