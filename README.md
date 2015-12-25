@@ -41,10 +41,32 @@ You'll also find a list of all the nice humans who have contributed to this list
 ## Things to send
 Stuff that you're not allowed to bring on a plane or otherwise need to send via package courier or freight train. (Depending on its size.)
 
+### Items that are explicitly forbidden to bring on a plane
+- Ammunition
+- Fireworks
+- Explosives
+- Lighter benzine
+- Lighter gas (Butane)
+- Matches
+- Lighters (*only* allowed in hand luggage)
+- Butane cartridges
+- Propane cartridges
+- Radioactive medication
+- Toxics
+- Lead acid batteries
+- Mercury (Quecksilber)
+- Acids
+- Bleach
+- Peroxides
+
 ### Not allowed or often problematic on flights, or at least not in hand-lagguage
 - Knives, even some pocket knives
 - Lockpicking equipment
 - Handcuffs
+
+### Items *only* allowed in hand luggage, but *not* checked in luggage
+- Small lighters
+
 
 ## Things to pack
 
