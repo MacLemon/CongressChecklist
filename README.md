@@ -152,6 +152,7 @@ Chaos Communication Congress 2015 (2015-12-27 .. 2015-12-30)
 ### Cosmetics
 - Make up
 - Nail polish
+- Nail polish remover
 - Nail scissors
 - Nail file
 - Razor (with spare blades / plus charger if it is an electrical one)
@@ -253,22 +254,7 @@ Also remember to pack some reserves of your medication. Better to have too much 
 - Apple certified SIM eject tool™ (aka bent paperclip) to swap SIM cards
 - Smart Watches
     - Charging cable or docking station required to charge
-- a portable battery pack (aka powerbank) so you can charge on the go. (And the necessary cable to recharge that battery pack overnight.)
 - WiFi router/firewall (to connect to the hotel Wifi/network)
-- photo camera (but please remember to ask if it is ok to take a picture BEFORE taking the picture)
-	- batteries
-	- charger
-	- memory cards (CF, SD, SDHC, xD, memory stick, etc.)
-		- freshly formatted
-	- card reader to import pictures (if your laptop doesn't have a matching built-in card reader)
-	- camera bag
-	- camera strap
-	- lenses with lens caps
-	- lens cleaning cloth
-	- most Android phones
-		- USB-micro USB cable
-  - DECT phones
-      - Charging cradle (with power brick if required)
 - A portable battery pack (aka powerbank) so you can charge on the go. (And the necessary cable to recharge that battery pack overnight.)
 
 #### Wireless and HF
@@ -304,7 +290,7 @@ Also remember to pack some reserves of your medication. Better to have too much 
 - **Optional** 1-10Gigabit Ethernet Switch
 
 
-#### Camera
+#### Camera (but please remember to ask if it is ok to take a picture BEFORE taking the picture)
 - Photo camera / Actioncam
 	- Batteries
 	- Charger
@@ -334,6 +320,7 @@ Also remember to pack some reserves of your medication. Better to have too much 
 - LED throwies
 - Tesla coils
 - Headphones (so you don't have to talk to other carbon units while traveling)
+- Neck cushion (for long journeys)
 - All your devices!!1 (Raspberry Pi, Arduino, FreedomBox, DreamPlug, …)
 	- + cables + SD-cards (+ GPIO equipment)
 	- + extra WiFi antenna (USB) and/or extra Ethernet cord
@@ -483,7 +470,7 @@ These people have contributed to improve this list for everyone (in no particula
 [1]:https://events.ccc.de/congress/2015/wiki/Static:How_To_Survive
 [2]:https://www.eventphone.de/
 [3]:https://events.ccc.de/congress/2013/wiki/Static:Anti-Harassment_Policy "Anti Harrassment Policy"
-[4]:http://r0cket.org/
+[4]:http://r0cket.de/
 [5]:https://www.noisebridge.net/wiki/Passport
 [6]:https://en.wikipedia.org/wiki/Schuko
 [7]:https://itunes.apple.com/at/app/onion-browser/id519296448?l=en&mt=8
