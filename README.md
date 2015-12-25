@@ -220,7 +220,7 @@ Also remember to pack some reserves of your medication. Better to have too much 
 #### Laptop and Devices
 - Laptop (with a working battery)
 - USB flash drives
-	- Put an OWNER.txt file on them with information on how to contact you in case one gets lost accidentally. (Twitter, phone (for example DECT, 31C3 GSM extensions), email, name of the assembly you're well known at, owl, raven)
+	- Put an OWNER.txt file on them with information on how to contact you in case one gets lost accidentally. (Twitter, phone (for example DECT, 32C3 GSM extensions), email, name of the assembly you're well known at, owl, raven)
 	- For devices with private information be sure to encrypt them! (TrueCrypt, GPG, FileVault, EncFS, Bitlocker, gbde, geli, dm-crypt, LUKS, eCryptFS)
 	- make note of the filesystem used so you know if they will work on the system of the person you want to exchange data with. (FAT32 is a safe bet to work everywhere, for larger files ExFAT should also work on most platforms.)
 	- Mac: NTFS, ZFS, Ext can be read, but not written to without 3rd party software. FAT, ExFAT, HFS+(J), HFSX are fine for current OS X versions
