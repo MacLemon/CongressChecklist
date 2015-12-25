@@ -194,7 +194,7 @@ Also remember to pack some reserves of your medication. Better to have too much 
 ### Schedule
 - Have a look at the [Fahrplan][20] and maybe make a preselection of talks you really “have to”, “want to” or “would be nice to“ see
 - Install one of the Fahrplan apps for Android ([PlayStore][26], [Source][27]) or iOS ([iTunes][28])
-- Be sure to schedule a period of time to get your T-Shirt or pullover (when preordered in the first two days)!
+- Be sure to schedule a period of time to get your T-Shirt or pullover/hoodie/zipper (when preordered in the first two days)!
 - Have a sense of how the trains are going from the station near by, enter Dammtor here: http://geofox.de/jsf/stationSchedule.seam direct connections to the airport, enter Dammtor at start and Airport
 
 
