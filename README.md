@@ -219,6 +219,7 @@ Also remember to pack some reserves of your medication. Better to have too much 
 ### Gear
 #### Laptop and Devices
 - Laptop (with a working battery)
+        - Maybe clean display and keyboard while you're at it ;-)
 - USB flash drives
 	- Put an OWNER.txt file on them with information on how to contact you in case one gets lost accidentally. (Twitter, phone (for example DECT, 31C3 GSM extensions), email, name of the assembly you're well known at, owl, raven)
 	- For devices with private information be sure to encrypt them! (TrueCrypt, GPG, FileVault, EncFS, Bitlocker, gbde, geli, dm-crypt, LUKS, eCryptFS)
