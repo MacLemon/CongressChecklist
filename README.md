@@ -411,7 +411,7 @@ It is not recommended to connect your smartphone to the congress wifi, if you st
 - Use a Firewall and only allow the (few) services you trust.
 	- [DroidWall][22] for Android (root required)
 - If you don't have a VPN tunnel available, you can use [OnionBrowser][7] (iOS) or [Orbot][orbot] (Android) to surf via tor (which may be it's own kind of risk).
-- Set your GSM network selection to **manual** or you might end up connected to a rogue GMS network by somebody.
+- Set your GSM network selection to **manual** or you might end up connected to a rogue GSM network by somebody.
 
 **If you are unsure** that there might still be some services running and transmitting plaintext data, **do not connect**.
 
