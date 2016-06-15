@@ -113,7 +113,7 @@ If you need help, just call for help, there are many, many people around to help
 Event and location related emergency information is in a seperate document for the corresponding event in this repository!
 
 #### Upcoming events:
-Chaos Communication Congress 2015 (2015-12-27 .. 2015-12-30)
+Chaos Communication Congress 2016 (2016-12-27 .. 2016-12-30)
 
 
 
@@ -324,8 +324,6 @@ Also remember to pack some reserves of your medication. Better to have too much 
 - All your devices!!1 (Raspberry Pi, Arduino, FreedomBox, DreamPlug, …)
 	- + cables + SD-cards (+ GPIO equipment)
 	- + extra WiFi antenna (USB) and/or extra Ethernet cord
-
-### Other gear
 - Pocket knife ([Conforming to the German Weapons Act:][29] Blade must not exceed 12cm; Folding knifes with locking blades must not be designed to be opened with one hand. Also, “thrusting weapons” such as daggers, stilettos, swords etc. are restricted items.)
     - Swiss knife
     - Victorinox cybertool
@@ -346,7 +344,7 @@ Also remember to pack some reserves of your medication. Better to have too much 
 - Knitting/sewing needles and yarn (for guerrilla knitting/yarn bombing)
 - A blanket
 - A pillow (and sleeping bag/camping mat if you intend to sleep at the gym or in heaven)
-
+- Your favourite tea/coffee
 
 ## If you travel with your dog
 Please check in advance if dogs are allowed at the event you want to attend. Guide dogs are usually exempt, even if dogs are not allowed.
