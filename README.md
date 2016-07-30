@@ -113,9 +113,7 @@ If you need help, just call for help, there are many, many people around to help
 Event and location related emergency information is in a seperate document for the corresponding event in this repository!
 
 #### Upcoming events:
-Chaos Communication Congress 2016 (2016-12-27 .. 2016-12-30)
-
-
+33 Chaos Communication Congress (2016-12-27 .. 2016-12-30)
 
 
 ### Personal hygiene
@@ -190,12 +188,6 @@ Chaos Communication Congress 2016 (2016-12-27 .. 2016-12-30)
 Your personal medication does not belong on the public interwebs for your privacy. This is just a reminder to pack it. Please do not include your personal medications in pull requests. :-)
 If you need refrigeration for your personal medication, that is possible at the C3 CERT on site.
 Also remember to pack some reserves of your medication. Better to have too much than not enough with you ;-)
-
-### Schedule
-- Have a look at the [Fahrplan][20] and maybe make a preselection of talks you really “have to”, “want to” or “would be nice to“ see
-- Install one of the Fahrplan apps for Android ([PlayStore][26], [Source][27]) or iOS ([iTunes][28])
-- Be sure to schedule a period of time to get your T-Shirt or pullover/hoodie/zipper (when preordered in the first two days)!
-- Have a sense of how the trains are going from the station near by, enter Dammtor here: http://geofox.de/jsf/stationSchedule.seam direct connections to the airport, enter Dammtor at start and Airport
 
 
 ### Clothing
@@ -301,6 +293,8 @@ Also remember to pack some reserves of your medication. Better to have too much 
 	- Camera strap
 	- Lenses with lens caps
 	- Lens cleaning cloth
+	- Externel Flash
+- Tripod
 
 #### Talk gear
 - Monitor adapters (VGA, DVI, HDMI, mini Displayport/Displayport, USB-C; especially for the Mac users and those with other fancy slim laptops. ;-) ), you may need them for your presentation or lightning talk.
@@ -319,7 +313,7 @@ Also remember to pack some reserves of your medication. Better to have too much 
 - Headlamp
 - LED throwies
 - Tesla coils
-- Headphones (so you don't have to talk to other carbon units while traveling)
+- Headphones (Closed type) (so you don't have to talk to other carbon units while traveling)
 - Neck cushion (for long journeys)
 - All your devices!!1 (Raspberry Pi, Arduino, FreedomBox, DreamPlug, …)
 	- + cables + SD-cards (+ GPIO equipment)
@@ -355,6 +349,25 @@ Please check in advance if dogs are allowed at the event you want to attend. Gui
 - Tick forceps / tick tweezers
 - Backup leash
 - Medication
+
+
+## Camp
+
+- Tent
+- Sleeping bag & pillow
+- Air-matress
+- Water proof clothing
+- 230V/16A(*blue*)-to-your-country adaptor & extension
+- Cat5e extension cable (10-30m)
+- Food
+- Bin bags (for rubbish and dirty clothes)
+
+
+### Schedule
+- Have a look at the [Fahrplan][20] and maybe make a preselection of talks you really “have to”, “want to” or “would be nice to“ see
+- Install one of the Fahrplan apps for Android ([PlayStore][26], [Source][27]) or iOS ([iTunes][28])
+- Be sure to schedule a period of time to get your T-Shirt or pullover/hoodie/zipper (when preordered in the first two days)!
+- Have a sense of how the trains are going from the station near by, enter Dammtor here: http://geofox.de/jsf/stationSchedule.seam direct connections to the airport, enter Dammtor at start and Airport
 
 
 ## Securing your devices
@@ -463,9 +476,11 @@ These people have contributed to improve this list for everyone (in no particula
 - [@leyrer][133]
 - [hax404][134]
 - [@cloelkes][135]
+- [raven][136]
+
 
 ## Links
-[1]:https://events.ccc.de/congress/2015/wiki/Static:How_To_Survive
+[1]:https://events.ccc.de/congress/2016/wiki/Static:How_To_Survive
 [2]:https://www.eventphone.de/
 [3]:https://events.ccc.de/congress/2013/wiki/Static:Anti-Harassment_Policy "Anti Harrassment Policy"
 [4]:http://r0cket.de/
@@ -477,15 +492,15 @@ These people have contributed to improve this list for everyone (in no particula
 [9]:https://github.com/apenwarr/sshuttle
 [10]:https://www.blau.de/
 [11]:https://en.wikipedia.org/wiki/Sim_card#Formats "SIM card formats"
-[12]:https://events.ccc.de/congress/2015/wiki/
-[13]:https://events.ccc.de/congress/2015/wiki/Static:Projects
-[14]:https://events.ccc.de/congress/2015/wiki/Static:Assemblies
+[12]:https://events.ccc.de/congress/2016/wiki/
+[13]:https://events.ccc.de/congress/2016/wiki/Static:Projects
+[14]:https://events.ccc.de/congress/2016/wiki/Static:Assemblies
 [15]:https://bettercrypto.org/ "Better Crypto"
 [16]:https://openvpn.net/ "OpenVPN"
 [17]:http://code.kryo.se/iodine/ "iodine"
 [18]:http://openssh.org/ "OpenSSH"
 [19]:https://www.torproject.org/ "Tor Project"
-[20]:https://events.ccc.de/congress/2015/Fahrplan/ "32C3 Fahrplan aka conference schedule"
+[20]:https://events.ccc.de/congress/2016/Fahrplan/ "36C3 Fahrplan aka conference schedule"
 [21]:https://www.organspende-info.de
 [22]:https://play.google.com/store/apps/details?id=com.googlecode.droidwall.free
 [24]:https://wifipineapple.com/ "WiFi Pinapple"
@@ -536,3 +551,5 @@ These people have contributed to improve this list for everyone (in no particula
 [133]:https://twitter.com/leyrer
 [134]:https://www.hax404.de/
 [135]:https://twitter.com/cloelkes
+[136]:https://forestraven.net
+
