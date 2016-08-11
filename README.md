@@ -283,7 +283,7 @@ Also remember to pack some reserves of your medication. Better to have too much 
 
 
 #### Camera (but please remember to ask if it is ok to take a picture BEFORE taking the picture)
-- Photo camera / Actioncam
+- Photo camera / Actioncam / DSLR
 	- Batteries
 	- Charger
 	- Memory cards (CF, SD, SDHC, xD, memory stick, etc.)
@@ -293,7 +293,7 @@ Also remember to pack some reserves of your medication. Better to have too much 
 	- Camera strap
 	- Lenses with lens caps
 	- Lens cleaning cloth
-	- Externel Flash
+	- External Flash
 - Tripod
 
 #### Talk gear
