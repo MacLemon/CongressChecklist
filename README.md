@@ -283,7 +283,7 @@ Also remember to pack some reserves of your medication. Better to have too much 
 
 
 #### Camera (but please remember to ask if it is ok to take a picture BEFORE taking the picture)
-- Photo camera / Actioncam
+- Photo camera / Actioncam / DSLR
 	- Batteries
 	- Charger
 	- Memory cards (CF, SD, SDHC, xD, memory stick, etc.)
@@ -293,7 +293,7 @@ Also remember to pack some reserves of your medication. Better to have too much 
 	- Camera strap
 	- Lenses with lens caps
 	- Lens cleaning cloth
-	- Externel Flash
+	- External Flash
 - Tripod
 
 #### Talk gear
@@ -500,7 +500,7 @@ These people have contributed to improve this list for everyone (in no particula
 [17]:http://code.kryo.se/iodine/ "iodine"
 [18]:http://openssh.org/ "OpenSSH"
 [19]:https://www.torproject.org/ "Tor Project"
-[20]:https://events.ccc.de/congress/2016/Fahrplan/ "32C3 Fahrplan aka conference schedule"
+[20]:https://events.ccc.de/congress/2016/Fahrplan/ "33C3 Fahrplan aka conference schedule"
 [21]:https://www.organspende-info.de
 [22]:https://play.google.com/store/apps/details?id=com.googlecode.droidwall.free
 [24]:https://wifipineapple.com/ "WiFi Pinapple"
