@@ -246,7 +246,6 @@ Also remember to pack some reserves of your medication. Better to have too much 
 - Apple certified SIM eject tool™ (aka bent paperclip) to swap SIM cards
 - Smart Watches
     - Charging cable or docking station required to charge
-- WiFi router/firewall (to connect to the hotel Wifi/network)
 - A portable battery pack (aka powerbank) so you can charge on the go. (And the necessary cable to recharge that battery pack overnight.)
 
 #### Wireless and HF
