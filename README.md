@@ -88,7 +88,7 @@ Stuff that you're not allowed to bring on a plane or otherwise need to send via 
 
 
 ### Payment stuff
-- Some cash (€uros)
+- Some cash (€uros, or other local currency)
 - Credit card
 - Coins (€uros, for automated vending machines, like public transport tickets)
 - Bitcoin wallet (the encrypted fashion with a good passphrase)
