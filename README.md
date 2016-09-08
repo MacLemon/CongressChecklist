@@ -113,9 +113,7 @@ If you need help, just call for help, there are many, many people around to help
 Event and location related emergency information is in a seperate document for the corresponding event in this repository!
 
 #### Upcoming events:
-Chaos Communication Congress 2015 (2015-12-27 .. 2015-12-30)
-
-
+33 Chaos Communication Congress (2016-12-27 .. 2016-12-30)
 
 
 ### Personal hygiene
@@ -191,12 +189,6 @@ Your personal medication does not belong on the public interwebs for your privac
 If you need refrigeration for your personal medication, that is possible at the C3 CERT on site.
 Also remember to pack some reserves of your medication. Better to have too much than not enough with you ;-)
 
-### Schedule
-- Have a look at the [Fahrplan][20] and maybe make a preselection of talks you really “have to”, “want to” or “would be nice to“ see
-- Install one of the Fahrplan apps for Android ([PlayStore][26], [Source][27]) or iOS ([iTunes][28])
-- Be sure to schedule a period of time to get your T-Shirt or pullover/hoodie/zipper (when preordered in the first two days)!
-- Have a sense of how the trains are going from the station near by, enter Dammtor here: http://geofox.de/jsf/stationSchedule.seam direct connections to the airport, enter Dammtor at start and Airport
-
 
 ### Clothing
 - At least ONE clean shirt for each day you stay, plus two for traveling to and from congress (nerdy print is always welcome)
@@ -219,6 +211,7 @@ Also remember to pack some reserves of your medication. Better to have too much 
 ### Gear
 #### Laptop and Devices
 - Laptop (with a working battery)
+        - Maybe clean display and keyboard while you're at it ;-)
 - USB flash drives
 	- Put an OWNER.txt file on them with information on how to contact you in case one gets lost accidentally. (Twitter, phone (for example DECT, 32C3 GSM extensions), email, name of the assembly you're well known at, owl, raven)
 	- For devices with private information be sure to encrypt them! (VeraCrypt, GPG, FileVault, EncFS, Bitlocker, gbde, geli, dm-crypt, LUKS, eCryptFS)
@@ -253,7 +246,6 @@ Also remember to pack some reserves of your medication. Better to have too much 
 - Apple certified SIM eject tool™ (aka bent paperclip) to swap SIM cards
 - Smart Watches
     - Charging cable or docking station required to charge
-- WiFi router/firewall (to connect to the hotel Wifi/network)
 - A portable battery pack (aka powerbank) so you can charge on the go. (And the necessary cable to recharge that battery pack overnight.)
 
 #### Wireless and HF
@@ -290,7 +282,7 @@ Also remember to pack some reserves of your medication. Better to have too much 
 
 
 #### Camera (but please remember to ask if it is ok to take a picture BEFORE taking the picture)
-- Photo camera / Actioncam
+- Photo camera / Actioncam / DSLR
 	- Batteries
 	- Charger
 	- Memory cards (CF, SD, SDHC, xD, memory stick, etc.)
@@ -300,6 +292,8 @@ Also remember to pack some reserves of your medication. Better to have too much 
 	- Camera strap
 	- Lenses with lens caps
 	- Lens cleaning cloth
+	- External Flash
+- Tripod
 
 #### Talk gear
 - Monitor adapters (VGA, DVI, HDMI, mini Displayport/Displayport, USB-C; especially for the Mac users and those with other fancy slim laptops. ;-) ), you may need them for your presentation or lightning talk.
@@ -318,13 +312,11 @@ Also remember to pack some reserves of your medication. Better to have too much 
 - Headlamp
 - LED throwies
 - Tesla coils
-- Headphones (so you don't have to talk to other carbon units while traveling)
+- Headphones (Closed type) (so you don't have to talk to other carbon units while traveling)
 - Neck cushion (for long journeys)
 - All your devices!!1 (Raspberry Pi, Arduino, FreedomBox, DreamPlug, …)
 	- + cables + SD-cards (+ GPIO equipment)
 	- + extra WiFi antenna (USB) and/or extra Ethernet cord
-
-### Other gear
 - Pocket knife ([Conforming to the German Weapons Act:][29] Blade must not exceed 12cm; Folding knifes with locking blades must not be designed to be opened with one hand. Also, “thrusting weapons” such as daggers, stilettos, swords etc. are restricted items.)
     - Swiss knife
     - Victorinox cybertool
@@ -345,7 +337,7 @@ Also remember to pack some reserves of your medication. Better to have too much 
 - Knitting/sewing needles and yarn (for guerrilla knitting/yarn bombing)
 - A blanket
 - A pillow (and sleeping bag/camping mat if you intend to sleep at the gym or in heaven)
-
+- Your favourite tea/coffee
 
 ## If you travel with your dog
 Please check in advance if dogs are allowed at the event you want to attend. Guide dogs are usually exempt, even if dogs are not allowed.
@@ -356,6 +348,25 @@ Please check in advance if dogs are allowed at the event you want to attend. Gui
 - Tick forceps / tick tweezers
 - Backup leash
 - Medication
+
+
+## Camp
+
+- Tent
+- Sleeping bag & pillow
+- Air-matress
+- Water proof clothing
+- 230V/16A(*blue*)-to-your-country adaptor & extension
+- Cat5e extension cable (10-30m)
+- Food
+- Bin bags (for rubbish and dirty clothes)
+
+
+### Schedule
+- Have a look at the [Fahrplan][20] and maybe make a preselection of talks you really “have to”, “want to” or “would be nice to“ see
+- Install one of the Fahrplan apps for Android ([PlayStore][26], [Source][27]) or iOS ([iTunes][28])
+- Be sure to schedule a period of time to get your T-Shirt or pullover/hoodie/zipper (when preordered in the first two days)!
+- Have a sense of how the trains are going from the station near by, enter Dammtor here: http://geofox.de/jsf/stationSchedule.seam direct connections to the airport, enter Dammtor at start and Airport
 
 
 ## Securing your devices
@@ -409,8 +420,8 @@ It is not recommended to connect your smartphone to the congress wifi, if you st
 - Use a VPN tunnel if possible.
 - Use a Firewall and only allow the (few) services you trust.
 	- [DroidWall][22] for Android (root required)
-- If you don't have a VPN tunnel available, you can use [OnionBrowser][7] to surf via tor (which may be it's own kind of risk).
-- Set your GSM network selection to **manual** or you might end up connected to a rogue GMS network by somebody.
+- If you don't have a VPN tunnel available, you can use [OnionBrowser][7] (iOS) or [Orbot][orbot] (Android) to surf via tor (which may be it's own kind of risk).
+- Set your GSM network selection to **manual** or you might end up connected to a rogue GSM network by somebody.
 
 **If you are unsure** that there might still be some services running and transmitting plaintext data, **do not connect**.
 
@@ -464,28 +475,31 @@ These people have contributed to improve this list for everyone (in no particula
 - [@leyrer][133]
 - [hax404][134]
 - [@cloelkes][135]
+- [raven][136]
+
 
 ## Links
-[1]:https://events.ccc.de/congress/2015/wiki/Static:How_To_Survive
+[1]:https://events.ccc.de/congress/2016/wiki/Static:How_To_Survive
 [2]:https://www.eventphone.de/
 [3]:https://events.ccc.de/congress/2013/wiki/Static:Anti-Harassment_Policy "Anti Harrassment Policy"
 [4]:http://r0cket.de/
 [5]:https://www.noisebridge.net/wiki/Passport
 [6]:https://en.wikipedia.org/wiki/Schuko
 [7]:https://itunes.apple.com/at/app/onion-browser/id519296448?l=en&mt=8
+[orbot]:https://guardianproject.info/apps/orbot/
 [8]:https://en.wikipedia.org/wiki/Euro_plug
 [9]:https://github.com/apenwarr/sshuttle
 [10]:https://www.blau.de/
 [11]:https://en.wikipedia.org/wiki/Sim_card#Formats "SIM card formats"
-[12]:https://events.ccc.de/congress/2015/wiki/
-[13]:https://events.ccc.de/congress/2015/wiki/Static:Projects
-[14]:https://events.ccc.de/congress/2015/wiki/Static:Assemblies
+[12]:https://events.ccc.de/congress/2016/wiki/
+[13]:https://events.ccc.de/congress/2016/wiki/Static:Projects
+[14]:https://events.ccc.de/congress/2016/wiki/Static:Assemblies
 [15]:https://bettercrypto.org/ "Better Crypto"
 [16]:https://openvpn.net/ "OpenVPN"
 [17]:http://code.kryo.se/iodine/ "iodine"
 [18]:http://openssh.org/ "OpenSSH"
 [19]:https://www.torproject.org/ "Tor Project"
-[20]:https://events.ccc.de/congress/2015/Fahrplan/ "32C3 Fahrplan aka conference schedule"
+[20]:https://events.ccc.de/congress/2016/Fahrplan/ "33C3 Fahrplan aka conference schedule"
 [21]:https://www.organspende-info.de
 [22]:https://play.google.com/store/apps/details?id=com.googlecode.droidwall.free
 [24]:https://wifipineapple.com/ "WiFi Pinapple"
@@ -536,3 +550,5 @@ These people have contributed to improve this list for everyone (in no particula
 [133]:https://twitter.com/leyrer
 [134]:https://www.hax404.de/
 [135]:https://twitter.com/cloelkes
+[136]:https://forestraven.net
+
