@@ -71,12 +71,14 @@ Stuff that you're not allowed to bring on a plane or otherwise need to send via 
 ## Things to pack
 
 ### Decoration
-- Bring ridiculous amounts of LED strips so we can illuminate ALL the things
+- Bring ridiculous amounts of LED strips and other photon emitting devices so we can illuminate ALL the things.
+
+This applies to the Congress Center as well as your hotel windows.
 
 
 ### Documents
 - Train/plane tickets (including verification documents for self-printed DB tickets, like your credit card or Personalausweis)
-- Congress tickets (printed or digital. iOS passbook, PDF)
+- Congress tickets (printed or digital. iOS passbook/wallet, PDF)
 - Passport or other kind of photo ID (Personalausweis)
 - Driver's license (even an international one)
 - Hotel booking
@@ -90,6 +92,7 @@ Stuff that you're not allowed to bring on a plane or otherwise need to send via 
 ### Payment stuff
 - Some cash (€uros, or other local currency)
 - Credit card
+- Maestro card (Bankomatkarte)
 - Coins (€uros, for automated vending machines, like public transport tickets)
 - Bitcoin wallet (the encrypted fashion with a good passphrase)
 - Emergency numbers for your bank so you can lock your credit card/debit card/Bankomatkarte in case it gets lost/stolen/left behind.
@@ -99,21 +102,19 @@ Stuff that you're not allowed to bring on a plane or otherwise need to send via 
 
 ### Mobility
 - Cards and PINs for Car-Sharing
-
-
-### Emergency information
-In case of an accident or other emergency condition carry a piece of information whom to contact or any special medical information that might be viable to your survival/first aid/medical staff.
+- An app to show local public transport times. Not all cities are available in Google/Apple/You-name-it Maps applications.
 
 
 #### Emergency Information for Events:
 If you're in an emergency shout *HELP!*
 
-If you need help, just call for help, there are many, many people around to help you.
+If you need help, just call for help, there are many, many friendly people around to help you.
 
-Event and location related emergency information is in a seperate document for the corresponding event in this repository!
+Event and location related emergency information is in a seperate document for the corresponding event in this repository! You may want to copy that info to a notes application on your smartphone or have a printed card in your wallet.
+
 
 #### Upcoming events:
-33 Chaos Communication Congress (2016-12-27 .. 2016-12-30)
+33 Chaos Communication Congress (2016-12-27 .. 2016-12-30), Hamburg, Germany, EU
 
 
 ### Personal hygiene
@@ -148,11 +149,11 @@ Event and location related emergency information is in a seperate document for t
 
 ### Cosmetics
 - Make up
-- Nail polish
+- Nail polish, also handy to secure screws on your laptop and have a tamper indicator, especially when using one with glitter.
 - Nail polish remover
 - Nail scissors
 - Nail file
-- Razor (with spare blades / plus charger if it is an electrical one)
+- Razor (with spare blades / plus cable/charger if it is an electrical one)
 - Shaving soap
 - Shaving brush
 - Lipstick/lipgloss
@@ -167,18 +168,18 @@ Event and location related emergency information is in a seperate document for t
 
 
 #### Personal Hygiene ####
-- Hand desinfectant
+- Hand desinfectant, yet always wash your hands
 
 
 #### Generic medication
 - Patches (Pflaster, for your webcam or if a MacBook AirFrisbee hit you)
-- Aspirin (If you partied too long …)
+- Aspirin (If you partied too long…)
 - Thomapyrin (analgetic)
 - Parkemed (DE/AT), Ponstel (USA/UK) (analgetic)
 - Clarityn (or other histamine blocker if you're allergic to something)
 - Neocitran/Theraflu/Paracetamol (just in case hacker pest strikes)
 - Contraceptives, prophylactic (contraceptive pill, condoms, etc.)
-- Caffeine pills (In case you don't like Mate and nobody knows if you can actually drink the coffee served there.)
+- Caffeine pills (In case you don't like Mate and nobody knows if you can actually drink the “coffee” served at the venue.)
 - Something for your stomach (if you've got a nervous digestive system when under stress, while flying or generally traveling)
 - Camomile tea relives hyperacidity very well
 - Bepanthen
@@ -193,17 +194,18 @@ Also remember to pack some reserves of your medication. Better to have too much 
 ### Clothing
 - At least ONE clean shirt for each day you stay, plus two for traveling to and from congress (nerdy print is always welcome)
 - At least ONE set of clean underwear for each day you stay, plus two for traveling to and from congress (Doesn't necessarily need to be in matching pairs, but that is up to you.)
-- At least ONE pair of clean socks/stockings/tights/overknees for each day you stay, plus two for traveling to and from congress
+- At least ONE pair of clean socks/stockings/tights/overknees for each day you stay, plus two for traveling to and from congress (again, matching pairs optional)
 - Enough pants/skirts/trousers/dresses/etc. so you can wear clean clothes every day you attend congress (even if somebody accidentally (or intentionally) spills a beverage all over you!)
 - Sewing set (needle, thread, spare button for your trousers/skirts/shirts/blouses/etc.)
 - Long sleeve shirts
-- Hoodies, pullovers (it's cold outside!)
-- Jacket (wind proof, at least somewhat water resistant) (it's cold outside!)
+- Hoodies, pullovers, zippers, vests (it's cold outside!)
+- Jacket, coat (wind proof, at least somewhat water resistant)
 - Cap, wool cap
 - Umbrella
 - Comfortable shoes (You'll make a lot of distance-units during your stay)
 - Bag to separate laundry from clean clothes in your luggage
 - Gloves
+- Your favorite chainmail body armor
 - Scarf
 - Swim suit, bikini, trunks (in case your hotel has a pool)
 
@@ -213,12 +215,12 @@ Also remember to pack some reserves of your medication. Better to have too much 
 - Laptop (with a working battery)
         - Maybe clean display and keyboard while you're at it ;-)
 - USB flash drives
-	- Put an OWNER.txt file on them with information on how to contact you in case one gets lost accidentally. (Twitter, phone (for example DECT, 32C3 GSM extensions), email, name of the assembly you're well known at, owl, raven)
+	- Put an OWNER.txt file on them with information on how to contact you in case one gets lost accidentally. (Twitter, phone (for example DECT, 33C3 GSM extensions), email, name of the assembly you're well known at, owl, raven)
 	- For devices with private information be sure to encrypt them! (VeraCrypt, GPG, FileVault, EncFS, Bitlocker, gbde, geli, dm-crypt, LUKS, eCryptFS)
 	- make note of the filesystem used so you know if they will work on the system of the person you want to exchange data with. (FAT32 is a safe bet to work everywhere, for larger files ExFAT should also work on most platforms.)
-	- Mac: NTFS, ZFS, Ext can be read, but not written to without 3rd party software. FAT, ExFAT, HFS+(J), HFSX are fine for current OS X versions
+	- Mac: NTFS can be read, but not written to without 3rd party software. FAT, ExFAT, HFS+(J), HFSX are fine for current OS X versions, ZFS and NTFS r/w support need 3rd party software. APFS support is experimental in macOS 10.12 Sierra
 - Ethernet cords (Cat5e) of multiple lengths (Maybe have a spare to tether a friend)
-	- USB/Thunderbolt to Ethernet adapter, if your device needs one (for example thin notebooks)
+	- USB/Thunderbolt/USB-C to Ethernet RJ45 adapter, if your device needs one (for example thin notebooks)
 - Mass storage drives (take some empty ones with you to fill with data and/or bring your own data and share it!)
 - Tablet computer, iPad, Android tablet, Microsoft surface
 - Kindle
@@ -231,27 +233,28 @@ Also remember to pack some reserves of your medication. Better to have too much 
 	- Mac: There are also cords that you can plug directly into the MagSafe charger (when removing the duck head) that end in a [Euro Plug][8]. These cables are also often used on electric shavers
     - Mac: USB-C type connector/charger
 - Plug adaptor from your country of origin to [Schuko Plug][6]
-- 3* or 5* multi-plug power extension (230V AC @50Hz) with [Schuko Plug][6] (and optional switch, hotel rooms usually suffer from severe lack of outlets)
+- 3x to 10x multi-plug power extension (230V AC @50Hz) with [Schuko Plug][6] (and optional switch, hotel rooms usually suffer from severe lack of outlets)
 - Simple extension cord (230V AC @50Hz, [Schuko Plug][6], the power outlet in your hotel room may be far away from your bedside)
 - Chargers for all those phones, or at least matching cables if you can charge over USB.
 	- iPhone, iPhone 3G, iPhone 3GS, iPhone 4, iPhone 4S, iPad, iPad 2, iPad 3 (The new iPad)
-		- USB-30 Pin dock connector (one each)
-	- iPhone 5, iPhone 5S, iPhone 6, iPhone 6+, iPhone 6S, iPhone 6S+ (or newer, iPad 4, iPad mini, iPad mini 2 with retina display, iPad mini 3, iPad mini 2, iPad Air, iPad Air 2
-		- USB-Lightning (one each)
+		- USB-A to 30 Pin dock connector (one each)
+	- iPhone 5, iPhone 5S, iPhone 6, iPhone 6+, iPhone 6S, iPhone 6S+, iPhone SE, iPhone 7, iPhone 7+, iPad 4, iPad mini, iPad mini 2 with retina display, iPad mini 3, iPad mini 2, iPad Air, iPad Air 2, iPad mini 4
+		- USB-A to Lightning (one each)
 	- most Android phones (and other exotic stuff like WP, Firefox OS, etc)
-		- micro USB cable
+		- micro USB cable, or
+        - USB-C cable
     - DECT phones
         - Charging cradle (with power brick if required)
 - SIM cards (your usual one, local german SIM, CCC SIM)
 - Apple certified SIM eject tool™ (aka bent paperclip) to swap SIM cards
 - Smart Watches
     - Charging cable or docking station required to charge
-- A portable battery pack (aka powerbank) so you can charge on the go. (And the necessary cable to recharge that battery pack overnight.)
+- A portable battery pack (aka powerbank) so you can charge on the go. (And the necessary cable to recharge that battery pack overnight. A USB-A to micro USB cable in most cases.)
 
 #### Wireless and HF
-- SDR Equipment: HackRF, RTL-SDR, Ettus, …
+- SDR Equipment: HackRF, RTL-SDR, Ettus, [Rad1o badge][30] 
 - DVB-T dongle, there might be local DVB-T transmitter for the streams,
-- Ham radio equipment, portable
+- Ham radio equipment, portable, the callsign prefix in Germany is DE (Delta Echo)
 - WiFi router/firewall (to connect to the hotel Wifi/network)
 
 #### Cables and Adapters
@@ -260,8 +263,11 @@ Also remember to pack some reserves of your medication. Better to have too much 
 - USB A-B cable
 - Mini USB cable
 - Micro USB cable
+- USB-C cable
+- USB-A to Micro USB 3.0 cable
 - Firewire (400, 800) cable
-- RJ45 Ethernet adapter (from USB or Thunderbolt) to access the wired network. Thanks for not leeching on the WiFi!
+- RJ45 Ethernet adapter (from USB-A, USB-C or Thunderbolt) to access the wired network. Thanks for not leeching on the WiFi!
+- Yes, there are way too many different types of USB cables, double check you have them all. Bring a spare to help out a friend!
 - Antenna wire for WiFi or ham radio equipment
 - 3.5mm jack splitter (so you can watch a movie or talk recording together on the train)
 
@@ -287,18 +293,22 @@ Also remember to pack some reserves of your medication. Better to have too much 
 	- Charger
 	- Memory cards (CF, SD, SDHC, xD, memory stick, etc.)
 		- freshly formatted
+        - with an OWNER.txt file, so people know how to contact you in case of lost+found.
 	- Card reader to import pictures (if your laptop doesn't have a matching built-in card reader)
+        - the necessary cable/adapter to connect that Card reader.
 	- Camera bag
 	- Camera strap
 	- Lenses with lens caps
 	- Lens cleaning cloth
 	- External Flash
-- Tripod
+        - Batteries, Battery Pack
+        - Charger for those as well
+- Tripod or Monopod
 
 #### Talk gear
 - Monitor adapters (VGA, DVI, HDMI, mini Displayport/Displayport, USB-C; especially for the Mac users and those with other fancy slim laptops. ;-) ), you may need them for your presentation or lightning talk.
 - Remote control for your presentation / lightning talk (also check the batteries in the remote), dont' forget the USB dongle if your remote requires one
-- Infrared, Bluetooth or radio remote (for presentations)
+- Infrared, Bluetooth or radio remote (for presentations) and also check their batteries
 
 #### CCC
 - [r0cket][4], fully charged (needs a micro USB cable for charging/programming)
@@ -314,19 +324,26 @@ Also remember to pack some reserves of your medication. Better to have too much 
 - Tesla coils
 - Headphones (Closed type) (so you don't have to talk to other carbon units while traveling)
 - Neck cushion (for long journeys)
-- All your devices!!1 (Raspberry Pi, Arduino, FreedomBox, DreamPlug, …)
+- All your devices!!1 ((Raspberry|Orange|Banana) Pi, Arduino, FreedomBox, DreamPlug, …)
 	- + cables + SD-cards (+ GPIO equipment)
 	- + extra WiFi antenna (USB) and/or extra Ethernet cord
+    - + WiFi Dongle (USB)
+    - + USB Keyboard
+    - + USB Rodent
+    - + HDMI cable to connect a display
 - Pocket knife ([Conforming to the German Weapons Act:][29] Blade must not exceed 12cm; Folding knifes with locking blades must not be designed to be opened with one hand. Also, “thrusting weapons” such as daggers, stilettos, swords etc. are restricted items.)
     - Swiss knife
     - Victorinox cybertool
     - Leatherman (check for one-handed opening mechanisms, such as thumb holes or studs)
 - Screw drivers, pit set
 - Soldering iron
+    - solder
+    - solder pump
+    - flux
 - Any other tools you may need (even if unlikely)
 - Analog notebook (dead tree style)
 - Pen, pencil, quill
-- Winkekatze
+- Winkekatze, there are Operators on site
 - Rubber ducks
 - NERF guns and ammuntion
 - Musical instruments (guitar, trumpet, grand piano, theremin, laser harp, cajón, gameboy, ukulele, tesla coils)
@@ -351,7 +368,6 @@ Please check in advance if dogs are allowed at the event you want to attend. Gui
 
 
 ## Camp
-
 - Tent
 - Sleeping bag & pillow
 - Air-matress
@@ -372,11 +388,12 @@ Please check in advance if dogs are allowed at the event you want to attend. Gui
 ## Securing your devices
 All security measures for devices on public Internet networks also apply here – threats might come from untrusted devices _within_, as well as from maleficent third parties _outside_ the Congress network. Of course you should have these measures in place everywhere and all the time since event networks are no more or no less dangerous than the internet in general.
 
-Read the [How to survive guide][1] in the Congress Wiki. There are many excellent tips in there or consult you local [CryptoParty][33] meetup.
+Read the [How to survive guide][1] in the Congress Wiki. There are many excellent tips in there or consult you local [CryptoParty][33] meetup, CCC ERFA or hackspace friends.
 
 
 ### Backups
 Make fresh backups of ALL the devices you bring to CCCongress. Test that you can actually restore data from those backups!
+Have something to backup your laptop on site as well.
 
 
 ### BIOS/EFI Password
@@ -384,7 +401,7 @@ Make sure you do have set a BIOS or EFI Password to prevent booting from a live 
 
 
 ### Full disk encryption
-Activate full disk encryption with pre-boot authentication. (Mac: Activate FileVault.)
+Activate full disk encryption with pre-boot authentication. (Mac: Activate FileVault, FreeBSD: GELI, Linux: Cryptsetup, Windows: Windows? S'SLY?)
 
 
 ### Backups
@@ -399,13 +416,16 @@ Check that _all_ your server services are using proper TLS. See [bettercrypto.or
 Have at least one trusted, working and tested VPN endpoint available for tunneling out of the congress network. If you don't have your own VPN server at your disposal ask friends you trust to help you out. If you do, ask your friends if they need a VPN endpoint and share!  
 
 - [OpenVPN][16]
-- L2TP/IPSec
+- L2TP/IPSec/IKEv2
 - [SSH][18]
 - [SSHuttle][9]
 - [iodine][17] (DNS tunnel for those pesky for-pay captive portal WiFi networks)
 - [Tor/Vidalia][19]
 
-Also have those tunnels configured on ALL the devices you intend to use, and have it tested. That includes your laptops, phones, tablets, servers, fridge, etc.
+Don't use PPTP, IKEv1, PSK VPNs anymore.
+Make sure your VPN works with IP and Legacy IP without leaking DNS and other traffic.
+
+Also have those tunnels configured on ALL the devices you intend to use on the local network of the venue, and have it tested. That includes your laptops, phones, tablets, servers, fridge, etc.
 
 
 ### Phones
@@ -433,7 +453,8 @@ If you need help with buying a SIM card, ask a local for assistance. They're fri
 
 
 ## For when you return home
-- store chocolate at home as an post-event depression antidote
+- store chocolate/chips/crisps at home as an post-event depression antidote
+- Make notes during CCCongress to watch all the lectures you missed on site because you were attending an awesome workshop or were having interesting conversations with people.
 
 
 ## Thanks for being awesome
