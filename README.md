@@ -58,6 +58,7 @@ Stuff that you're not allowed to bring on a plane or otherwise need to send via 
 - Acids
 - Bleach
 - Peroxides
+- Samsung Galaxy Note 7
 
 ### Not allowed or often problematic on flights, or at least not in hand-lagguage
 - Knives, even some pocket knives
