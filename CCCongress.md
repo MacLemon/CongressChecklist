@@ -58,7 +58,7 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 [chaosupdates]:https://twitter.com/chaosupdates "CCC Updates"
 [engelsystem]:https://twitter.com/engelsystem "Engelsystem information system for chaos events"
 [eventphone]:https://twitter.com/eventphone "DECT wireless phone network operations"
-[c3srt_releases];https://twitter.com/c3srt_releases "C3 Subtitles Release Info (Bot)"
+[c3srt_releases]:https://twitter.com/c3srt_releases "C3 Subtitles Release Info (Bot)"
 [c3subtitles]:https://twitter.com/c3subtitles "Making C3 events more barrier-free by providing subtitles and translations"
 
 
