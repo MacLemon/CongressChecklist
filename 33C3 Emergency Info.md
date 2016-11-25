@@ -11,5 +11,6 @@ If you need help, just call for help, there are many, many friendly people aroun
 * local sexual assault hotline in Hamburg: +49 40 - 255566 (http://www.frauennotruf-hamburg.de)
 * Hamburg fire department: +49 40 42851-0 (BETTER USE 112 ON YOUR non-33c3 PHONE)
 * Hamburg ambulance: +49 40 228022 (BETTER USE 112 ON YOUR non-33c3 PHONE)
+* [Chaos Emergency Response Team](https://cert.ccc.de/)
 
 [0]:http://events.ccc.de/category/33c3/ "33c3 Event Blog"
