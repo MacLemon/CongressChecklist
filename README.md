@@ -255,7 +255,7 @@ Also remember to pack some reserves of your medication. Better to have too much 
 #### Wireless and HF
 - SDR Equipment: HackRF, RTL-SDR, Ettus, [Rad1o badge][30] 
 - DVB-T dongle, there might be local DVB-T transmitter for the streams,
-- Ham radio equipment, portable, the callsign prefix in Germany is DE (Delta Echo)
+- Ham radio equipment, portable, the callsign prefix in Germany is DL (Delta Lima) Also see [ham radio licensing information][35]
 - WiFi router/firewall (to connect to the hotel Wifi/network)
 
 #### Cables and Adapters
@@ -453,6 +453,11 @@ If you need help with buying a SIM card, ask a local for assistance. They're fri
 - [Blau.de][10]
 
 
+## Staying up-to-date
+Most events publich a lot of information about events as they happen. There are many ways to stay in the loop during the event or in between by subscribing to RSS feeds, Twitter accounts, mailing lists and even newsletters [sic].
+For a list of CCC related news sources you may be interested in following, see CCCongress.md in this repository.
+
+
 ## For when you return home
 - store chocolate/chips/crisps at home as an post-event depression antidote
 - Make notes during CCCongress to watch all the lectures you missed on site because you were attending an awesome workshop or were having interesting conversations with people.
@@ -498,6 +503,7 @@ These people have contributed to improve this list for everyone (in no particula
 - [hax404][134]
 - [@cloelkes][135]
 - [raven][136]
+- [@trollkopp][137]
 
 
 ## Links
@@ -535,6 +541,7 @@ These people have contributed to improve this list for everyone (in no particula
 [32]:https://www.youtube.com/watch?v=J0MUEqzWve8 "YouTube: B.O.O.K."
 [33]:https://www.cryptoparty.in/location "List of international CryptoParty events"
 [34]:http://www.sperr-notruf.de/
+[35]:http://www.darc.de/der-club/referate/ausland/main-page-english/visitors-to-dl/ "Bundesverband für Amateurfunk in Deutschland - License information for non-germans"
 
 [100]:https://twitter.com/Astarioth
 [101]:https://twitter.com/N4mes
@@ -573,4 +580,4 @@ These people have contributed to improve this list for everyone (in no particula
 [134]:https://www.hax404.de/
 [135]:https://twitter.com/cloelkes
 [136]:https://forestraven.net
-
+[137]:https://twitter.com/trollkopp
