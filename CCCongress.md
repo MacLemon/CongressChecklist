@@ -14,7 +14,8 @@ Some even provide [RSS] feeds you can subscribe to.
 ### Videos
 Many CCC Events record videos of the given lectures and some event offer live [streaming]. Both is valid for Chaos Communication Congress.
 
-[CCC Live Streaming via C3VOC](https://streaming.media.ccc.de/)
+- [CCC Live Streaming via C3VOC](https://streaming.media.ccc.de/)
+- [C3 Subtitles Team](https://c3subtitles.de/) Crowdsources subtiles and translations
 
 
 ## Twitter
@@ -33,6 +34,8 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 - @[chaosupdates] CCC Updates
 - @[engelsystem] Engelsystem information system for chaos events
 - @[eventphone] DECT wireless phone network operations
+- @[c3srt_releases] C3 Subtitle Releases (Bot)
+- @[c3subtitles] Making C3 events more barrier-free by providing subtitles and translations
 
 
 [RSS]:https://en.wikipedia.org/wiki/Rss "Wikipedia: RSS"
@@ -53,5 +56,8 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 [chaosupdates]:https://twitter.com/chaosupdates "CCC Updates"
 [engelsystem]:https://twitter.com/engelsystem "Engelsystem information system for chaos events"
 [eventphone]:https://twitter.com/eventphone "DECT wireless phone network operations"
+[c3srt_releases];https://twitter.com/c3srt_releases "C3 Subtitles Release Info (Bot)"
+[c3subtitles]:https://twitter.com/c3subtitles "Making C3 events more barrier-free by providing subtitles and translations"
+
 
 [MacLemon]:https://twitter.com/MacLemon "MacLemon"
