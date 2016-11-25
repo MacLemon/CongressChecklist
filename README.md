@@ -255,7 +255,7 @@ Also remember to pack some reserves of your medication. Better to have too much 
 #### Wireless and HF
 - SDR Equipment: HackRF, RTL-SDR, Ettus, [Rad1o badge][30] 
 - DVB-T dongle, there might be local DVB-T transmitter for the streams,
-- Ham radio equipment, portable, the callsign prefix in Germany is DL (Delta Lima) Also see [ham radio licensing information][35]
+- Ham radio equipment, portable, the callsign prefix for CEPT licence holders in Germany is DL (Delta Lima), and DO (Delta Oscar) for CEPT-Novice licensees. Also see [ham radio licensing information][35]
 - WiFi router/firewall (to connect to the hotel Wifi/network)
 
 #### Cables and Adapters
