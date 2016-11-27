@@ -16,7 +16,7 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 
 - [CCC Live Streaming via C3VOC](https://streaming.media.ccc.de/)
 - [C3 Subtitles Team](https://c3subtitles.de/) Crowdsources subtiles and translations
-
+- [CongressEverywhere](https://events.ccc.de/congress/2016/wiki/Congress_Everywhere) Locations with public live-stream viewing
 
 ## Twitter
 - @[c3cert] Chaos Emergency Response Team
