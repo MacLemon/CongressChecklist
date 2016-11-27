@@ -29,6 +29,7 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 - @[c3sidechannel] C3 Field phone service
 - @[c3troc] Train operation center
 - @[c3voc] Video operation center (Recordings and live streaming)
+- @[c3voc_releases] Bot that posts releases of fresh recordings in many formats
 - @[ccc] Official Twitter Account of CCC events
 - @[chaospatinnen] Mentoring Operation Center
 - @[chaosupdates] CCC Updates
@@ -51,6 +52,7 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 [c3sidechannel]:https://twitter.com/c3sidechannel "C3 field phone service"
 [c3troc]:https://twitter.com/c3troc "C3 Train operation center"
 [c3voc]:https://twitter.com/c3voc "C3 video operation center"
+[c3voc_releases]:https://twitter.com/c3voc_releases "C3 video operation center - New releases Bot"
 [ccc]:https://twitter.com/ccc "Official Twitter Account of CCC events"
 [chaospatinnen]:https://twitter.com/chaospatinnen "Mentoring Operation Center"
 [chaosupdates]:https://twitter.com/chaosupdates "CCC Updates"
