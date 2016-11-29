@@ -19,6 +19,7 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 - [CongressEverywhere](https://events.ccc.de/congress/2016/wiki/Congress_Everywhere) Locations with public live-stream viewing
 
 ## Twitter
+- @[c3bar] Bar Operation Center - Department of Tschunk Quality Assurance
 - @[c3cert] Chaos Emergency Response Team
 - @[c3infodesk] Infodesk/Travelservice for CCC related events
 - @[c3kidspace] Childcare at Chaos events
@@ -46,7 +47,7 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 [Email Contact](https://events.ccc.de/congress/2016/wiki/Static:Contact)
 
 
-
+[c3bar]:https://twitter.com/c3bar "Bar Operation Center - Department of Tschunk Quality Assurance"
 [c3cert]:https://twitter.com/c3cert "Chaos Emergency Response Team"
 [c3infodesk]:https://twitter.com/c3infodesk "Infodesk/Travelservice for CCC related events"
 [c3kidspace]:https://twitter.com/c3kidspace "C3 Kidspace"
