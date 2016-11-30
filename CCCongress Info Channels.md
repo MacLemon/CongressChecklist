@@ -26,6 +26,7 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 - @[c3lightning_tlk] C3 Lighting talks organisation
 - @[c3lingo] Translation and interpreter service - Volunteers welcome!
 - @[c3noc] Network operation center
+- @[c3roc_] C3 Radio Operation Center - Frequency coordination for events
 - @[c3seidenstrasse] C3 pneumatic tube transport system
 - @[c3sidechannel] C3 Field phone service
 - @[c3troc] Train operation center
@@ -54,6 +55,7 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 [c3lightning_tlk]:https://twitter.com/c3lightning_tlk "C3 lightning talks organisation"
 [c3lingo]:https://twitter.com/c3lingo "Translation and interpreter service"
 [c3noc]:https://twitter.com/c3noc "C3 network operation center"
+[c3orc_]:https://twitter.com/c3roc_ "Radio Operation Center - Frequency coordination for events"
 [c3seidenstrasse]:https://twitter.com/c3seidenstrasse "C3 pneumatic tube transport system"
 [c3sidechannel]:https://twitter.com/c3sidechannel "C3 field phone service"
 [c3troc]:https://twitter.com/c3troc "C3 Train operation center"
