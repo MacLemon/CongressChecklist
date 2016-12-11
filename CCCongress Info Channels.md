@@ -21,6 +21,7 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 ## Twitter
 - @[c3bar] Bar Operation Center - Department of Tschunk Quality Assurance
 - @[c3cert] Chaos Emergency Response Team
+- @[c3hoc] Hair operations center
 - @[c3infodesk] Infodesk/Travelservice for CCC related events
 - @[c3kidspace] Childcare at Chaos events
 - @[c3lightning_tlk] C3 Lighting talks organisation
@@ -50,6 +51,7 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 
 [c3bar]:https://twitter.com/c3bar "Bar Operation Center - Department of Tschunk Quality Assurance"
 [c3cert]:https://twitter.com/c3cert "Chaos Emergency Response Team"
+[c3hoc]:https://twitter.com/c3hoc "Hair operations center"
 [c3infodesk]:https://twitter.com/c3infodesk "Infodesk/Travelservice for CCC related events"
 [c3kidspace]:https://twitter.com/c3kidspace "C3 Kidspace"
 [c3lightning_tlk]:https://twitter.com/c3lightning_tlk "C3 lightning talks organisation"
