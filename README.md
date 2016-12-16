@@ -230,6 +230,9 @@ In case something gets lost it can find its way back to you.
 #### Power and Chargers
 Start charging your batteries right now so they're ready when you finish packing and leave.
 
+For travelling abroad there is a handy [World Electrical Plug & Socket Map][40]
+
+
 - Charger for laptop
 	- Mac: small Duck-head and long ([Schuko Plug][6]) cord
 	- Mac: MagSafe to MagSafe 2 Adapter
@@ -650,6 +653,7 @@ These people have contributed to improve this list for everyone (in no particula
 [37]:https://de.wikipedia.org/wiki/Datenklo "CCC Datenklo - Akustik Koppler"
 [38]:https://cert.ccc.de/ "C3 CERT"
 [39]:https://events.ccc.de/congress/2016/wiki/Assembly:Coffeenerds "Coffeenerds at 33c3"
+[40]:http://britishbusinessenergy.co.uk/plug-socket/ "World Electrical Plug & Socket Map"
 
 [100]:https://twitter.com/Astarioth
 [101]:https://twitter.com/N4mes

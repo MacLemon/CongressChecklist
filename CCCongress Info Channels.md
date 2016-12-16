@@ -16,20 +16,23 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 
 - [CCC Live Streaming via C3VOC](https://streaming.media.ccc.de/)
 - [C3 Subtitles Team](https://c3subtitles.de/) Crowdsources subtiles and translations
-
+- [CongressEverywhere](https://events.ccc.de/congress/2016/wiki/Congress_Everywhere) Locations with public live-stream viewing
 
 ## Twitter
+- @[c3bar] Bar Operation Center - Department of Tschunk Quality Assurance
 - @[c3cert] Chaos Emergency Response Team
+- @[c3hoc] Hair operations center
 - @[c3infodesk] Infodesk/Travelservice for CCC related events
 - @[c3kidspace] Childcare at Chaos events
 - @[c3lightning_tlk] C3 Lighting talks organisation
 - @[c3lingo] Translation and interpreter service - Volunteers welcome!
 - @[c3noc] Network operation center
-- @[c3poc] Phone operation center (DECT and GSM)
+- @[c3roc_] C3 Radio Operation Center - Frequency coordination for events
 - @[c3seidenstrasse] C3 pneumatic tube transport system
 - @[c3sidechannel] C3 Field phone service
 - @[c3troc] Train operation center
 - @[c3voc] Video operation center (Recordings and live streaming)
+- @[c3voc_releases] Bot that posts releases of fresh recordings in many formats
 - @[ccc] Official Twitter Account of CCC events
 - @[chaospatinnen] Mentoring Operation Center
 - @[chaosupdates] CCC Updates
@@ -42,16 +45,24 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 [RSS]:https://en.wikipedia.org/wiki/Rss "Wikipedia: RSS"
 [Streaming]:https://streaming.media.ccc.de/ "C3VOC Streaming - LIVE!"
 
+### Contact
+[Email Contact](https://events.ccc.de/congress/2016/wiki/Static:Contact)
+
+
+[c3bar]:https://twitter.com/c3bar "Bar Operation Center - Department of Tschunk Quality Assurance"
 [c3cert]:https://twitter.com/c3cert "Chaos Emergency Response Team"
+[c3hoc]:https://twitter.com/c3hoc "Hair operations center"
 [c3infodesk]:https://twitter.com/c3infodesk "Infodesk/Travelservice for CCC related events"
 [c3kidspace]:https://twitter.com/c3kidspace "C3 Kidspace"
 [c3_lightningtlk]:https://twitter.com/c3_lightningtlk "C3 lightning talks organisation"
 [c3lingo]:https://twitter.com/c3lingo "Translation and interpreter service"
 [c3noc]:https://twitter.com/c3noc "C3 network operation center"
+[c3roc_]:https://twitter.com/c3roc_ "Radio Operation Center - Frequency coordination for events"
 [c3seidenstrasse]:https://twitter.com/c3seidenstrasse "C3 pneumatic tube transport system"
 [c3sidechannel]:https://twitter.com/c3sidechannel "C3 field phone service"
 [c3troc]:https://twitter.com/c3troc "C3 Train operation center"
 [c3voc]:https://twitter.com/c3voc "C3 video operation center"
+[c3voc_releases]:https://twitter.com/c3voc_releases "C3 video operation center - New releases Bot"
 [ccc]:https://twitter.com/ccc "Official Twitter Account of CCC events"
 [chaospatinnen]:https://twitter.com/chaospatinnen "Mentoring Operation Center"
 [chaosupdates]:https://twitter.com/chaosupdates "CCC Updates"
