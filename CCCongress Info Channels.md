@@ -54,7 +54,7 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 [c3hoc]:https://twitter.com/c3hoc "Hair operations center"
 [c3infodesk]:https://twitter.com/c3infodesk "Infodesk/Travelservice for CCC related events"
 [c3kidspace]:https://twitter.com/c3kidspace "C3 Kidspace"
-[c3lightning_tlk]:https://twitter.com/c3lightning_tlk "C3 lightning talks organisation"
+[c3_lightningtlk]:https://twitter.com/c3_lightningtlk "C3 lightning talks organisation"
 [c3lingo]:https://twitter.com/c3lingo "Translation and interpreter service"
 [c3noc]:https://twitter.com/c3noc "C3 network operation center"
 [c3roc_]:https://twitter.com/c3roc_ "Radio Operation Center - Frequency coordination for events"
