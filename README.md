@@ -139,7 +139,7 @@ Event and location related emergency information is in a seperate document for t
 - Towel. Never hitchhike the Galaxy without one.
 - Contact lenses
 	- cleaning fluid
-	- contact lens container
+	- contact lens container (make sure it fits flight regulations for fluids if you travel by plane.)
 	- replacement contact lenses
 	- replacement glasses
 	- eye drops
