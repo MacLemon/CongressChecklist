@@ -80,7 +80,7 @@ This applies to the Congress Center as well as your hotel windows.
 
 
 ### Documents
-- Train/plane tickets (including verification documents for self-printed DB tickets, like your credit card or Personalausweis)
+- Train/plane tickets (including verification documents for self-printed DB tickets, like your credit card or Personalausweis[49].)
 - Congress tickets (printed or digital. iOS passbook/wallet, PDF)
 - Passport or other kind of photo ID (Personalausweis)
 - Driver's license (even an international one)
@@ -614,6 +614,7 @@ These people have contributed to improve this list for everyone (in no particula
 - [raven][136]
 - [@trollkopp][137]
 - [@dot__not][138]
+- [@Katti][139]
 
 
 ## Links
@@ -696,4 +697,5 @@ These people have contributed to improve this list for everyone (in no particula
 [135]:https://twitter.com/cloelkes
 [136]:https://forestraven.net
 [137]:https://twitter.com/trollkopp
-[137]:https://twitter.com/dot__not
+[138]:https://twitter.com/dot__not
+[139]:https://twitter.com/Katti
