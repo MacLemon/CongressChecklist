@@ -93,6 +93,8 @@ This applies to the Congress Center as well as your hotel windows.
 
 
 ### Payment stuff
+When using ATMs/Cash Machines/Bankomaten/Geldautomaten give them a good wiggle before inserting your card. During 32C3 a Skimmer device had been found at an ATM at Bahnhof Dammtor. This is just a reminder, you should do that every time you use your card.
+
 - Some cash (€uros, or other local currency)
 - Credit card
 - Maestro card (Bankomatkarte)
@@ -611,6 +613,7 @@ These people have contributed to improve this list for everyone (in no particula
 - [@cloelkes][135]
 - [raven][136]
 - [@trollkopp][137]
+- [@dot__not][138]
 
 
 ## Links
@@ -693,3 +696,4 @@ These people have contributed to improve this list for everyone (in no particula
 [135]:https://twitter.com/cloelkes
 [136]:https://forestraven.net
 [137]:https://twitter.com/trollkopp
+[137]:https://twitter.com/dot__not
