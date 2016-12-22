@@ -131,7 +131,7 @@ Event and location related emergency information is in a seperate document for t
 - Tampons
 - Sanitary towels
 - Condoms, dental dams and other protective gear (Make sure the condoms are not beyond their usage date! (Yes, it really happens…))
-- Lubricant (water based to be compatible with condoms)
+- Lubricant (silicone or water based, to be compatible with condoms)
 - Disinfectants
 - Soap
 - Deodorant, antiperspirant
@@ -615,6 +615,7 @@ These people have contributed to improve this list for everyone (in no particula
 - [@trollkopp][137]
 - [@dot__not][138]
 - [@Katti][139]
+- [joepie91][140]
 
 
 ## Links
@@ -699,3 +700,4 @@ These people have contributed to improve this list for everyone (in no particula
 [137]:https://twitter.com/trollkopp
 [138]:https://twitter.com/dot__not
 [139]:https://twitter.com/Katti
+[140]:https://cryto.net/~joepie91
