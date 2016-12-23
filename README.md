@@ -563,7 +563,7 @@ If you need help with buying a SIM card, ask a local for assistance. They're fri
 
 
 ## Staying up-to-date
-Most events publich a lot of information about events as they happen. There are many ways to stay in the loop during the event or in between by subscribing to RSS feeds, Twitter accounts, mailing lists and even newsletters [sic].
+Most events publish a lot of information about events as they happen. There are many ways to stay in the loop during the event or in between by subscribing to RSS feeds, Twitter accounts, mailing lists and even newsletters [sic].
 For a list of CCC related news sources you may be interested in following, see CCCongress.md in this repository.
 
 
