@@ -67,7 +67,7 @@ Stuff that you're not allowed to bring on a plane or otherwise need to send via 
 - Handcuffs
 
 
-### Items *only* allowed in hand luggage, but *not* checked in luggage
+### Items *only* allowed to be carried *on your body*, but *neither* in checked in luggage nor hand-lagguage.
 - Small lighters
 
 
@@ -80,7 +80,7 @@ This applies to the Congress Center as well as your hotel windows.
 
 
 ### Documents
-- Train/plane tickets (including verification documents for self-printed DB tickets, like your credit card or Personalausweis[49].)
+- Train/plane tickets (including verification documents for self-printed DB tickets. Check the List of accepted documents! [Was ist als Identifizierungskarte zugelassen?][41].)
 - Congress tickets (printed or digital. iOS passbook/wallet, PDF)
 - Passport or other kind of photo ID (Personalausweis)
 - Driver's license (even an international one)
@@ -646,7 +646,7 @@ These people have contributed to improve this list for everyone (in no particula
 [26]:https://play.google.com/store/apps/details?id=nerd.tuxmobil.fahrplan.congress
 [27]:https://github.com/tuxmobil/CampFahrplan
 [28]:https://itunes.apple.com/us/app/30c3-fahrplan-30c3-event-organizer/id764609606?mt=8
-[29]: http://en.wikipedia.org/wiki/Knife_legislation#Germany
+[29]:http://en.wikipedia.org/wiki/Knife_legislation#Germany
 [30]:https://rad1o.badge.events.ccc.de/ "Rad1o Badge, CCCamp 2015"
 [31]:https://www.eventphone.de/wiki/index.php/DECT_Phone_Compatibility_List "Eventphone DECT handset compatibility list"
 [32]:https://www.youtube.com/watch?v=J0MUEqzWve8 "YouTube: B.O.O.K."
@@ -658,6 +658,7 @@ These people have contributed to improve this list for everyone (in no particula
 [38]:https://cert.ccc.de/ "C3 CERT"
 [39]:https://events.ccc.de/congress/2016/wiki/Assembly:Coffeenerds "Coffeenerds at 33c3"
 [40]:http://britishbusinessenergy.co.uk/plug-socket/ "World Electrical Plug & Socket Map"
+[41]:https://www.bahn.de/hilfe/view/pk/de/ticketbuchung/identifizierungskarte.shtml "Deutsche Bahn: Was ist als Identifizierungskarte zugelassen?"
 
 [100]:https://twitter.com/Astarioth
 [101]:https://twitter.com/N4mes
