@@ -457,6 +457,7 @@ Check out the [USB-C cable matrix][36] on what a certain manufacturer's cable ac
 - A pillow (and sleeping bag/camping mat if you intend to sleep at the gym or in heaven)
 - Velcro straps to mount things to other things or people to things
 - Your favourite tea/coffee for [Coffeenerds][39]
+- All the stickers to trade and give away!
 
 
 
@@ -615,6 +616,7 @@ These people have contributed to improve this list for everyone (in no particula
 - [@trollkopp][137]
 - [@dot__not][138]
 - [@Katti][139]
+- [jomo][140]
 
 
 ## Links
@@ -700,3 +702,4 @@ These people have contributed to improve this list for everyone (in no particula
 [137]:https://twitter.com/trollkopp
 [138]:https://twitter.com/dot__not
 [139]:https://twitter.com/Katti
+[140]:https://twitter.com/0xjomo
