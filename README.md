@@ -126,6 +126,7 @@ Event and location related emergency information is in a seperate document for t
 - Tooth brush (plus charger if it is an electrical one)
 - Toothpaste
 - Shower gel
+- Flip Flops for shared showers
 - Shampoo (to avoid bad hair days)
 - Conditioner
 - Tampons
@@ -256,7 +257,7 @@ For travelling abroad there is a handy [World Electrical Plug & Socket Map][40]
 - Smart Watches
     - Charging cable or docking station required to charge
 - A portable battery pack (aka powerbank) so you can charge on the go. (And the necessary cable to recharge that battery pack overnight. A USB-A to micro USB cable in most cases, maybe already a USB-C cable as well.)
-- A spare plastic card to fool the power-saving system in your hotel room, while you're not there. (So your gear can charge and the LEDs keep blinking.)
+- A spare plastic card to [fool the power-saving system][42] in your hotel room, while you're not there. (So your gear can charge and the LEDs keep blinking.)
 
 
 #### Laptop and Devices
@@ -267,7 +268,7 @@ For travelling abroad there is a handy [World Electrical Plug & Socket Map][40]
 	- For devices with private information be sure to encrypt them! (VeraCrypt, GPG, FileVault, EncFS, Bitlocker, gbde, geli, dm-crypt, LUKS, eCryptFS)
         - Make a GPT Label or Volume label with your online nickname or handle because people can't read your owner.txt file on encrypted devices. You may also create multiple partitions (plaintext and encrypted ones).
 	- make note of the filesystem used so you know if they will work on the system of the person you want to exchange data with. (FAT32 is a safe bet to work everywhere, for larger files ExFAT should also work on most platforms.)
-	- Mac: NTFS can be read, but not written to without 3rd party software. FAT, ExFAT, HFS+(J), HFSX are fine for current OS X versions, ZFS, Ext2/Ext3/Ext4 and NTFS r/w support need 3rd party software. APFS support is experimental in macOS 10.12 Sierra and available from the command line only.
+	- Mac: NTFS can be read, but not written to without 3rd party software. FAT, ExFAT, HFS+(J), HFSX are fine for current OS X versions, ZFS, Ext2[/Ext3/Ext4 and NTFS r/w support need 3rd party software. APFS support is experimental in macOS 10.12 Sierra and available from the command line only.
 	- USB/Thunderbolt/USB-C to Ethernet RJ45 adapter, if your device needs one (for example thin notebooks)
 - Mass storage devices (bring some empty ones to fill with data and/or bring your own data and share it!)
 - Tablet computer, iPad, Android tablet, Microsoft surface
@@ -661,6 +662,7 @@ These people have contributed to improve this list for everyone (in no particula
 [39]:https://events.ccc.de/congress/2016/wiki/Assembly:Coffeenerds "Coffeenerds at 33c3"
 [40]:http://britishbusinessenergy.co.uk/plug-socket/ "World Electrical Plug & Socket Map"
 [41]:https://www.bahn.de/hilfe/view/pk/de/ticketbuchung/identifizierungskarte.shtml "Deutsche Bahn: Was ist als Identifizierungskarte zugelassen?"
+[42]:http://travel.stackexchange.com/questions/55409/what-is-the-hotel-room-card-slot-inside-the-room-for
 
 [100]:https://twitter.com/Astarioth
 [101]:https://twitter.com/N4mes
