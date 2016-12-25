@@ -462,7 +462,7 @@ Check out the [USB-C cable matrix][36] on what a certain manufacturer's cable ac
 - A pillow (and sleeping bag/camping mat if you intend to sleep at the gym or in heaven)
 - Velcro straps to mount things to other things or people to things
 - Your favourite tea/coffee for [Coffeenerds](39)
-- a thermo travelling mug for coffeenerds, coacoa addicts, ...
+- a thermo travelling mug for coffee-nerds, cocoa addicts, ...
 - All the stickers to trade and give away!
 
 
