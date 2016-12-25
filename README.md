@@ -257,7 +257,7 @@ For travelling abroad there is a handy [World Electrical Plug & Socket Map][40]
 - Smart Watches
     - Charging cable or docking station required to charge
 - A portable battery pack (aka powerbank) so you can charge on the go. (And the necessary cable to recharge that battery pack overnight. A USB-A to micro USB cable in most cases, maybe already a USB-C cable as well.)
-- A spare plastic card to [fool the power-saving system][140] in your hotel room, while you're not there. (So your gear can charge and the LEDs keep blinking.)
+- A spare plastic card to [fool the power-saving system][42] in your hotel room, while you're not there. (So your gear can charge and the LEDs keep blinking.)
 
 
 #### Laptop and Devices
@@ -458,6 +458,7 @@ Check out the [USB-C cable matrix][36] on what a certain manufacturer's cable ac
 - A pillow (and sleeping bag/camping mat if you intend to sleep at the gym or in heaven)
 - Velcro straps to mount things to other things or people to things
 - Your favourite tea/coffee for [Coffeenerds][39]
+- All the stickers to trade and give away!
 
 
 
@@ -616,6 +617,7 @@ These people have contributed to improve this list for everyone (in no particula
 - [@trollkopp][137]
 - [@dot__not][138]
 - [@Katti][139]
+- [jomo][140]
 
 
 ## Links
@@ -660,6 +662,7 @@ These people have contributed to improve this list for everyone (in no particula
 [39]:https://events.ccc.de/congress/2016/wiki/Assembly:Coffeenerds "Coffeenerds at 33c3"
 [40]:http://britishbusinessenergy.co.uk/plug-socket/ "World Electrical Plug & Socket Map"
 [41]:https://www.bahn.de/hilfe/view/pk/de/ticketbuchung/identifizierungskarte.shtml "Deutsche Bahn: Was ist als Identifizierungskarte zugelassen?"
+[42]:http://travel.stackexchange.com/questions/55409/what-is-the-hotel-room-card-slot-inside-the-room-for
 
 [100]:https://twitter.com/Astarioth
 [101]:https://twitter.com/N4mes
@@ -701,4 +704,4 @@ These people have contributed to improve this list for everyone (in no particula
 [137]:https://twitter.com/trollkopp
 [138]:https://twitter.com/dot__not
 [139]:https://twitter.com/Katti
-[140]:http://travel.stackexchange.com/questions/55409/what-is-the-hotel-room-card-slot-inside-the-room-for
+[140]:https://twitter.com/0xjomo
