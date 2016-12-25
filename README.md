@@ -73,6 +73,8 @@ Stuff that you're not allowed to bring on a plane or otherwise need to send via 
 
 ## Things to pack
 
+- https://www.youtube.com/watch?v=MvgN5gCuLac a copy of George Carlin's "stuff"
+
 ### Decoration
 - Bring ridiculous amounts of LED strips and other photon emitting devices so we can illuminate ALL the things.
 
