@@ -23,6 +23,7 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 - @[Fahrplan Update] Fahrplan Update notification Bot
 - @[c3bar] Bar Operation Center - Department of Tschunk Quality Assurance
 - @[c3cert] Chaos Emergency Response Team
+- @[c3gelb] C3 Hygene
 - @[c3hoc] Hair operations center
 - @[c3infodesk] Infodesk/Travelservice for CCC related events
 - @[c3kidspace] Childcare at Chaos events
@@ -55,6 +56,7 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 [FahrplanUpdate]:https://twitter.com/FahrplanUpdate "C3 Fahrplan Update notification bot"
 [c3bar]:https://twitter.com/c3bar "Bar Operation Center - Department of Tschunk Quality Assurance"
 [c3cert]:https://twitter.com/c3cert "Chaos Emergency Response Team"
+[c3gelb]:https://twitter.com/c3gelb "C3 hygene team"
 [c3hoc]:https://twitter.com/c3hoc "Hair operations center"
 [c3infodesk]:https://twitter.com/c3infodesk "Infodesk/Travelservice for CCC related events"
 [c3kidspace]:https://twitter.com/c3kidspace "C3 Kidspace"
