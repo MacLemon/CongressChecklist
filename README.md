@@ -126,6 +126,7 @@ Event and location related emergency information is in a seperate document for t
 - Tooth brush (plus charger if it is an electrical one)
 - Toothpaste
 - Shower gel
+- Flip Flops for shared showers
 - Shampoo (to avoid bad hair days)
 - Conditioner
 - Tampons
