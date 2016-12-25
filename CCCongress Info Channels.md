@@ -20,6 +20,7 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 
 ## Twitter
 - @[C3_LightningTLK] C3 Lighting talks organisation
+- @[Fahrplan Update] Fahrplan Update notification Bot
 - @[c3bar] Bar Operation Center - Department of Tschunk Quality Assurance
 - @[c3cert] Chaos Emergency Response Team
 - @[c3hoc] Hair operations center
@@ -51,6 +52,7 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 
 
 [C3_LightningTLK]:https://twitter.com/c3_lightningtlk "C3 lightning talks organisation"
+[FahrplanUpdate]:https://twitter.com/FahrplanUpdate "C3 Fahrplan Update notification bot"
 [c3bar]:https://twitter.com/c3bar "Bar Operation Center - Department of Tschunk Quality Assurance"
 [c3cert]:https://twitter.com/c3cert "Chaos Emergency Response Team"
 [c3hoc]:https://twitter.com/c3hoc "Hair operations center"
