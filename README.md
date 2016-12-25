@@ -25,9 +25,9 @@ You'll also find a list of all the nice humans who have contributed to this list
 ## Things to do before traveling
 - Charge ALL the batteries!
 - Make backups.
-- Bonus points for even testing restore
+- Bonus points for even testing restore.
 - Update all the software on your devices.
-- You might want to empty your drives to make room for some COMPLETELY LEGAL media files that might be shared
+- You might want to empty your drives to make room for some COMPLETELY LEGAL media files that might be shared.
 - Put your name on your stuff, especially on things you’ll likely lend to someone (power strips, cables etc). Twitter handles make excellent name tags because people know how to contact you right away. Prefer permanent markers over stickers, for theft reasons.
 - You DID make backups of all your devices, didn't you? That includes portable computers, servers, mobile phones, tablets, navigation devices, wrist watches and all your other $gadgets.
 - Store the backups not only on the device your backing up or another device you’re taking with you. A swiss bank locker is good, if you have one.
@@ -223,6 +223,7 @@ Come as you are, as a friend
 - Evening gown
 - Cosplay is welcome
 - Tailcoat or suit, maybe including a top hat
+- Utility belt for your DECT phone, some coins and whatever you carry with you the whole day.
 
 
 ### Gear
@@ -408,6 +409,8 @@ Check out the [USB-C cable matrix][36] on what a certain manufacturer's cable ac
 - Remote control for your presentation / lightning talk (also check the batteries in the remote), dont' forget the USB dongle if your remote requires one
 - Infrared, Bluetooth or radio remote (for presentations) and also check their batteries
 
+#### Podcast Gear
+- Headset or microphone & headphones, your laptop and/or a recording device (incl. charging cable or extra batteries - you really did charge them all, right?), connector cables.
 
 #### CCC originated Hardware
 - [r0cket][4], fully charged (needs a micro USB cable for charging/programming)
@@ -424,6 +427,7 @@ Check out the [USB-C cable matrix][36] on what a certain manufacturer's cable ac
 - LED throwies
 - Tesla coils
 - Headphones (Closed type) (so you don't have to talk to other carbon units while traveling)
+- replacement plush cushions for headphones
 - Neck cushion (for long journeys)
 - All your devices!!1 ((Raspberry|Orange|Banana) Pi, Arduino, FreedomBox, DreamPlug, …)
 	- + cables + SD-cards (+ GPIO equipment)
@@ -457,7 +461,8 @@ Check out the [USB-C cable matrix][36] on what a certain manufacturer's cable ac
 - A blanket
 - A pillow (and sleeping bag/camping mat if you intend to sleep at the gym or in heaven)
 - Velcro straps to mount things to other things or people to things
-- Your favourite tea/coffee for [Coffeenerds][39]
+- Your favourite tea/coffee for [Coffeenerds](39)
+- a thermo travelling mug for coffeenerds, coacoa addicts, ...
 - All the stickers to trade and give away!
 
 
