@@ -125,6 +125,7 @@ Event and location related emergency information is in a seperate document for t
 ### Personal hygiene
 - Tooth brush (plus charger if it is an electrical one)
 - Toothpaste
+- Dental floss
 - Shower gel
 - Flip Flops for shared showers
 - Shampoo (to avoid bad hair days)
@@ -625,6 +626,7 @@ These people have contributed to improve this list for everyone (in no particula
 - [@Katti][140]
 - [jomo][141]
 - [joepie91][142]
+- [The Compiler][143]
 
 
 ## Links
@@ -714,4 +716,4 @@ These people have contributed to improve this list for everyone (in no particula
 [140]:https://twitter.com/Katti
 [141]:https://twitter.com/0xjomo
 [142]:https://cryto.net/~joepie91
-
+[143]:https://github.com/The-Compiler
