@@ -19,13 +19,14 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 - [CongressEverywhere](https://events.ccc.de/congress/2016/wiki/Congress_Everywhere) Locations with public live-stream viewing
 
 ## Twitter
+- @[C3_LightningTLK] C3 Lighting talks organisation
 - @[c3bar] Bar Operation Center - Department of Tschunk Quality Assurance
 - @[c3cert] Chaos Emergency Response Team
 - @[c3hoc] Hair operations center
 - @[c3infodesk] Infodesk/Travelservice for CCC related events
 - @[c3kidspace] Childcare at Chaos events
-- @[C3_LightningTLK] C3 Lighting talks organisation
 - @[c3lingo] Translation and interpreter service - Volunteers welcome!
+- @[c3logistic] C3 Logistics
 - @[c3noc] Network operation center
 - @[c3roc_] C3 Radio Operation Center - Frequency coordination for events
 - @[c3seidenstrasse] C3 pneumatic tube transport system
@@ -42,7 +43,6 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 - @[engelsystem] Engelsystem information system for chaos events
 - @[eventphone] DECT wireless phone network operations
 
-
 [RSS]:https://en.wikipedia.org/wiki/Rss "Wikipedia: RSS"
 [Streaming]:https://streaming.media.ccc.de/ "C3VOC Streaming - LIVE!"
 
@@ -57,6 +57,7 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 [c3infodesk]:https://twitter.com/c3infodesk "Infodesk/Travelservice for CCC related events"
 [c3kidspace]:https://twitter.com/c3kidspace "C3 Kidspace"
 [c3lingo]:https://twitter.com/c3lingo "Translation and interpreter service"
+[c3logistic]:https://twitter.com/c3logistic "C3 logistics"
 [c3noc]:https://twitter.com/c3noc "C3 network operation center"
 [c3roc_]:https://twitter.com/c3roc_ "Radio Operation Center - Frequency coordination for events"
 [c3seidenstrasse]:https://twitter.com/c3seidenstrasse "C3 pneumatic tube transport system"
@@ -67,9 +68,9 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 [c3voc]:https://twitter.com/c3voc "C3 video operation center"
 [c3voc_releases]:https://twitter.com/c3voc_releases "C3 video operation center - New releases Bot"
 [ccc]:https://twitter.com/ccc "Official Twitter Account of CCC events"
-[congress_ios]:https://twitter.com/congress_ios "Congress App for iOS devices"
 [chaospatinnen]:https://twitter.com/chaospatinnen "Mentoring Operation Center"
 [chaosupdates]:https://twitter.com/chaosupdates "CCC Updates"
+[congress_ios]:https://twitter.com/congress_ios "Congress App for iOS devices"
 [engelsystem]:https://twitter.com/engelsystem "Engelsystem information system for chaos events"
 [eventphone]:https://twitter.com/eventphone "DECT wireless phone network operations"
 

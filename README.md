@@ -67,7 +67,7 @@ Stuff that you're not allowed to bring on a plane or otherwise need to send via 
 - Handcuffs
 
 
-### Items *only* allowed in hand luggage, but *not* checked in luggage
+### Items *only* allowed to be carried *on your body*, but *neither* in checked in luggage nor hand-lagguage.
 - Small lighters
 
 
@@ -80,7 +80,7 @@ This applies to the Congress Center as well as your hotel windows.
 
 
 ### Documents
-- Train/plane tickets (including verification documents for self-printed DB tickets, like your credit card or Personalausweis)
+- Train/plane tickets (including verification documents for self-printed DB tickets. Check the List of accepted documents! [Was ist als Identifizierungskarte zugelassen?][41].)
 - Congress tickets (printed or digital. iOS passbook/wallet, PDF)
 - Passport or other kind of photo ID (Personalausweis)
 - Driver's license (even an international one)
@@ -126,12 +126,13 @@ Event and location related emergency information is in a seperate document for t
 - Tooth brush (plus charger if it is an electrical one)
 - Toothpaste
 - Shower gel
+- Flip Flops for shared showers
 - Shampoo (to avoid bad hair days)
 - Conditioner
 - Tampons
 - Sanitary towels
 - Condoms, dental dams and other protective gear (Make sure the condoms are not beyond their usage date! (Yes, it really happens…))
-- Lubricant (water based to be compatible with condoms)
+- Lubricant (silicone or water based, to be compatible with condoms)
 - Disinfectants
 - Soap
 - Deodorant, antiperspirant
@@ -256,7 +257,7 @@ For travelling abroad there is a handy [World Electrical Plug & Socket Map][40]
 - Smart Watches
     - Charging cable or docking station required to charge
 - A portable battery pack (aka powerbank) so you can charge on the go. (And the necessary cable to recharge that battery pack overnight. A USB-A to micro USB cable in most cases, maybe already a USB-C cable as well.)
-- A spare plastic card to fool the power-saving system in your hotel room, while you're not there. (So your gear can charge and the LEDs keep blinking.)
+- A spare plastic card to [fool the power-saving system][42] in your hotel room, while you're not there. (So your gear can charge and the LEDs keep blinking.)
 
 
 #### Laptop and Devices
@@ -267,7 +268,7 @@ For travelling abroad there is a handy [World Electrical Plug & Socket Map][40]
 	- For devices with private information be sure to encrypt them! (VeraCrypt, GPG, FileVault, EncFS, Bitlocker, gbde, geli, dm-crypt, LUKS, eCryptFS)
         - Make a GPT Label or Volume label with your online nickname or handle because people can't read your owner.txt file on encrypted devices. You may also create multiple partitions (plaintext and encrypted ones).
 	- make note of the filesystem used so you know if they will work on the system of the person you want to exchange data with. (FAT32 is a safe bet to work everywhere, for larger files ExFAT should also work on most platforms.)
-	- Mac: NTFS can be read, but not written to without 3rd party software. FAT, ExFAT, HFS+(J), HFSX are fine for current OS X versions, ZFS, Ext2/Ext3/Ext4 and NTFS r/w support need 3rd party software. APFS support is experimental in macOS 10.12 Sierra and available from the command line only.
+	- Mac: NTFS can be read, but not written to without 3rd party software. FAT, ExFAT, HFS+(J), HFSX are fine for current OS X versions, ZFS, Ext2[/Ext3/Ext4 and NTFS r/w support need 3rd party software. APFS support is experimental in macOS 10.12 Sierra and available from the command line only.
 	- USB/Thunderbolt/USB-C to Ethernet RJ45 adapter, if your device needs one (for example thin notebooks)
 - Mass storage devices (bring some empty ones to fill with data and/or bring your own data and share it!)
 - Tablet computer, iPad, Android tablet, Microsoft surface
@@ -457,6 +458,7 @@ Check out the [USB-C cable matrix][36] on what a certain manufacturer's cable ac
 - A pillow (and sleeping bag/camping mat if you intend to sleep at the gym or in heaven)
 - Velcro straps to mount things to other things or people to things
 - Your favourite tea/coffee for [Coffeenerds][39]
+- All the stickers to trade and give away!
 
 
 
@@ -563,7 +565,7 @@ If you need help with buying a SIM card, ask a local for assistance. They're fri
 
 
 ## Staying up-to-date
-Most events publich a lot of information about events as they happen. There are many ways to stay in the loop during the event or in between by subscribing to RSS feeds, Twitter accounts, mailing lists and even newsletters [sic].
+Most events publish a lot of information about events as they happen. There are many ways to stay in the loop during the event or in between by subscribing to RSS feeds, Twitter accounts, mailing lists and even newsletters [sic].
 For a list of CCC related news sources you may be interested in following, see CCCongress.md in this repository.
 
 
@@ -615,6 +617,9 @@ These people have contributed to improve this list for everyone (in no particula
 - [@trollkopp][137]
 - [@dot__not][138]
 - [@PeterTheOne][139]
+- [@Katti][140]
+- [jomo][141]
+- [joepie91][142]
 
 
 ## Links
@@ -646,7 +651,7 @@ These people have contributed to improve this list for everyone (in no particula
 [26]:https://play.google.com/store/apps/details?id=nerd.tuxmobil.fahrplan.congress
 [27]:https://github.com/tuxmobil/CampFahrplan
 [28]:https://itunes.apple.com/us/app/30c3-fahrplan-30c3-event-organizer/id764609606?mt=8
-[29]: http://en.wikipedia.org/wiki/Knife_legislation#Germany
+[29]:http://en.wikipedia.org/wiki/Knife_legislation#Germany
 [30]:https://rad1o.badge.events.ccc.de/ "Rad1o Badge, CCCamp 2015"
 [31]:https://www.eventphone.de/wiki/index.php/DECT_Phone_Compatibility_List "Eventphone DECT handset compatibility list"
 [32]:https://www.youtube.com/watch?v=J0MUEqzWve8 "YouTube: B.O.O.K."
@@ -658,6 +663,8 @@ These people have contributed to improve this list for everyone (in no particula
 [38]:https://cert.ccc.de/ "C3 CERT"
 [39]:https://events.ccc.de/congress/2016/wiki/Assembly:Coffeenerds "Coffeenerds at 33c3"
 [40]:http://britishbusinessenergy.co.uk/plug-socket/ "World Electrical Plug & Socket Map"
+[41]:https://www.bahn.de/hilfe/view/pk/de/ticketbuchung/identifizierungskarte.shtml "Deutsche Bahn: Was ist als Identifizierungskarte zugelassen?"
+[42]:http://travel.stackexchange.com/questions/55409/what-is-the-hotel-room-card-slot-inside-the-room-for
 
 [100]:https://twitter.com/Astarioth
 [101]:https://twitter.com/N4mes
@@ -699,3 +706,7 @@ These people have contributed to improve this list for everyone (in no particula
 [137]:https://twitter.com/trollkopp
 [138]:https://twitter.com/dot__not
 [139]:https://twitter.com/PeterTheOne
+[140]:https://twitter.com/Katti
+[141]:https://twitter.com/0xjomo
+[142]:https://cryto.net/~joepie91
+
