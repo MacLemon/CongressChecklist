@@ -427,6 +427,7 @@ Check out the [USB-C cable matrix][36] on what a certain manufacturer's cable ac
 - Headlamp
 - LED throwies
 - Tesla coils
+- Chocolate Foundatain
 - Headphones (Closed type) (so you don't have to talk to other carbon units while traveling)
 - replacement plush cushions for headphones
 - Neck cushion (for long journeys)
