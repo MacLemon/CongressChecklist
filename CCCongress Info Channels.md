@@ -19,6 +19,7 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 - [CongressEverywhere](https://events.ccc.de/congress/2016/wiki/Congress_Everywhere) Locations with public live-stream viewing
 
 ## Twitter
+- @[C3DieLounge] Official C3 Lounge floor. (Ten Forward, anti (t)error lounge, savage sector, section 9)
 - @[C3_LightningTLK] C3 Lighting talks organisation
 - @[Fahrplan Update] Fahrplan Update notification Bot
 - @[c3bar] Bar Operation Center - Department of Tschunk Quality Assurance
@@ -51,7 +52,7 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 ### Contact
 [Email Contact](https://events.ccc.de/congress/2016/wiki/Static:Contact)
 
-
+[C3DieLounge]:https://twitter.com/c3dielounge "Official C3 Lounge Floor"
 [C3_LightningTLK]:https://twitter.com/c3_lightningtlk "C3 lightning talks organisation"
 [FahrplanUpdate]:https://twitter.com/FahrplanUpdate "C3 Fahrplan Update notification bot"
 [c3bar]:https://twitter.com/c3bar "Bar Operation Center - Department of Tschunk Quality Assurance"
