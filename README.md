@@ -1,9 +1,12 @@
 # CongressChecklist
 ===================
 
-List of things to do, to pack and tips on attending a congress, especially Chaos Communication Congress.
+List of things to do, to pack and tips on attending a congress, conference or other event, especially Chaos Communication Congress.
+It's been handy for general travel as well.
 
 This list is irregularly updated (and pushed). You may want to refresh regularly. :-) Pull requests are welcome!
+
+If you're attenting a camping event, with the great outdoors, evil daystar and foliage, you'll also want to check out [@Columbia19][144]'s [Camping-Checklist][43] in addition!
 
 ---
 
@@ -673,6 +676,7 @@ These people have contributed to improve this list for everyone (in no particula
 [40]:http://britishbusinessenergy.co.uk/plug-socket/ "World Electrical Plug & Socket Map"
 [41]:https://www.bahn.de/hilfe/view/pk/de/ticketbuchung/identifizierungskarte.shtml "Deutsche Bahn: Was ist als Identifizierungskarte zugelassen?"
 [42]:http://travel.stackexchange.com/questions/55409/what-is-the-hotel-room-card-slot-inside-the-room-for
+[43]:https://github.com/Columbia19/Camping-Checklist "Columbia19's Campinbg-Checklist on Github!"
 
 [100]:https://twitter.com/Astarioth
 [101]:https://twitter.com/N4mes
@@ -718,3 +722,5 @@ These people have contributed to improve this list for everyone (in no particula
 [141]:https://twitter.com/0xjomo
 [142]:https://cryto.net/~joepie91
 [143]:https://github.com/The-Compiler
+[144]:https://twitter.com/Columbia19
+
