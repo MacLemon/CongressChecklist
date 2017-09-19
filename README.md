@@ -62,17 +62,19 @@ Stuff that you're not allowed to bring on a plane or otherwise need to send via 
 - Bleach
 - Peroxides
 - Samsung Galaxy Note 7
+- Self Balancing Scooters (Hoverboards)
+- (strong) rare-earths Magnets (really small and weak magnets, like the needle of a compass, are okay)
 
 
 ### Not allowed or often problematic on flights, or at least not in hand-lagguage
-- Knives, even some pocket knives
+- All kind of blades
+  - Knives, even small pocket knives
 - Lockpicking equipment
 - Handcuffs
 
 
 ### Items *only* allowed to be carried *on your body*, but *neither* in checked in luggage nor hand-lagguage.
-- Small lighters
-
+- Small lighters (one per person)
 
 ## Things to pack
 
@@ -85,6 +87,7 @@ This applies to the Congress Center as well as your hotel windows.
 ### Documents
 - Train/plane tickets (including verification documents for self-printed DB tickets. Check the List of accepted documents! [Was ist als Identifizierungskarte zugelassen?][41].)
 - Congress tickets (printed or digital. iOS passbook/wallet, PDF)
+  - have them ready before your line up at the cash desk!
 - Passport or other kind of photo ID (Personalausweis)
 - Driver's license (even an international one)
 - Hotel booking
@@ -100,7 +103,7 @@ When using ATMs/Cash Machines/Bankomaten/Geldautomaten give them a good wiggle b
 
 - Some cash (€uros, or other local currency)
 - Credit card
-- Maestro card (Bankomatkarte)
+- Maestro card (Bankomatkarte, EC-Karte)
 - Coins (€uros, for automated vending machines, like public transport tickets)
 - Bitcoin wallet (the encrypted fashion with a good passphrase) or one for your preferred kind of crypo-currency
 - Emergency numbers for your bank so you can lock your credit card/debit card/Bankomatkarte in case it gets lost/stolen/left behind.
@@ -122,7 +125,7 @@ Event and location related emergency information is in a seperate document for t
 
 
 #### Upcoming events:
-33 Chaos Communication Congress (2016-12-27 .. 2016-12-30), Hamburg, Germany, EU
+34 Chaos Communication Congress (2017-12-27 .. 2017-12-30), Leipzig, Germany, EU
 
 
 ### Personal hygiene
@@ -151,8 +154,8 @@ Event and location related emergency information is in a seperate document for t
 	- replacement glasses
 	- eye drops
 - Glasses
-- Spectacle case
-- Cleaning cloth
+	- Spectacle case
+	- Cleaning cloth
 - Oropax or other things to plug into your ears for a good “night”'s sleep.
 - Hair dryer (in case your place/hotel doesn't supply one)
 
@@ -200,8 +203,7 @@ Check the expiry date of the meds you bring.
 Your personal medication does not belong on the public interwebs for your privacy. This is just a reminder to pack it. Please do not include your personal medications in pull requests. :-)
 If you need refrigeration for your personal medication, that is possible at the [C3 CERT][38]on site.
 Pack some reserves of your medication. Better to have too much than not enough with you ;-)
-Some meds require papers to be allowed legally in some countries, don't forget those to spare yourself unnecessary hassle by authorities. (e.g. medical uses of marihuana)
-
+Some meds require papers to be allowed legally in some countries, don't forget those to spare yourself unnecessary hassle by authorities. In Germany these are all drugs listed in [Appendix III](44) to the [Betäubungsmittelgesetz](45) (e.g. ritalin, medical uses of marihuana). You need [this form](46), filled out and signed by your local doctor.
 
 ### Clothing
 Come as you are, as a friend
@@ -382,7 +384,7 @@ Check out the [USB-C cable matrix][36] on what a certain manufacturer's cable ac
 	- DECT phone (for the local wireless phone network avilable at many CCC events)
         - Be sure to register your extension number at [Eventphone][2] prior to the event.
         - Check if your DECT model is [compatible with Eventphone][31]
-- SIM cards (your usual one, local german SIM, CCC SIM)
+- SIM cards (your usual one,european SIM [no roaming fees inside EU], CCC SIM)
 - Apple certified SIM eject tool™ (aka bent paperclip) to swap SIM cards
 
 - Smart Watches
@@ -467,10 +469,9 @@ Check out the [USB-C cable matrix][36] on what a certain manufacturer's cable ac
 - A pillow (and sleeping bag/camping mat if you intend to sleep at the gym or in heaven)
 - Velcro straps to mount things to other things or people to things
 - Your favourite tea/coffee for [Coffeenerds](39)
+	- reusable coffee mug to get your coffee @[coffeenerds](39) as environment friendly as possible!
 - a thermo travelling mug for coffee-nerds, cocoa addicts, ...
 - All the stickers to trade and give away!
-
-
 
 ## If you travel with your dog
 Please check in advance if dogs are allowed at the event you want to attend. Guide dogs are usually exempt, even if dogs are not allowed.
@@ -578,7 +579,6 @@ If you need help with buying a SIM card, ask a local for assistance. They're fri
 Most events publish a lot of information about events as they happen. There are many ways to stay in the loop during the event or in between by subscribing to RSS feeds, Twitter accounts, mailing lists and even newsletters [sic].
 For a list of CCC related news sources you may be interested in following, see 'CCCongress Info Channels.md' in this repository.
 
-
 ## For when you return home
 - store chocolate/chips/crisps at home as an post-event depression antidote
 - Make notes during CCCongress to watch all the lectures you missed on site because you were attending an awesome workshop or were having interesting conversations with people.
@@ -677,6 +677,9 @@ These people have contributed to improve this list for everyone (in no particula
 [41]:https://www.bahn.de/hilfe/view/pk/de/ticketbuchung/identifizierungskarte.shtml "Deutsche Bahn: Was ist als Identifizierungskarte zugelassen?"
 [42]:http://travel.stackexchange.com/questions/55409/what-is-the-hotel-room-card-slot-inside-the-room-for
 [43]:https://github.com/Columbia19/Camping-Checklist "Columbia19's Campinbg-Checklist on Github!"
+[44]:https://www.gesetze-im-internet.de/btmg_1981/anlage_iii.html
+[45]:https://www.gesetze-im-internet.de/btmg_1981/
+[46]:https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel/Reisen/reise_scheng_formular.pdf?__blob=publicationFile&v=3
 
 [100]:https://twitter.com/Astarioth
 [101]:https://twitter.com/N4mes
