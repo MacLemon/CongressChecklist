@@ -1,5 +1,4 @@
 # CongressChecklist
-===================
 
 List of things to do, to pack and tips on attending a congress, conference or other event, especially Chaos Communication Congress.
 It's been handy for general travel as well.
