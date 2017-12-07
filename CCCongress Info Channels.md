@@ -23,7 +23,7 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 - @[C3DieLounge] Official C3 Lounge floor. (Ten Forward, anti (t)error lounge, savage sector, section 9)
 - @[C3Kidspace] C3 Kidspace at the Chaos Communication Congress
 - @[C3_LightningTLK] C3 Lighting talks organisation
-- @[Fahrplan Update] Fahrplan Update notification Bot
+- @[FahrplanUpdate] Fahrplan Update notification Bot
 - @[c3_power] C3 Power (electrical)
 - @[c3awareness] C3 Awareness Team
 - @[c3bar] Bar Operation Center - Department of Tschunk Quality Assurance
