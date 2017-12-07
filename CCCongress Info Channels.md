@@ -16,7 +16,7 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 
 - [CCC Live Streaming via C3VOC](https://streaming.media.ccc.de/)
 - [C3 Subtitles Team](https://c3subtitles.de/) Crowdsources subtiles and translations
-- [CongressEverywhere](https://events.ccc.de/congress/2016/wiki/Congress_Everywhere) Locations with public live-stream viewing
+- [CongressEverywhere](https://events.ccc.de/congress/2017/wiki/Congress_Everywhere) Locations with public live-stream viewing
 
 ## Twitter
 - @[C3DieLounge] Official C3 Lounge floor. (Ten Forward, anti (t)error lounge, savage sector, section 9)
