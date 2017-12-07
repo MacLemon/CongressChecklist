@@ -532,7 +532,7 @@ Make sure you do have set a BIOS or EFI Password to prevent booting from a live 
 
 
 ### Full disk encryption
-Activate full disk encryption with pre-boot authentication. (Mac: Activate FileVault, FreeBSD: GELI, Linux: Cryptsetup, Windows: Windows? S'SLY?)
+Activate full disk encryption with pre-boot authentication. (Mac: Activate FileVault, FreeBSD: GELI, Linux: Cryptsetup, Windows: ~~Windows? S'SLY?~~ VeraCrypt)
 
 Make sure your system does suspend to disk (SSD) and not to RAM, so you can't extract the passphrase from RAM via Firewire/Thunderbolt/ColdBoot attack.
 
