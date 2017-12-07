@@ -632,7 +632,7 @@ These people have contributed to improve this list for everyone (in no particula
 - [The Compiler][143]
 
 
-## Links
+<!-- ## 🔗 Links -->
 [1]:https://events.ccc.de/congress/2016/wiki/Static:How_To_Survive
 [2]:https://www.eventphone.de/
 [3]:https://events.ccc.de/congress/2013/wiki/Static:Anti-Harassment_Policy "Anti Harrassment Policy"
