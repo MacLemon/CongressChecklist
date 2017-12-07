@@ -10,7 +10,7 @@ If you're attenting a camping event, with the great outdoors, evil daystar and f
 ---
 
 
-## Humans
+## 👥 Humans
 General considerations to make the congress a worthwhile experience for everyone, humans, robots and aliens alike.
 You'll also find a list of all the nice humans who have contributed to this list at the bottom.
 
@@ -24,7 +24,7 @@ You'll also find a list of all the nice humans who have contributed to this list
 - Ask if it is ok to take a picture BEFORE taking the picture.
 
 
-## Things to do before traveling
+## ⏰ Things to do before traveling
 - Charge ALL the batteries!
 - Make backups.
 - Bonus points for even testing restore.
@@ -39,7 +39,7 @@ You'll also find a list of all the nice humans who have contributed to this list
 - (optional but recommended) Create account in the [congress wiki][12], [add your projects][13] and [find your assembly][14].
 
 
-## Things to send
+## 📦 Things to send
 Stuff that you're not allowed to bring on a plane or otherwise need to send via package courier or freight train. (Depending on its size.)
 
 
@@ -75,7 +75,7 @@ Stuff that you're not allowed to bring on a plane or otherwise need to send via 
 ### Items *only* allowed to be carried *on your body*, but *neither* in checked in luggage nor hand-lagguage.
 - Small lighters (one per person)
 
-## Things to pack
+## 🎒 Things to pack
 
 ### Decoration
 - Bring ridiculous amounts of LED strips and other photon emitting devices so we can illuminate ALL the things.
@@ -472,7 +472,7 @@ Check out the [USB-C cable matrix][36] on what a certain manufacturer's cable ac
 - a thermo travelling mug for coffee-nerds, cocoa addicts, ...
 - All the stickers to trade and give away!
 
-## If you travel with your dog
+## 🐶 If you travel with your dog
 Please check in advance if dogs are allowed at the event you want to attend. Guide dogs are usually exempt, even if dogs are not allowed.
 - Blanket
 - Food (wet & dry, Snacks)
@@ -485,7 +485,7 @@ Please check in advance if dogs are allowed at the event you want to attend. Gui
 - Paperwork, guide dog license (just in case someone gets annoyingly picky)
 
 
-## Camp
+## ⛺️ Camp
 - Tent
 - Sleeping bag & pillow
 - Air-matress
@@ -504,7 +504,7 @@ Please check in advance if dogs are allowed at the event you want to attend. Gui
 - Have a sense of how the trains are going from the station near by, enter Dammtor here: http://geofox.de/jsf/stationSchedule.seam direct connections to the airport, enter Dammtor at start and Airport
 
 
-## Securing your devices
+## 🔒 Securing your devices
 All security measures for devices on public Internet networks also apply here – threats might come from untrusted devices _within_, as well as from maleficent third parties _outside_ the Congress network. Of course you should have these measures in place everywhere and all the time since event networks are no more or no less dangerous than the internet in general.
 
 Read the [How to survive guide][1] in the Congress Wiki. There are many excellent tips in there or consult you local [CryptoParty][33] meetup, CCC ERFA or hackspace friends.
@@ -574,16 +574,16 @@ If you need help with buying a SIM card, ask a local for assistance. They're fri
 - [Blau.de][10]
 
 
-## Staying up-to-date
+## 📫 Staying up-to-date
 Most events publish a lot of information about events as they happen. There are many ways to stay in the loop during the event or in between by subscribing to RSS feeds, Twitter accounts, mailing lists and even newsletters [sic].
 For a list of CCC related news sources you may be interested in following, see 'CCCongress Info Channels.md' in this repository.
 
-## For when you return home
+## 🔙 For when you return home
 - store chocolate/chips/crisps at home as an post-event depression antidote
 - Make notes during CCCongress to watch all the lectures you missed on site because you were attending an awesome workshop or were having interesting conversations with people.
 
 
-## Thanks for being awesome
+## ❤️ Thanks for being awesome ✨
 These people have contributed to improve this list for everyone (in no particular order):
 
 - [@Astarioth][100]
