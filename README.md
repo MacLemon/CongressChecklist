@@ -7,6 +7,18 @@ This list is irregularly updated (and pushed). You may want to refresh regularly
 
 If you're attenting a camping event, with the great outdoors, evil daystar and foliage, you'll also want to check out [@Columbia19][144]'s [Camping-Checklist][43] in addition!
 
+## Content
+- [👥 Humans](#-humans)
+- [⏰ Things to do before traveling](#-things-to-do-before-traveling)
+- [📦 Things to send](#-things-to-send)
+- [🎒 Things to pack](#-things-to-pack)
+- [🐶 If you travel with your dog](#-if-you-travel-with-your-dog)
+- [⛺️ Camp](#%EF%B8%8F-camp)
+- [🔒 Securing your devices](#-securing-your-devices)
+- [📫 Staying up-to-date](#-staying-up-to-date)
+- [🔙 For when you return home](#-for-when-you-return-home)
+- [❤️ Thanks for being awesome ✨](#%EF%B8%8F-thanks-for-being-awesome-)
+
 ---
 
 
