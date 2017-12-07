@@ -40,7 +40,7 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 - @[c3lock] C3 Lockpicking Area
 - @[c3logistic] C3 Logistics
 - @[c3lounge] Lounge Operations and Line Up
-- @[c3mov] C3 Mobile Operations Center (CCC GSM)
+- @[c3moc] C3 Mobile Operations Center (CCC GSM)
 - @[c3nav] C3 Indoor Navigation for Chaos Events
 - @[c3noc] Network operation center
 - @[c3queue] C3 Merchandise Queue
@@ -48,7 +48,7 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 - @[c3seidenstrasse] C3 pneumatic tube transport system
 - @[c3sheep] C3 Sheep
 - @[c3soc] C3 Seidenstrasse Operations Center
-- @[c3speati] C3 Spaeti (Late night corner store)
+- @[c3spaeti] C3 Spaeti (Late night corner store)
 - @[c3srt_releases] C3 Subtitle Releases (Bot)
 - @[c3streaming] Joint Venture to deliver videostream
 - @[c3subtitles] Making C3 events more barrier-free by providing subtitles and translations
@@ -94,7 +94,7 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 [c3lock]:https://twitter.com/c3lock "C3 Lockpicking Area"
 [c3logistic]:https://twitter.com/c3logistic "C3 logistics"
 [c3lounge]:https://twitter.com/c3lounge "Lounge Operations and Line Up"
-[c3moc]:https://twitter.com/c3mov "C3 GSM Mobile phone Operations Center"
+[c3moc]:https://twitter.com/c3moc "C3 GSM Mobile phone Operations Center"
 [c3nav]:https://twitter.com/c3nav "C3 Indoor Navigation for Chaos Events"
 [c3noc]:https://twitter.com/c3noc "C3 network operation center"
 [c3queue]:https://twitter.com/c3queue "C3 Merchandise Queue"
