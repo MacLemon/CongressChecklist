@@ -68,14 +68,15 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 [Streaming]:https://streaming.media.ccc.de/ "C3VOC Streaming - LIVE!"
 
 ### Contact
-[Email Contact](https://events.ccc.de/congress/2016/wiki/Static:Contact)
+You can contact some of the organizing teams via email. Please note that this makes mostly sense before and after the
+event, not during. Contact addresses are listed in the [event wiki](https://events.ccc.de/congress/2016/wiki/Static:Contact).
 
 [C3DieLounge]:https://twitter.com/c3dielounge "Official C3 Lounge Floor"
 [C3_LightningTLK]:https://twitter.com/c3_lightningtlk "C3 lightning talks organisation"
 [FahrplanUpdate]:https://twitter.com/FahrplanUpdate "C3 Fahrplan Update notification bot"
 [MacLemon]:https://twitter.com/MacLemon "MacLemon"
 [c3_power]:https://twitter.com/c3_power "Power supply for events and installations"
-[c3awareness]:https://twiter.com/c3wareness "C3 Awareness Team"
+[c3awareness]:https://twitter.com/c3awareness "C3 Awareness Team"
 [c3bar]:https://twitter.com/c3bar "Bar Operation Center - Department of Tschunk Quality Assurance"
 [c3bass]:https://twitter.com/c3bass "C3 Low Frequency Longitudinal Wave Operations Center"
 [c3bottles]:https://twitter.com/c3bottles "Collect ALL the bottles"
