@@ -421,11 +421,18 @@ Check out the [USB-C cable matrix][36] on what a certain manufacturer's cable ac
 
 #### Talk gear
 - Monitor adapters (VGA, DVI, HDMI, mini Displayport/Displayport, USB-C; especially for the Mac users and those with other fancy slim laptops. ;-) ), you may need them for your presentation or lightning talk.
-- Remote control for your presentation / lightning talk (also check the batteries in the remote), dont' forget the USB dongle if your remote requires one
-- Infrared, Bluetooth or radio remote (for presentations) and also check their batteries
+- Remote control (infrared/bluetooth/radio) for your presentation / lightning talk
+	- Check the batteries
+	- Take the USB dongle, if the remote has one
 
 #### Podcast Gear
-- Headset or microphone & headphones, your laptop and/or a recording device (incl. charging cable or extra batteries - you really did charge them all, right?), connector cables.
+- Headset or microphone & headphones
+- Laptop
+- A recording device
+	- Charger
+	- Extra batteries (and check you charged them)
+	- Connector cables
+
 
 #### CCC originated Hardware
 - [r0cket][4], fully charged (needs a micro USB cable for charging/programming)
