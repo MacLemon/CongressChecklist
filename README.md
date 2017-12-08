@@ -127,16 +127,13 @@ When using ATMs/Cash Machines/Bankomaten/Geldautomaten give them a good wiggle b
 - An app to show local public transport times. Not all cities are available in Google/Apple/You-name-it Maps applications.
 
 
-#### Emergency Information for Events:
+### Emergency Information for Events
 If you're in an emergency shout *HELP!*
 
 If you need help, just call for help, there are many, many friendly people around to help you.
 
 Event and location related emergency information is in a seperate document for the corresponding event in this repository! You may want to copy that info to a notes application on your smartphone or have a printed card in your wallet.
 
-
-#### Upcoming events:
-34 Chaos Communication Congress (2017-12-27 .. 2017-12-30), Leipzig, Germany, EU
 
 
 ### Personal hygiene

@@ -1,7 +1,6 @@
-Emergency Information for [34c3][0]:
+# Emergency Information for [34c3][0]:
 
-
-## english
+## English
 
 If you're in an emergency shout HELP!
 
@@ -17,7 +16,7 @@ If you need help, just call for help, there are many, many friendly people aroun
 * Leipzig ambulance: +49 341 550044000 (BETTER USE 112 ON YOUR non-34c3 PHONE)
 * [Chaos Emergency Response Team](https://cert.ccc.de/)
 
-## deutsch
+## Deutsch
 
 Wenn du dich in einer Notlage befindest schrei HILFE!
 
