@@ -282,6 +282,7 @@ For travelling abroad there is a handy [World Electrical Plug & Socket Map][40]
 	- Put an OWNER.txt file on them with information on how to contact you in case one gets lost accidentally. (Twitter, phone (for example DECT, 33C3 GSM extensions), email, name of the assembly you're well known at, owl, raven)
 	- For devices with private information be sure to encrypt them! (VeraCrypt, GPG, FileVault, EncFS, Bitlocker, gbde, geli, dm-crypt, LUKS, eCryptFS)
         - Make a GPT Label or Volume label with your online nickname or handle because people can't read your owner.txt file on encrypted devices. You may also create multiple partitions (plaintext and encrypted ones).
+	- If physically possible, add an actual label (just write on it/add a tag) with your nick on it – many people will be rightfully hesitant to plug in a found USB stick.
 	- make note of the filesystem used so you know if they will work on the system of the person you want to exchange data with. (FAT32 is a safe bet to work everywhere, for larger files ExFAT should also work on most platforms.)
 	- Mac: NTFS can be read, but not written to without 3rd party software. FAT, ExFAT, HFS+(J), HFSX are fine for current OS X versions, ZFS, Ext2/Ext3/Ext4 and NTFS r/w support need 3rd party software. APFS support is experimental in macOS 10.12 Sierra and available from the command line only.
 	- USB/Thunderbolt/USB-C to Ethernet RJ45 adapter, if your device needs one (for example thin notebooks)
