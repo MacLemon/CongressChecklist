@@ -29,7 +29,7 @@ You'll also find a list of all the nice humans who have contributed to this list
 
 ### Manners
 - Be excellent to each other.
-- If you spot somebody not being excellent to someone else, remind them to be excellent and have them apologi(s|z)e to the insulted part(y|ies), but only if the insulted wish to be apologi(s|z)ed to. Sometimes the insulted party will just want to move on and not have any further contact with someone who was coarse to them.
+- If you spot somebody not being excellent to someone else, remind them to be excellent and ask them to apologi(s|z)e to the insulted part(y|ies), but only if the insulted wish to receive an apology. Sometimes the insulted party will just want to move on and not have any further contact with someone who was coarse to them.
 - If you don't want to be called $swearword, don't behave like one.
 - Help each other out.
 - Read the “[Anti Harrassment Policy][3]” and live by it. :-)
@@ -44,7 +44,7 @@ You'll also find a list of all the nice humans who have contributed to this list
 - You might want to empty your drives to make room for some COMPLETELY LEGAL media files that might be shared.
 - Put your name on your stuff, especially on things you’ll likely lend to someone (power strips, cables etc). Twitter handles make excellent name tags because people know how to contact you right away. Prefer permanent markers over stickers, for theft reasons.
 - You DID make backups of all your devices, didn't you? That includes portable computers, servers, mobile phones, tablets, navigation devices, wrist watches and all your other $gadgets.
-- Store the backups not only on the device your backing up or another device you’re taking with you. A swiss bank locker is good, if you have one.
+- Store the backups not only on the device you're backing up or another device you’re taking with you. A swiss bank locker is good, if you have one.
 - Send a pull request to this list for all the things I did not think of.
 - Feed the guinea pigs.
 - Water your plants.
@@ -62,7 +62,7 @@ Stuff that you're not allowed to bring on a plane or otherwise need to send via 
 - Lighter benzine
 - Lighter gas (Butane)
 - Matches
-- Lighters (*only* allowed in hand luggage)
+- Lighters (*only* allowed on your person)
 - Butane cartridges
 - Propane cartridges
 - Radioactive medication
@@ -96,7 +96,7 @@ This applies to the Congress Center as well as your hotel windows.
 
 
 ### Documents
-- Train/plane tickets (including verification documents for self-printed DB tickets. Check the List of accepted documents! [Was ist als Identifizierungskarte zugelassen?][41].)
+- Train/plane tickets (including verification documents for self-printed DB tickets. Check the List of accepted documents! [Was ist als Identifizierungskarte zugelassen?][41])
 - Congress tickets (printed or digital. iOS passbook/wallet, PDF)
   - have them ready before your line up at the cash desk!
 - Passport or other kind of photo ID (Personalausweis)
@@ -104,9 +104,9 @@ This applies to the Congress Center as well as your hotel windows.
 - Hotel booking
 - Ham radio license (CEPT license)
 - [Hackerspace passport][5]
-- An [organ donor card][21] (We really hope you won't need them, but just in the case: you might save a life!)
-- Your health insurance card
-- Your vaccination documents or history (Impfpass)
+- An [organ donor card][21] (We really hope you won't need it, but just in the case: you might save a life!)
+- Health insurance card
+- Vaccination documents or history (Impfpass)
 
 
 ### Payment stuff
@@ -118,7 +118,7 @@ When using ATMs/Cash Machines/Bankomaten/Geldautomaten give them a good wiggle b
 - Coins (€uros, for automated vending machines, like public transport tickets)
 - Bitcoin wallet (the encrypted fashion with a good passphrase) or one for your preferred kind of crypo-currency
 - Emergency numbers for your bank so you can lock your credit card/debit card/Bankomatkarte in case it gets lost/stolen/left behind.
-    - German cards can be locked via the [lockinghotline][34] 116 116 (or +49 - 30 4050 4050)
+    - German cards can be locked via the [locking hotline][34] 116 116 (or +49 - 30 4050 4050)
     - For your Bankomat Karte (EC debit card) check if the “Geo Control” of your bank allows withdrawing in your destination country.
 
 
@@ -214,7 +214,7 @@ Pack some reserves of your medication. Better to have too much than not enough w
 Some meds require papers to be allowed legally in some countries, don't forget those to spare yourself unnecessary hassle by authorities. In Germany these are all drugs listed in [Appendix III](44) to the [Betäubungsmittelgesetz](45) (e.g. ritalin, medical uses of marihuana). You need [this form](46), filled out and signed by your local doctor.
 
 ### Clothing
-Come as you are, as a friend
+Come as you are, as a friend.
 
 - At least ONE clean shirt for each day you stay, plus two for traveling to and from congress (nerdy print is always welcome)
 - At least ONE set of clean underwear for each day you stay, plus two for traveling to and from congress (Doesn't necessarily need to be in matching pairs, but that is up to you.)
@@ -370,7 +370,7 @@ Check out the [USB-C cable matrix][36] on what a certain manufacturer's cable ac
 - SFP, SFP+ module (copper or fibre)
 - 1-100Gigabit Ethernet Switch
 - Splicing equipment
-- Ethernet cords (Cat5e) of multiple lengths (Maybe have a spare to tether a friend)
+- Ethernet cords (Cat5e) of multiple lengths (bring a spare to tether a friend)
 
 
 ##### Audio
@@ -441,7 +441,7 @@ Check out the [USB-C cable matrix][36] on what a certain manufacturer's cable ac
 - LED throwies
 - Tesla coils
 - Chocolate Fountain
-- Headphones (Closed type) (so you don't have to talk to other carbon units while traveling)
+- Headphones (Closed type) (so you don't have to talk/listen to other carbon units while traveling)
 - replacement plush cushions for headphones
 - Neck cushion (for long journeys)
 - All your devices!!1 ((Raspberry|Orange|Banana) Pi, Arduino, FreedomBox, DreamPlug, …)
@@ -571,9 +571,9 @@ It is not recommended to connect your smartphone to the congress wifi, if you st
 - Use a Firewall and only allow the (few) services you trust.
 	- [DroidWall][22] for Android (root required)
 - If you don't have a VPN tunnel available, you can use [OnionBrowser][7] (iOS) or [Orbot][orbot] (Android) to surf via tor (which may be it's own kind of risk).
-- Set your GSM network selection to **manual** or you might end up connected to a rogue GSM network by somebody.
+- Set your GSM network selection to **manual** or you might end up connected to a rogue GSM network.
 
-**If you are unsure** that there might still be some services running and transmitting plaintext data, **do not connect**.
+**If you are unsure** if there are still some services transmitting plaintext data, **do not connect**.
 
 
 ### PrePaid SIM Cards
