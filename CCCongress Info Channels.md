@@ -20,7 +20,6 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 - [CongressEverywhere](https://events.ccc.de/congress/2017/wiki/Congress_Everywhere) Locations with public live-stream viewing
 
 ## Twitter
-- @[32c3_dieLounge] 32c3 Lounge
 - @[C3DieLounge] Official C3 Lounge floor. (Ten Forward, anti (t)error lounge, savage sector, section 9)
 - @[C3Kidspace] C3 Kidspace at the Chaos Communication Congress
 - @[C3_LightningTLK] C3 Lighting talks organisation
@@ -42,7 +41,6 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 - @[c3lock] C3 Lockpicking Area
 - @[c3logistic] C3 Logistics
 - @[c3lounge] Lounge Operations and Line Up
-- @[c3moc] C3 Mobile Operations Center (CCC GSM)
 - @[c3nav] C3 Indoor Navigation for Chaos Events
 - @[c3noc] Network operation center
 - @[c3queue] C3 Merchandise Queue
@@ -74,7 +72,6 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 ### Contact
 [Email Contact](https://events.ccc.de/congress/2016/wiki/Static:Contact)
 
-[32c3_dieLounge]:https://twitter.com/@32c3_dieLounge "32c3 Lounge"
 [C3DieLounge]:https://twitter.com/c3dielounge "Official C3 Lounge Floor"
 [C3Kidspace]:https://twitter.com/C3Kidspace "Kidspace at the Chaos Communication Congress"
 [C3_LightningTLK]:https://twitter.com/c3_lightningtlk "C3 lightning talks organisation"
@@ -97,7 +94,6 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 [c3lock]:https://twitter.com/c3lock "C3 Lockpicking Area"
 [c3logistic]:https://twitter.com/c3logistic "C3 logistics"
 [c3lounge]:https://twitter.com/c3lounge "Lounge Operations and Line Up"
-[c3moc]:https://twitter.com/c3moc "C3 GSM Mobile phone Operations Center"
 [c3nav]:https://twitter.com/c3nav "C3 Indoor Navigation for Chaos Events"
 [c3noc]:https://twitter.com/c3noc "C3 network operation center"
 [c3queue]:https://twitter.com/c3queue "C3 Merchandise Queue"
