@@ -596,8 +596,10 @@ Most events publish a lot of information about events as they happen. There are 
 For a list of CCC related news sources you may be interested in following, see 'CCCongress Info Channels.md' in this repository.
 
 ## 🔙 For when you return home
-- store chocolate/chips/crisps at home as an post-event depression antidote
+- Store chocolate/chips/crisps at home as an post-event depression antidote
 - Make notes during CCCongress to watch all the lectures you missed on site because you were attending an awesome workshop or were having interesting conversations with people.
+- Contact the cool people you met at the event
+- Look for related local events and communities
 
 
 ## ❤️ Thanks for being awesome ✨
@@ -647,6 +649,7 @@ These people have contributed to improve this list for everyone (in no particula
 - [jomo][141]
 - [joepie91][142]
 - [The Compiler][143]
+- [rixx][145]
 
 
 <!-- ## 🔗 Links -->
@@ -742,3 +745,4 @@ These people have contributed to improve this list for everyone (in no particula
 [142]:https://cryto.net/~joepie91
 [143]:https://github.com/The-Compiler
 [144]:https://twitter.com/Columbia19
+[145]:https://github.com/rixx
