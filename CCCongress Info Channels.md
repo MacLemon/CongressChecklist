@@ -21,7 +21,6 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 
 ## Twitter
 - @[C3DieLounge] Official C3 Lounge floor. (Ten Forward, anti (t)error lounge, savage sector, section 9)
-- @[C3Kidspace] C3 Kidspace at the Chaos Communication Congress
 - @[C3_LightningTLK] C3 Lighting talks organisation
 - @[FahrplanUpdate] Fahrplan Update notification Bot
 - @[c3_power] C3 Power (electrical)
@@ -60,7 +59,6 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 - @[chaospatinnen] Mentoring Operation Center
 - @[chaosupdates] CCC related news
 - @[congress_ios] Congress App for iOS devices
-- @[engelsystem] Engelsystem - Angelsystem
 - @[engelsystem] Engelsystem information system for chaos events
 - @[eventphone] DECT wireless phone network operations
 - @[infobeamer] The digital signage solution used by many Chaos events.
@@ -73,7 +71,6 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 [Email Contact](https://events.ccc.de/congress/2016/wiki/Static:Contact)
 
 [C3DieLounge]:https://twitter.com/c3dielounge "Official C3 Lounge Floor"
-[C3Kidspace]:https://twitter.com/C3Kidspace "Kidspace at the Chaos Communication Congress"
 [C3_LightningTLK]:https://twitter.com/c3_lightningtlk "C3 lightning talks organisation"
 [FahrplanUpdate]:https://twitter.com/FahrplanUpdate "C3 Fahrplan Update notification bot"
 [MacLemon]:https://twitter.com/MacLemon "MacLemon"
@@ -114,7 +111,6 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 [chaosupdates]:https://twitter.com/chaosupdates "CCC related news"
 [congress_ios]:https://twitter.com/congress_ios "Congress App for iOS devices"
 [engelsystem]:https://twitter.com/engelsystem "Engelsystem information system for chaos events"
-[engelsystem]:https://twitter.com/engelsystm "Engelsystem/Angelsystem"
 [eventphone]:https://twitter.com/eventphone "DECT wireless phone network operations"
 [infobeamer]:https://twitter.com/infobeamer "The digital signage solution used by many Chaos events."
 [rad1obadge]:https://twitter.com/rad1obadge "Rad1o Badge (SDR)"
