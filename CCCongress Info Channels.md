@@ -3,12 +3,13 @@ This document collects all the outlets you might be interested in when following
 Did I miss something? Please send a pull request or ping @[MacLemon] to add it for you. Thanks!
 
 ## Websites
-Some even provide [RSS] feeds you can subscribe to.
 
 
 ### Organisation
-- [CCC Event Weblog](https://events.ccc.de/) ([RSS](https://events.ccc.de/feed/))
-- [Chaos Emergency Response Team](https://cert.ccc.de/)
+- [CCC Event Weblog](https://events.ccc.de/) ([RSS](https://events.ccc.de/feed/)): provides current information on all
+  organizational issues and announcements, worth following for every attendee.
+- [Chaos Emergency Response Team](https://cert.ccc.de/): The CERT team wiki, lists members and explains operating
+  procedures.
 
 
 ### Videos
@@ -57,9 +58,9 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 - @[c3vermittlung] C3 Field phone service
 - @[c3voc] Video operation center (Recordings and live streaming)
 - @[c3voc_releases] Bot that posts releases of fresh recordings in many formats
-- @[ccc] Official Twitter Account of CCC events
+- @[ccc] The CCC events blog
 - @[chaospatinnen] Mentoring Operation Center
-- @[chaosupdates] CCC Updates
+- @[chaosupdates] CCC related news
 - @[congress_ios] Congress App for iOS devices
 - @[engelsystem] Engelsystem - Angelsystem
 - @[engelsystem] Engelsystem information system for chaos events
@@ -112,9 +113,9 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 [c3vermittlung]:https://twitter.com/c3vermittlung "C3 field phone service"
 [c3voc]:https://twitter.com/c3voc "C3 video operation center"
 [c3voc_releases]:https://twitter.com/c3voc_releases "C3 video operation center - New releases Bot"
-[ccc]:https://twitter.com/ccc "Official Twitter Account of CCC events"
+[ccc]:https://twitter.com/ccc "The CCC events blog"
 [chaospatinnen]:https://twitter.com/chaospatinnen "Mentoring Operation Center"
-[chaosupdates]:https://twitter.com/chaosupdates "CCC Updates"
+[chaosupdates]:https://twitter.com/chaosupdates "CCC related news"
 [congress_ios]:https://twitter.com/congress_ios "Congress App for iOS devices"
 [engelsystem]:https://twitter.com/engelsystem "Engelsystem information system for chaos events"
 [engelsystem]:https://twitter.com/engelsystm "Engelsystem/Angelsystem"
