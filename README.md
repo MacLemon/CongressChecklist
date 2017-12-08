@@ -130,7 +130,7 @@ When using ATMs/Cash Machines/Bankomaten/Geldautomaten give them a good wiggle b
 ### Emergency Information for Events
 If you're in an emergency shout *HELP!*
 
-If you need help, just call for help, there are many, many friendly people around to help you.
+If you need help, call for help, there are many, many friendly people around to help you.
 
 Event and location related emergency information is in a seperate document for the corresponding event in this repository! You may want to copy that info to a notes application on your smartphone or have a printed card in your wallet.
 

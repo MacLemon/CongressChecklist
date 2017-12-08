@@ -4,7 +4,7 @@
 
 If you're in an emergency shout HELP!
 
-If you need help, just call for help, there are many, many friendly people around to help you.
+If you need help, call for help, there are many, many friendly people around to help you.
 
 * 34c3 Medical Emergency or in case of fire: Call local DECT 112 (CERT)
 * 34c3 Security: Call local DECT 110
