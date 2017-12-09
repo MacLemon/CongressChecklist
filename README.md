@@ -21,6 +21,9 @@ If you're attenting a camping event, with the great outdoors, evil daystar and f
 
 ---
 
+## Upcoming events:
+34th Chaos Communication Congress (2017-12-27 .. 2017-12-30), Leipzig, Germany, EU
+
 
 ## 👥 Humans
 General considerations to make the congress a worthwhile experience for everyone, humans, robots and aliens alike.
@@ -34,6 +37,13 @@ You'll also find a list of all the nice humans who have contributed to this list
 - Help each other out.
 - Read the “[Anti Harrassment Policy][3]” and live by it. :-)
 - Ask if it is ok to take a picture BEFORE taking the picture.
+
+### Emergency Information for Events:
+If you're in an emergency shout *HELP!*
+
+If you need help, just call for help, there are many, many friendly people around to help you.
+
+Event and location related emergency information is in a seperate document for the corresponding event in this repository! You may want to copy that info to a notes application on your smartphone or have a printed card in your wallet.
 
 
 ## ⏰ Things to do before traveling
@@ -119,18 +129,6 @@ When using ATMs/Cash Machines/Bankomaten/Geldautomaten give them a good wiggle b
 ### Mobility
 - An app to show local public transport times. Not all cities are available in Google/Apple/You-name-it Maps applications.
 - Cards, PINs, Apps (and required account data) for Car- and bicycle sharing
-
-
-#### Emergency Information for Events:
-If you're in an emergency shout *HELP!*
-
-If you need help, just call for help, there are many, many friendly people around to help you.
-
-Event and location related emergency information is in a seperate document for the corresponding event in this repository! You may want to copy that info to a notes application on your smartphone or have a printed card in your wallet.
-
-
-#### Upcoming events:
-34th Chaos Communication Congress (2017-12-27 .. 2017-12-30), Leipzig, Germany, EU
 
 
 ### Personal hygiene
