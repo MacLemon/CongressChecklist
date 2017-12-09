@@ -56,23 +56,22 @@ Stuff that you're not allowed to bring on a plane or otherwise need to send via 
 
 
 ### Items that are explicitly forbidden to bring on a plane
+- Lighters (*only* allowed in hand luggage)
+- Matches
+- Lighter benzine
+- Lighter gas (Butane)
+- Butane cartridges
+- Propane cartridges
 - Ammunition
 - Fireworks
 - Explosives
-- Lighter benzine
-- Lighter gas (Butane)
-- Matches
-- Lighters (*only* allowed in hand luggage)
-- Butane cartridges
-- Propane cartridges
 - Radioactive medication
-- Toxics
-- Lead acid batteries
-- Mercury (Quecksilber)
 - Acids
+- Lead acid batteries
+- Toxics
+- Mercury (Quecksilber)
 - Bleach
 - Peroxides
-- Samsung Galaxy Note 7
 - Self Balancing Scooters (Hoverboards)
 - (strong) rare-earths Magnets (really small and weak magnets, like the needle of a compass, are okay)
 
@@ -82,10 +81,6 @@ Stuff that you're not allowed to bring on a plane or otherwise need to send via 
   - Knives, even small pocket knives
 - Lockpicking equipment
 - Handcuffs
-
-
-### Items *only* allowed to be carried *on your body*, but *neither* in checked in luggage nor hand-lagguage.
-- Small lighters (one per person)
 
 ## 🎒 Things to pack
 
@@ -98,33 +93,32 @@ This applies to the Congress Center as well as your hotel windows.
 ### Documents
 - Train/plane tickets (including verification documents for self-printed DB tickets. Check the List of accepted documents! [Was ist als Identifizierungskarte zugelassen?][41].)
 - Congress tickets (printed or digital. iOS passbook/wallet, PDF)
-  - have them ready before your line up at the cash desk!
+  - have them ready before your line up at the cash desk! (Turn up your screen brightness.)
 - Passport or other kind of photo ID (Personalausweis)
 - Driver's license (even an international one)
 - Hotel booking
-- Ham radio license (CEPT license)
-- [Hackerspace passport][5]
-- An [organ donor card][21] (We really hope you won't need them, but just in the case: you might save a life!)
 - Your health insurance card
 - Your vaccination documents or history (Impfpass)
+- An [organ donor card][21] (We really hope you won't need them, but just in the case: you might save a life!)
+- Ham radio license (CEPT license)
+- [Hackerspace passport][5]
 
 
 ### Payment stuff
 When using ATMs/Cash Machines/Bankomaten/Geldautomaten give them a good wiggle before inserting your card. During 32C3 a Skimmer device had been found at an ATM at Bahnhof Dammtor. This is just a reminder, you should do that every time you use your card.
 
 - Some cash (€uros, or other local currency)
-- Credit card
-- Maestro card (Bankomatkarte, EC-Karte)
-- Coins (€uros, for automated vending machines, like public transport tickets)
-- Bitcoin wallet (the encrypted fashion with a good passphrase) or one for your preferred kind of crypo-currency
+	- Including coins (€uros, for automated vending machines, like public transport tickets)
+- Credit and/or Maestro card (Bankomatkarte, EC-Karte)
 - Emergency numbers for your bank so you can lock your credit card/debit card/Bankomatkarte in case it gets lost/stolen/left behind.
     - German cards can be locked via the [lockinghotline][34] 116 116 (or +49 - 30 4050 4050)
     - For your Bankomat Karte (EC debit card) check if the “Geo Control” of your bank allows withdrawing in your destination country.
+- Bitcoin wallet (the encrypted fashion with a good passphrase) or one for your preferred kind of crypo-currency
 
 
 ### Mobility
-- Cards, PINs, Apps (and required account data) for Car- and bicycle sharing
 - An app to show local public transport times. Not all cities are available in Google/Apple/You-name-it Maps applications.
+- Cards, PINs, Apps (and required account data) for Car- and bicycle sharing
 
 
 #### Emergency Information for Events:
@@ -136,28 +130,29 @@ Event and location related emergency information is in a seperate document for t
 
 
 #### Upcoming events:
-34 Chaos Communication Congress (2017-12-27 .. 2017-12-30), Leipzig, Germany, EU
+34th Chaos Communication Congress (2017-12-27 .. 2017-12-30), Leipzig, Germany, EU
 
 
 ### Personal hygiene
 - Tooth brush (plus charger if it is an electrical one)
 - Toothpaste
 - Dental floss
+- Towel. Never hitchhike the Galaxy without one.
 - Shower gel
-- Flip Flops for shared showers
 - Shampoo (to avoid bad hair days)
 - Conditioner
+- Hairbrush/comb (to avoid bad hair days)
+- Hair-band (Zopfringerl) to tame your mane
+- Hair dryer (in case your place/hotel doesn't supply one)
+- Flip Flops for shared showers
 - Tampons
+- Soap
+- Deodorant, antiperspirant
 - Sanitary towels
 - Condoms, dental dams and other protective gear (Make sure the condoms are not beyond their usage date! (Yes, it really happens…))
 - Lubricant (silicone or water based, to be compatible with condoms)
 - Disinfectants
-- Soap
-- Deodorant, antiperspirant
-- Hairbrush/comb (to avoid bad hair days)
-- Hair-band (Zopfringerl) to tame your mane
 - Handkerchiefs
-- Towel. Never hitchhike the Galaxy without one.
 - Contact lenses
 	- cleaning fluid
 	- contact lens container (make sure it fits flight regulations for fluids if you travel by plane.)
@@ -168,11 +163,12 @@ Event and location related emergency information is in a seperate document for t
 	- Spectacle case
 	- Cleaning cloth
 - Oropax or other things to plug into your ears for a good “night”'s sleep.
-- Hair dryer (in case your place/hotel doesn't supply one)
+
 
 
 ### Cosmetics
 - Make up
+- Make up remover pads
 - Nail polish, also handy to secure screws on your laptop and have a tamper indicator, especially when using one with glitter.
 - Nail polish remover
 - Nail scissors
@@ -184,16 +180,11 @@ Event and location related emergency information is in a seperate document for t
 - Lipbalm
 - Tweezers
 - Cotton swabs (Wattestäbchen)
-- Make up remover pads
 - Skin care
 
 
 ### Medication
 Check the expiry date of the meds you bring.
-
-
-#### Personal Hygiene ####
-- Hand desinfectant, yet always wash your hands
 
 
 #### Generic medication
@@ -203,11 +194,12 @@ Check the expiry date of the meds you bring.
 - Parkemed (DE/AT), Ponstel (USA/UK) (analgetic)
 - Clarityn (or other histamine blocker if you're allergic to something)
 - Neocitran/Theraflu/Paracetamol (just in case hacker pest strikes)
-- Contraceptives, prophylactic (contraceptive pill, condoms, etc.)
-- Caffeine pills (In case you don't like Mate and nobody knows if you can actually drink the “coffee” served at the venue.)
 - Something for your stomach (if you've got a nervous digestive system when under stress, while flying or generally traveling)
-- Camomile tea relives hyperacidity very well
 - Bepanthen
+- Caffeine pills (In case you don't like Mate and nobody knows if you can actually drink the “coffee” served at the venue.)
+- Camomile tea relives hyperacidity very well
+- Contraceptives, prophylactic (contraceptive pill, condoms, etc.)
+
 
 
 #### Personal medication
@@ -216,6 +208,7 @@ If you need refrigeration for your personal medication, that is possible at the 
 Pack some reserves of your medication. Better to have too much than not enough with you ;-)
 Some meds require papers to be allowed legally in some countries, don't forget those to spare yourself unnecessary hassle by authorities. In Germany these are all drugs listed in [Appendix III](44) to the [Betäubungsmittelgesetz](45) (e.g. ritalin, medical uses of marihuana). You need [this form](46), filled out and signed by your local doctor.
 
+
 ### Clothing
 Come as you are, as a friend
 
@@ -223,19 +216,18 @@ Come as you are, as a friend
 - At least ONE set of clean underwear for each day you stay, plus two for traveling to and from congress (Doesn't necessarily need to be in matching pairs, but that is up to you.)
 - At least ONE pair of clean socks/stockings/tights/overknees for each day you stay, plus two for traveling to and from congress (again, matching pairs optional)
 - Enough pants/skirts/trousers/dresses/etc. so you can wear clean clothes every day you attend congress (even if somebody accidentally (or intentionally) spills a beverage all over you!)
-- Sewing set (needle, thread, spare button for your trousers/skirts/shirts/blouses/etc.)
 - Long sleeve shirts
 - Hoodies, pullovers, zippers, vests (it's cold outside!)
 - Jacket, coat (wind proof, at least somewhat water resistant)
 - Comfortable shoes (You'll cover a lot of distance-units during your stay)
 - Cap, wool cap
-- Umbrella
+- Scarf
 - Kilt
-- Bag to separate laundry from clean clothes in your luggage
 - Gloves
 - Fancy shoes
-- Your favorite chainmail body armor
-- Scarf
+- Sewing set (needle, thread, spare button for your trousers/skirts/shirts/blouses/etc.)
+- Bag to separate laundry from clean clothes in your luggage
+- Umbrella
 - Swim suit, bikini, trunks (in case your hotel has a pool or you like diving in a ball pit)
 - Evening gown
 - Cosplay is welcome
@@ -436,16 +428,18 @@ Check out the [USB-C cable matrix][36] on what a certain manufacturer's cable ac
 
 
 #### Other
+- Torch or Headlamp (Have spare batteries or rechargeables and a matching charger that works with 230V≈ @50Hz)
+- Headphones (Closed type) (so you don't have to talk to other carbon units while traveling)
+    - replacement plush cushions for headphones
+
+
 - Cat5 o'nine tails
 - [Throwing star LAN Tap][25]
 - [Pineappleboard][24]
-- Torch (Have spare batteries or rechargeables and a matching charger that works with 230V≈ @50Hz)
-- Headlamp
 - LED throwies
 - Tesla coils
 - Chocolate Fountain
-- Headphones (Closed type) (so you don't have to talk to other carbon units while traveling)
-- replacement plush cushions for headphones
+
 - Neck cushion (for long journeys)
 - All your devices!!1 ((Raspberry|Orange|Banana) Pi, Arduino, FreedomBox, DreamPlug, …)
 	- + cables + SD-cards (+ GPIO equipment)
@@ -476,8 +470,6 @@ Check out the [USB-C cable matrix][36] on what a certain manufacturer's cable ac
 - Duct tape or gaffer tape (vital)
 - Knitting/sewing needles and yarn (for guerrilla knitting/yarn bombing)
 - More cable ties, maybe in a different colour
-- A blanket
-- A pillow (and sleeping bag/camping mat if you intend to sleep at the gym or in heaven)
 - Velcro straps to mount things to other things or people to things
 - Your favourite tea/coffee for [Coffeenerds](39)
 	- reusable coffee mug to get your coffee @[coffeenerds](39) as environment friendly as possible!
@@ -498,15 +490,20 @@ Please check in advance if dogs are allowed at the event you want to attend. Gui
 
 
 ## ⛺️ Camp
+
+If you attend a camp... or just intend to sleep at the gym or in heaven.
+
 - Tent
-- Sleeping bag & pillow
+- Sleeping bag or blanket
+- Pillow
 - Air-matress
 - Water proof clothing
+- Bin bags (for rubbish and dirty clothes)
+- Food
+- Cat5e extension cable (10-100m)
 - 230V/16A(*blue*)-to-your-country adaptor & extension (single phase)
 - 230V/32A(*red*)-to-your-country adaptor & extensions (3-phase)
-- Cat5e extension cable (10-100m)
-- Food
-- Bin bags (for rubbish and dirty clothes)
+
 
 
 ### Schedule
