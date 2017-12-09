@@ -80,7 +80,7 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 [FahrplanUpdate]:https://twitter.com/FahrplanUpdate "C3 Fahrplan Update notification bot"
 [MacLemon]:https://twitter.com/MacLemon "MacLemon"
 [c3_power]:https://twitter.com/c3_power "Power supply for events and installations"
-[c3awareness]:https://twiter.com/c3wareness "C3 Awareness Team"
+[c3awareness]:https://twitter.com/c3awareness "C3 Awareness Team"
 [c3bar]:https://twitter.com/c3bar "Bar Operation Center - Department of Tschunk Quality Assurance"
 [c3bass]:https://twitter.com/c3bass "C3 Low Frequency Longitudinal Wave Operations Center"
 [c3bottles]:https://twitter.com/c3bottles "Collect ALL the bottles"
