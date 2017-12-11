@@ -31,6 +31,7 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 - @[c3bottles] Collect ALL the bottles!
 - @[c3cert] Chaos Emergency Response Team
 - @[c3daysleft] Waiting for ..c3 countdown (bot)
+- @[c3diversity] Promoting diversity and supporting humans of all genders
 - @[c3edu] Bildungsurlaubsteilnahmebescheinigungsabstempelstelle
 - @[c3fotobox] The foto box
 - @[c3gelb] C3 Hygene
@@ -67,6 +68,7 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 - @[infobeamer] The digital signage solution used by many Chaos events.
 - @[rad1obadge] Rad1o Badge (SDR)
 
+
 [RSS]:https://en.wikipedia.org/wiki/Rss "Wikipedia: RSS"
 [Streaming]:https://streaming.media.ccc.de/ "C3VOC Streaming - LIVE!"
 
@@ -86,6 +88,7 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 [c3bottles]:https://twitter.com/c3bottles "Collect ALL the bottles"
 [c3cert]:https://twitter.com/c3cert "Chaos Emergency Response Team"
 [c3daysleft]:https://twitter.com/c3daysleft "Friendly Countdown bot to the next Chaos Communication Congress"
+[c3diversity]:https://twitter.com/c3diversity "Promoting diversity and supporting humans of all genders"
 [c3edu]:https://twitter.com/@c3edu "Bildungsurlaubsteilnahmebescheinigungsabstempelstelle"
 [c3fotobox]:https://twitter.com/c3fotobox "A box, taking fotos"
 [c3gelb]:https://twitter.com/c3gelb "C3 hygene team"
