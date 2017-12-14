@@ -18,6 +18,15 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 - [C3 Subtitles Team](https://c3subtitles.de/) Crowdsources subtiles and translations
 - [CongressEverywhere](https://events.ccc.de/congress/2017/wiki/Congress_Everywhere) Locations with public live-stream viewing
 
+
+## Mastodon/GNUSocial/OStatus/Fediverse
+- [@ccc@quitter.se] "CCC e.V."
+- [@chaosupdates@quitter.se] "Chaos Event Updates"
+
+[@ccc@quitter.se]:https://quitter.se/ccc "Der Chaos Computer Club ist eine galaktische Gemeinschaft von Lebewesen für Informationsfreiheit und Technikfolgenabschätzung."
+[@chaosupdates@diasp.org/u]:https://diasp.org/u/chaosupdates "Chaos Event Updates"
+
+
 ## Twitter
 - @[32c3_dieLounge] 32c3 Lounge
 - @[C3DieLounge] Official C3 Lounge floor. (Ten Forward, anti (t)error lounge, savage sector, section 9)
