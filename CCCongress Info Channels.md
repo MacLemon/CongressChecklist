@@ -67,6 +67,7 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 - @[eventphone] DECT wireless phone network operations
 - @[infobeamer] The digital signage solution used by many Chaos events.
 - @[rad1obadge] Rad1o Badge (SDR)
+- @[therealcsystems] C-Systems
 
 
 [RSS]:https://en.wikipedia.org/wiki/Rss "Wikipedia: RSS"
@@ -124,3 +125,4 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 [eventphone]:https://twitter.com/eventphone "DECT wireless phone network operations"
 [infobeamer]:https://twitter.com/infobeamer "The digital signage solution used by many Chaos events."
 [rad1obadge]:https://twitter.com/rad1obadge "Rad1o Badge (SDR)"
+[therealcsystems]:https://twitter.com/therealcsystems "C-Systems"
