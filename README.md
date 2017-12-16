@@ -29,7 +29,7 @@ You'll also find a list of all the nice humans who have contributed to this list
 
 ### Manners
 - Be excellent to each other.
-- If you spot somebody not being excellent to someone else, remind them to be excellent and have them apologi(s|z)e to the insulted part(y|ies), but only if the insulted wish to be apologi(s|z)ed to. Sometimes the insulted party will just want to move on and not have any further contact with someone who was coarse to them.
+- If you spot somebody not being excellent to someone else, remind them to be excellent and ask them to apologi(s|z)e to the insulted part(y|ies), but only if the insulted wish to receive an apology. Sometimes the insulted party will just want to move on and not have any further contact with someone who was coarse to them.
 - If you don't want to be called $swearword, don't behave like one.
 - Help each other out.
 - Read the “[Anti Harrassment Policy][3]” and live by it. :-)
@@ -44,7 +44,7 @@ You'll also find a list of all the nice humans who have contributed to this list
 - You might want to empty your drives to make room for some COMPLETELY LEGAL media files that might be shared.
 - Put your name on your stuff, especially on things you’ll likely lend to someone (power strips, cables etc). Twitter handles make excellent name tags because people know how to contact you right away. Prefer permanent markers over stickers, for theft reasons.
 - You DID make backups of all your devices, didn't you? That includes portable computers, servers, mobile phones, tablets, navigation devices, wrist watches and all your other $gadgets.
-- Store the backups not only on the device your backing up or another device you’re taking with you. A swiss bank locker is good, if you have one.
+- Store the backups not only on the device you're backing up or another device you’re taking with you. A swiss bank locker is good, if you have one.
 - Send a pull request to this list for all the things I did not think of.
 - Feed the guinea pigs.
 - Water your plants.
@@ -62,7 +62,7 @@ Stuff that you're not allowed to bring on a plane or otherwise need to send via 
 - Lighter benzine
 - Lighter gas (Butane)
 - Matches
-- Lighters (*only* allowed in hand luggage)
+- Lighters (*only* allowed on your person)
 - Butane cartridges
 - Propane cartridges
 - Radioactive medication
@@ -96,7 +96,7 @@ This applies to the Congress Center as well as your hotel windows.
 
 
 ### Documents
-- Train/plane tickets (including verification documents for self-printed DB tickets. Check the List of accepted documents! [Was ist als Identifizierungskarte zugelassen?][41].)
+- Train/plane tickets (including verification documents for self-printed DB tickets. Check the List of accepted documents! [Was ist als Identifizierungskarte zugelassen?][41])
 - Congress tickets (printed or digital. iOS passbook/wallet, PDF)
   - have them ready before your line up at the cash desk!
 - Passport or other kind of photo ID (Personalausweis)
@@ -104,9 +104,9 @@ This applies to the Congress Center as well as your hotel windows.
 - Hotel booking
 - Ham radio license (CEPT license)
 - [Hackerspace passport][5]
-- An [organ donor card][21] (We really hope you won't need them, but just in the case: you might save a life!)
-- Your health insurance card
-- Your vaccination documents or history (Impfpass)
+- An [organ donor card][21] (We really hope you won't need it, but just in the case: you might save a life!)
+- Health insurance card
+- Vaccination documents or history (Impfpass)
 
 
 ### Payment stuff
@@ -118,7 +118,7 @@ When using ATMs/Cash Machines/Bankomaten/Geldautomaten give them a good wiggle b
 - Coins (€uros, for automated vending machines, like public transport tickets)
 - Bitcoin wallet (the encrypted fashion with a good passphrase) or one for your preferred kind of crypo-currency
 - Emergency numbers for your bank so you can lock your credit card/debit card/Bankomatkarte in case it gets lost/stolen/left behind.
-    - German cards can be locked via the [lockinghotline][34] 116 116 (or +49 - 30 4050 4050)
+    - German cards can be locked via the [locking hotline][34] 116 116 (or +49 - 30 4050 4050)
     - For your Bankomat Karte (EC debit card) check if the “Geo Control” of your bank allows withdrawing in your destination country.
 
 
@@ -127,16 +127,13 @@ When using ATMs/Cash Machines/Bankomaten/Geldautomaten give them a good wiggle b
 - An app to show local public transport times. Not all cities are available in Google/Apple/You-name-it Maps applications.
 
 
-#### Emergency Information for Events:
+### Emergency Information for Events
 If you're in an emergency shout *HELP!*
 
-If you need help, just call for help, there are many, many friendly people around to help you.
+If you need help, call for help, there are many, many friendly people around to help you.
 
 Event and location related emergency information is in a seperate document for the corresponding event in this repository! You may want to copy that info to a notes application on your smartphone or have a printed card in your wallet.
 
-
-#### Upcoming events:
-34 Chaos Communication Congress (2017-12-27 .. 2017-12-30), Leipzig, Germany, EU
 
 
 ### Personal hygiene
@@ -217,7 +214,7 @@ Pack some reserves of your medication. Better to have too much than not enough w
 Some meds require papers to be allowed legally in some countries, don't forget those to spare yourself unnecessary hassle by authorities. In Germany these are all drugs listed in [Appendix III](44) to the [Betäubungsmittelgesetz](45) (e.g. ritalin, medical uses of marihuana). You need [this form](46), filled out and signed by your local doctor.
 
 ### Clothing
-Come as you are, as a friend
+Come as you are, as a friend.
 
 - At least ONE clean shirt for each day you stay, plus two for traveling to and from congress (nerdy print is always welcome)
 - At least ONE set of clean underwear for each day you stay, plus two for traveling to and from congress (Doesn't necessarily need to be in matching pairs, but that is up to you.)
@@ -285,6 +282,7 @@ For travelling abroad there is a handy [World Electrical Plug & Socket Map][40]
 	- Put an OWNER.txt file on them with information on how to contact you in case one gets lost accidentally. (Twitter, phone (for example DECT, 33C3 GSM extensions), email, name of the assembly you're well known at, owl, raven)
 	- For devices with private information be sure to encrypt them! (VeraCrypt, GPG, FileVault, EncFS, Bitlocker, gbde, geli, dm-crypt, LUKS, eCryptFS)
         - Make a GPT Label or Volume label with your online nickname or handle because people can't read your owner.txt file on encrypted devices. You may also create multiple partitions (plaintext and encrypted ones).
+	- If physically possible, add an actual label (just write on it/add a tag) with your nick on it – many people will be rightfully hesitant to plug in a found USB stick.
 	- make note of the filesystem used so you know if they will work on the system of the person you want to exchange data with. (FAT32 is a safe bet to work everywhere, for larger files ExFAT should also work on most platforms.)
 	- Mac: NTFS can be read, but not written to without 3rd party software. FAT, ExFAT, HFS+(J), HFSX are fine for current OS X versions, ZFS, Ext2/Ext3/Ext4 and NTFS r/w support need 3rd party software. APFS support is experimental in macOS 10.12 Sierra and available from the command line only.
 	- USB/Thunderbolt/USB-C to Ethernet RJ45 adapter, if your device needs one (for example thin notebooks)
@@ -373,7 +371,7 @@ Check out the [USB-C cable matrix][36] on what a certain manufacturer's cable ac
 - SFP, SFP+ module (copper or fibre)
 - 1-100Gigabit Ethernet Switch
 - Splicing equipment
-- Ethernet cords (Cat5e) of multiple lengths (Maybe have a spare to tether a friend)
+- Ethernet cords (Cat5e) of multiple lengths (bring a spare to tether a friend)
 
 
 ##### Audio
@@ -423,11 +421,18 @@ Check out the [USB-C cable matrix][36] on what a certain manufacturer's cable ac
 
 #### Talk gear
 - Monitor adapters (VGA, DVI, HDMI, mini Displayport/Displayport, USB-C; especially for the Mac users and those with other fancy slim laptops. ;-) ), you may need them for your presentation or lightning talk.
-- Remote control for your presentation / lightning talk (also check the batteries in the remote), dont' forget the USB dongle if your remote requires one
-- Infrared, Bluetooth or radio remote (for presentations) and also check their batteries
+- Remote control (infrared/bluetooth/radio) for your presentation / lightning talk
+	- Check the batteries
+	- Take the USB dongle, if the remote has one
 
 #### Podcast Gear
-- Headset or microphone & headphones, your laptop and/or a recording device (incl. charging cable or extra batteries - you really did charge them all, right?), connector cables.
+- Headset or microphone & headphones
+- Laptop
+- A recording device
+	- Charger
+	- Extra batteries (and check you charged them)
+	- Connector cables
+
 
 #### CCC originated Hardware
 - [r0cket][4], fully charged (needs a micro USB cable for charging/programming)
@@ -444,7 +449,7 @@ Check out the [USB-C cable matrix][36] on what a certain manufacturer's cable ac
 - LED throwies
 - Tesla coils
 - Chocolate Fountain
-- Headphones (Closed type) (so you don't have to talk to other carbon units while traveling)
+- Headphones (Closed type) (so you don't have to talk/listen to other carbon units while traveling)
 - replacement plush cushions for headphones
 - Neck cushion (for long journeys)
 - All your devices!!1 ((Raspberry|Orange|Banana) Pi, Arduino, FreedomBox, DreamPlug, …)
@@ -513,7 +518,7 @@ Please check in advance if dogs are allowed at the event you want to attend. Gui
 - Have a look at the [Fahrplan][20] and maybe make a preselection of talks you really “have to”, “want to” or “would be nice to“ see
 - Install one of the Fahrplan apps for Android ([PlayStore][26], [Source][27]) or iOS ([iTunes][28])
 - Be sure to schedule a period of time to get your T-Shirt or pullover/hoodie/zipper (when preordered in the first two days)!
-- Have a sense of how the trains are going from the station near by, enter Dammtor here: http://geofox.de/jsf/stationSchedule.seam direct connections to the airport, enter Dammtor at start and Airport
+- To have a sense of train schedules, enter "Leipzig, Messegelände" as destination on the [public transport schedule page](https://www.l.de/verkehrsbetriebe).
 
 
 ## 🔒 Securing your devices
@@ -574,9 +579,9 @@ It is not recommended to connect your smartphone to the congress wifi, if you st
 - Use a Firewall and only allow the (few) services you trust.
 	- [DroidWall][22] for Android (root required)
 - If you don't have a VPN tunnel available, you can use [OnionBrowser][7] (iOS) or [Orbot][orbot] (Android) to surf via tor (which may be it's own kind of risk).
-- Set your GSM network selection to **manual** or you might end up connected to a rogue GSM network by somebody.
+- Set your GSM network selection to **manual** or you might end up connected to a rogue GSM network.
 
-**If you are unsure** that there might still be some services running and transmitting plaintext data, **do not connect**.
+**If you are unsure** if there are still some services transmitting plaintext data, **do not connect**.
 
 
 ### PrePaid SIM Cards
@@ -591,8 +596,10 @@ Most events publish a lot of information about events as they happen. There are 
 For a list of CCC related news sources you may be interested in following, see 'CCCongress Info Channels.md' in this repository.
 
 ## 🔙 For when you return home
-- store chocolate/chips/crisps at home as an post-event depression antidote
+- Store chocolate/chips/crisps at home as an post-event depression antidote
 - Make notes during CCCongress to watch all the lectures you missed on site because you were attending an awesome workshop or were having interesting conversations with people.
+- Contact the cool people you met at the event
+- Look for related local events and communities
 
 
 ## ❤️ Thanks for being awesome ✨
@@ -642,6 +649,7 @@ These people have contributed to improve this list for everyone (in no particula
 - [jomo][141]
 - [joepie91][142]
 - [The Compiler][143]
+- [rixx][145]
 
 
 <!-- ## 🔗 Links -->
@@ -737,3 +745,4 @@ These people have contributed to improve this list for everyone (in no particula
 [142]:https://cryto.net/~joepie91
 [143]:https://github.com/The-Compiler
 [144]:https://twitter.com/Columbia19
+[145]:https://github.com/rixx
