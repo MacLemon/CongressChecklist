@@ -670,8 +670,8 @@ These people have contributed to improve this list for everyone (in no particula
 [22]:https://play.google.com/store/apps/details?id=com.googlecode.droidwall.free
 [24]:https://wifipineapple.com/ "WiFi Pinapple"
 [25]:https://greatscottgadgets.com/throwingstar/ "Throwing star"
-[26]:https://play.google.com/store/apps/details?id=nerd.tuxmobil.fahrplan.congress
-[27]:https://github.com/tuxmobil/CampFahrplan
+[26]:https://play.google.com/store/apps/details?id=info.metadude.android.congress.schedule
+[27]:https://github.com/EventFahrplan/EventFahrplan
 [28]:https://itunes.apple.com/us/app/30c3-fahrplan-30c3-event-organizer/id764609606?mt=8
 [29]:http://en.wikipedia.org/wiki/Knife_legislation#Germany
 [30]:https://rad1o.badge.events.ccc.de/ "Rad1o Badge, CCCamp 2015"
