@@ -32,7 +32,8 @@ You'll also find a list of all the nice humans who have contributed to this list
 - If you spot somebody not being excellent to someone else, remind them to be excellent and ask them to apologi(s|z)e to the insulted part(y|ies), but only if the insulted wish to receive an apology. Sometimes the insulted party will just want to move on and not have any further contact with someone who was coarse to them.
 - If you don't want to be called $swearword, don't behave like one.
 - Help each other out.
-- Read the “[Anti Harrassment Policy][3]” and live by it. :-)
+- Read the “[Anti Harrassment Policy][3]” and live by it.
+- There is a [Code of Conduct][47] and it applies to you.
 - Ask if it is ok to take a picture BEFORE taking the picture.
 
 
@@ -699,6 +700,7 @@ These people have contributed to improve this list for everyone (in no particula
 [44]:https://www.gesetze-im-internet.de/btmg_1981/anlage_iii.html
 [45]:https://www.gesetze-im-internet.de/btmg_1981/
 [46]:https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel/Reisen/reise_scheng_formular.pdf?__blob=publicationFile&v=3
+[47]:https://events.ccc.de/congress/2017/wiki/index.php?title=Code_Of_Conduct "Code of Conducti: A galactic Congress welcomes all lifeforms"
 
 [100]:https://twitter.com/Astarioth
 [101]:https://twitter.com/N4mes
