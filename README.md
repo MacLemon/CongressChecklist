@@ -554,6 +554,7 @@ Check that _all_ your server services are using proper TLS. See [bettercrypto.or
 ### VPN tunnel
 Have at least one trusted, working and tested VPN endpoint available for tunneling out of the congress network. If you don't have your own VPN server at your disposal ask friends you trust to help you out. If you do, ask your friends if they need a VPN endpoint and share!
 
+- [WireGuard][146]
 - [OpenVPN][16]
 - L2TP/IPSec/IKEv2
 - [SSH][18]
@@ -748,3 +749,4 @@ These people have contributed to improve this list for everyone (in no particula
 [143]:https://github.com/The-Compiler
 [144]:https://twitter.com/Columbia19
 [145]:https://github.com/rixx
+[146]:https://www.wireguard.com/
