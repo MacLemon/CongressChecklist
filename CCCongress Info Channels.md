@@ -29,6 +29,7 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 
 
 ## Twitter
+- @[34c3prodigybar] Helping with the tiny mishaps of everyday IT.
 - @[C3DieLounge] Official C3 Lounge floor. (Ten Forward, anti (t)error lounge, savage sector, section 9)
 - @[C3_LightningTLK] C3 Lighting talks organisation
 - @[FahrplanUpdate] Fahrplan Update notification Bot
@@ -83,6 +84,7 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 You can contact some of the organizing teams via email. Please note that this makes mostly sense before and after the
 event, not during. Contact addresses are listed in the [event wiki](https://events.ccc.de/congress/2016/wiki/Static:Contact).
 
+[34c3prodigybar]:https://twitter.com/34c3prodigybar "Trying to help you out with Linux-ISOs, Powerbricks, Adaptors and connecting you to those who can assist you."
 [C3DieLounge]:https://twitter.com/c3dielounge "Official C3 Lounge Floor"
 [C3_LightningTLK]:https://twitter.com/c3_lightningtlk "C3 lightning talks organisation"
 [FahrplanUpdate]:https://twitter.com/FahrplanUpdate "C3 Fahrplan Update notification bot"
