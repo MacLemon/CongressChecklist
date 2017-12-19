@@ -33,6 +33,7 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 - @[C3DieLounge] Official C3 Lounge floor. (Ten Forward, anti (t)error lounge, savage sector, section 9)
 - @[C3_LightningTLK] C3 Lighting talks organisation
 - @[FahrplanUpdate] Fahrplan Update notification Bot
+- @[c3postoffice] Snail Mail
 - @[c3_power] C3 Power (electrical)
 - @[c3awareness] C3 Awareness Team
 - @[c3bar] Bar Operation Center - Department of Tschunk Quality Assurance
@@ -89,6 +90,7 @@ event, not during. Contact addresses are listed in the [event wiki](https://even
 [C3_LightningTLK]:https://twitter.com/c3_lightningtlk "C3 lightning talks organisation"
 [FahrplanUpdate]:https://twitter.com/FahrplanUpdate "C3 Fahrplan Update notification bot"
 [MacLemon]:https://twitter.com/MacLemon "MacLemon"
+[c3postoffice]:https://twitter.com/c3postoffice "Snail Mail Delivery at C3 events"
 [c3_power]:https://twitter.com/c3_power "Power supply for events and installations"
 [c3awareness]:https://twitter.com/c3awareness "C3 Awareness Team"
 [c3bar]:https://twitter.com/c3bar "Bar Operation Center - Department of Tschunk Quality Assurance"
