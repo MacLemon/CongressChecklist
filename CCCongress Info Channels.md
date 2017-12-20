@@ -68,6 +68,7 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 - @[c3voc] Video operation center (Recordings and live streaming)
 - @[c3voc_releases] Bot that posts releases of fresh recordings in many formats
 - @[ccc] The CCC events blog
+- @[chaosknoten] "Just Chaos"
 - @[chaospatinnen] Mentoring Operation Center
 - @[chaosupdates] CCC related news
 - @[congress_ios] Congress App for iOS devices
@@ -125,6 +126,7 @@ event, not during. Contact addresses are listed in the [event wiki](https://even
 [c3voc]:https://twitter.com/c3voc "C3 video operation center"
 [c3voc_releases]:https://twitter.com/c3voc_releases "C3 video operation center - New releases Bot"
 [ccc]:https://twitter.com/ccc "The CCC events blog"
+[chaosknoten]:https://twitter.com/chaosknoten "Kabelsalat ist gesund!"
 [chaospatinnen]:https://twitter.com/chaospatinnen "Mentoring Operation Center"
 [chaosupdates]:https://twitter.com/chaosupdates "CCC related news"
 [congress_ios]:https://twitter.com/congress_ios "Congress App for iOS devices"
