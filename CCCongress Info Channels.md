@@ -73,6 +73,7 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 - @[chaosupdates] CCC related news
 - @[congress_ios] Congress App for iOS devices
 - @[engelsystem] Engelsystem information system for chaos events
+- @[espressobicycle] Serving mobile high quality espresso since 30c3
 - @[eventphone] DECT wireless phone network operations
 - @[infobeamer] The digital signage solution used by many Chaos events.
 - @[rad1obadge] Rad1o Badge (SDR)
@@ -131,6 +132,7 @@ event, not during. Contact addresses are listed in the [event wiki](https://even
 [chaosupdates]:https://twitter.com/chaosupdates "CCC related news"
 [congress_ios]:https://twitter.com/congress_ios "Congress App for iOS devices"
 [engelsystem]:https://twitter.com/engelsystem "Engelsystem information system for chaos events"
+[espressobicycle]:https://twitter.com/espressobicycle "Transparent and fair from bean producer to espresso afficionado"
 [eventphone]:https://twitter.com/eventphone "DECT wireless phone network operations"
 [infobeamer]:https://twitter.com/infobeamer "The digital signage solution used by many Chaos events."
 [rad1obadge]:https://twitter.com/rad1obadge "Rad1o Badge (SDR)"
