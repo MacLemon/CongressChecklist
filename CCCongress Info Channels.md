@@ -29,6 +29,11 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 
 
 ## Twitter
+
+There is [a list containing all the C3 associated Twitter accounts][twitterlist] maintained by [@c3checklist].
+
+
+
 - @[34c3prodigybar] Helping with the tiny mishaps of everyday IT.
 - @[C3DieLounge] Official C3 Lounge floor. (Ten Forward, anti (t)error lounge, savage sector, section 9)
 - @[C3_LightningTLK] C3 Lighting talks organisation
@@ -99,6 +104,7 @@ event, not during. Contact addresses are listed in the [event wiki](https://even
 [c3bass]:https://twitter.com/c3bass "C3 Low Frequency Longitudinal Wave Operations Center"
 [c3bottles]:https://twitter.com/c3bottles "Collect ALL the bottles"
 [c3cert]:https://twitter.com/c3cert "Chaos Emergency Response Team"
+[c3checklist]:https://twitter.com/c3checklist "Twitter Lists for C3 Chaos associated accounts"
 [c3daysleft]:https://twitter.com/c3daysleft "Friendly Countdown bot to the next Chaos Communication Congress"
 [c3diversity]:https://twitter.com/c3diversity "Promoting diversity and supporting humans of all genders"
 [c3edu]:https://twitter.com/@c3edu "Bildungsurlaubsteilnahmebescheinigungsabstempelstelle"
@@ -137,3 +143,4 @@ event, not during. Contact addresses are listed in the [event wiki](https://even
 [infobeamer]:https://twitter.com/infobeamer "The digital signage solution used by many Chaos events."
 [rad1obadge]:https://twitter.com/rad1obadge "Rad1o Badge (SDR)"
 [therealcsystems]:https://twitter.com/therealcsystems "C-Systems"
+[twitterlist]:https://twitter.com/C3Checklist/lists "C3 Chaos Event Lists and other Chaos related Twitter Accounts."
