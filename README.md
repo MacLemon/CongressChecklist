@@ -108,6 +108,7 @@ This applies to the Congress Center as well as your hotel windows.
 - An [organ donor card][21] (We really hope you won't need it, but just in the case: you might save a life!)
 - Health insurance card
 - Vaccination documents or history (Impfpass)
+- "Business cards" to hand out to people with essential information like email address and OpenPGP fingerprint. Optionally other ways to reach you as well. Normally simple DIN A4 paper strips with the information printed on is enough. No need to get fancy.
 
 
 ### Payment stuff
