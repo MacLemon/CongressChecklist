@@ -300,7 +300,7 @@ For travelling abroad there is a handy [World Electrical Plug & Socket Map][40]
 
 #### Wireless and HF
 - SDR Equipment: HackRF, RTL-SDR, Ettus, [Rad1o badge][30]
-- DVB-T dongle, there might be local DVB-T transmitter for the streams,
+- DVB-T2 dongle, there might be local DVB-T2 transmitter for the streams,
 - Ham radio equipment, portable, the callsign prefix for CEPT licence holders in Germany is DL (Delta Lima), and DO (Delta Oscar) for CEPT-Novice licensees. Also see [ham radio licensing information for Germany][35]
     - Your ham radio license (Amateurfunklizenz)
 - WiFi router/firewall (to connect to the hotel Wifi/network)
