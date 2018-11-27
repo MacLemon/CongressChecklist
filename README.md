@@ -208,7 +208,7 @@ Come as you are, as a friend
 - At least ONE set of clean underwear for each day you stay, plus two for traveling to and from congress (Doesn't necessarily need to be in matching pairs, but that is up to you.)
 - At least ONE pair of clean socks/stockings/tights/overknees for each day you stay, plus two for traveling to and from congress (again, matching pairs optional)
 - Enough pants/skirts/trousers/dresses/etc. so you can wear clean clothes every day you attend congress (even if somebody accidentally (or intentionally) spills a beverage all over you!)
-- Cycling Shorts. You will walk, a lot. Prevent chafing your tighs.
+- Cycling Shorts. You will walk, a lot. Prevent chafing your thighs.
 - Sewing set (needle, thread, spare button for your trousers/skirts/shirts/blouses/etc.)
 - Long sleeve shirts
 - Hoodies, pullovers, zippers, vests (it's cold outside!)
