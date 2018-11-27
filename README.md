@@ -242,6 +242,7 @@ Come as you are, as a friend.
 - Cosplay is welcome
 - Tailcoat or suit, maybe including a top hat
 - Utility belt for your DECT phone, some coins and whatever you carry with you the whole day.
+- Lab Coat
 
 
 ### Gear
