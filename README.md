@@ -201,6 +201,7 @@ Check the expiry date of the meds you bring.
 - Thomapyrin (analgetic)
 - Parkemed (DE/AT), Ponstel (USA/UK) (analgetic)
 - Clarityn (or other histamine blocker if you're allergic to something)
+- Blister Pads. You will walk, a lot. 
 - Neocitran/Theraflu/Paracetamol (just in case hacker pest strikes)
 - Contraceptives, prophylactic (contraceptive pill, condoms, etc.)
 - Caffeine pills (In case you don't like Mate and nobody knows if you can actually drink the “coffee” served at the venue.)
@@ -222,6 +223,7 @@ Come as you are, as a friend.
 - At least ONE set of clean underwear for each day you stay, plus two for traveling to and from congress (Doesn't necessarily need to be in matching pairs, but that is up to you.)
 - At least ONE pair of clean socks/stockings/tights/overknees for each day you stay, plus two for traveling to and from congress (again, matching pairs optional)
 - Enough pants/skirts/trousers/dresses/etc. so you can wear clean clothes every day you attend congress (even if somebody accidentally (or intentionally) spills a beverage all over you!)
+- Cycling Shorts. You will walk, a lot. Prevent chafing your thighs.
 - Sewing set (needle, thread, spare button for your trousers/skirts/shirts/blouses/etc.)
 - Long sleeve shirts
 - Hoodies, pullovers, zippers, vests (it's cold outside!)
