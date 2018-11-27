@@ -242,6 +242,7 @@ Come as you are, as a friend.
 - Cosplay is welcome
 - Tailcoat or suit, maybe including a top hat
 - Utility belt for your DECT phone, some coins and whatever you carry with you the whole day.
+- High Visibility Vest (to be visible during Angel Work)
 - Lab Coat
 
 
@@ -493,6 +494,12 @@ Check out the [USB-C cable matrix][36] on what a certain manufacturer's cable ac
 	- reusable coffee mug to get your coffee @[coffeenerds](39) as environment friendly as possible!
 - a thermo travelling mug for coffee-nerds, cocoa addicts, ...
 - All the stickers to trade and give away!
+- Personal Mobility Device - like:
+	- roller skates
+	- scooter
+	- mate cases
+	- driving couches
+	- [driving tents][48]
 - Running gear (shirt, pants, shoes, cellphone wristlet,...) in case the [3schweinehunde](https://mobile.twitter.com/3schweinehunde) are doing a run
 
 ## 🐶 If you travel with your dog
@@ -657,6 +664,7 @@ These people have contributed to improve this list for everyone (in no particula
 - [joepie91][142]
 - [The Compiler][143]
 - [rixx][145]
+- [@qch3n][147]
 
 
 <!-- ## 🔗 Links -->
@@ -707,6 +715,7 @@ These people have contributed to improve this list for everyone (in no particula
 [45]:https://www.gesetze-im-internet.de/btmg_1981/
 [46]:https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel/Reisen/reise_scheng_formular.pdf?__blob=publicationFile&v=3
 [47]:https://events.ccc.de/congress/2017/wiki/index.php?title=Code_Of_Conduct "Code of Conducti: A galactic Congress welcomes all lifeforms"
+[48]:https://www.youtube.com/watch?v=HXi1g6lueTo
 
 [100]:https://twitter.com/Astarioth
 [101]:https://twitter.com/N4mes
@@ -755,3 +764,4 @@ These people have contributed to improve this list for everyone (in no particula
 [144]:https://twitter.com/Columbia19
 [145]:https://github.com/rixx
 [146]:https://www.wireguard.com/
+[147]:https://twitter.com/qch3n/
