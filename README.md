@@ -215,7 +215,7 @@ Check the expiry date of the meds you bring.
 Your personal medication does not belong on the public interwebs for your privacy. This is just a reminder to pack it. Please do not include your personal medications in pull requests. :-)
 If you need refrigeration for your personal medication, that is possible at the [C3 CERT][38]on site.
 Pack some reserves of your medication. Better to have too much than not enough with you ;-)
-Some meds require papers to be allowed legally in some countries, don't forget those to spare yourself unnecessary hassle by authorities. In Germany these are all drugs listed in [Appendix III](44) to the [Betäubungsmittelgesetz](45) (e.g. ritalin, medical uses of marihuana). You need [this form](46), filled out and signed by your local doctor.
+Some meds require papers to be allowed legally in some countries, don't forget those to spare yourself unnecessary hassle by authorities. In Germany these are all drugs listed in [Appendix III][44] to the [Betäubungsmittelgesetz][45] (e.g. ritalin, medical uses of marihuana). You need [this form][46], filled out and signed by your local doctor.
 
 ### Clothing
 Come as you are, as a friend.
