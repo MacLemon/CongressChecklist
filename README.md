@@ -109,6 +109,7 @@ This applies to the Congress Center as well as your hotel windows.
 - An [organ donor card][21] (We really hope you won't need it, but just in the case: you might save a life!)
 - Health insurance card
 - Vaccination documents or history (Impfpass)
+- "Business cards" to hand out to people with essential information like email address and OpenPGP fingerprint. Optionally other ways to reach you as well. Normally simple DIN A4 paper strips with the information printed on is enough. No need to get fancy.
 
 
 ### Payment stuff
@@ -201,6 +202,7 @@ Check the expiry date of the meds you bring.
 - Thomapyrin (analgetic)
 - Parkemed (DE/AT), Ponstel (USA/UK) (analgetic)
 - Clarityn (or other histamine blocker if you're allergic to something)
+- Blister Pads. You will walk, a lot. 
 - Neocitran/Theraflu/Paracetamol (just in case hacker pest strikes)
 - Contraceptives, prophylactic (contraceptive pill, condoms, etc.)
 - Caffeine pills (In case you don't like Mate and nobody knows if you can actually drink the “coffee” served at the venue.)
@@ -222,6 +224,7 @@ Come as you are, as a friend.
 - At least ONE set of clean underwear for each day you stay, plus two for traveling to and from congress (Doesn't necessarily need to be in matching pairs, but that is up to you.)
 - At least ONE pair of clean socks/stockings/tights/overknees for each day you stay, plus two for traveling to and from congress (again, matching pairs optional)
 - Enough pants/skirts/trousers/dresses/etc. so you can wear clean clothes every day you attend congress (even if somebody accidentally (or intentionally) spills a beverage all over you!)
+- Cycling Shorts. You will walk, a lot. Prevent chafing your thighs.
 - Sewing set (needle, thread, spare button for your trousers/skirts/shirts/blouses/etc.)
 - Long sleeve shirts
 - Hoodies, pullovers, zippers, vests (it's cold outside!)
@@ -240,6 +243,8 @@ Come as you are, as a friend.
 - Cosplay is welcome
 - Tailcoat or suit, maybe including a top hat
 - Utility belt for your DECT phone, some coins and whatever you carry with you the whole day.
+- High Visibility Vest (to be visible during Angel Work)
+- Lab Coat
 
 
 ### Gear
@@ -296,7 +301,7 @@ For travelling abroad there is a handy [World Electrical Plug & Socket Map][40]
 
 #### Wireless and HF
 - SDR Equipment: HackRF, RTL-SDR, Ettus, [Rad1o badge][30]
-- DVB-T dongle, there might be local DVB-T transmitter for the streams,
+- DVB-T2 dongle, there might be local DVB-T2 transmitter for the streams,
 - Ham radio equipment, portable, the callsign prefix for CEPT licence holders in Germany is DL (Delta Lima), and DO (Delta Oscar) for CEPT-Novice licensees. Also see [ham radio licensing information for Germany][35]
     - Your ham radio license (Amateurfunklizenz)
 - WiFi router/firewall (to connect to the hotel Wifi/network)
@@ -493,6 +498,13 @@ Check out the [USB-C cable matrix][36] on what a certain manufacturer's cable ac
 - A reusable bottle to stay hydrated (German tap water is drinking water unless specified otherwise)
 - Camping cutlery (or spork) to reduce on plastic waste on site and for takeaway/supermarket food
 - Easy snacks such as nuts or granola bars (Events like these are often hectic and sometimes it's easy to forget to eat. If you need food to take medications, make sure to always have snacks with you)
+- Personal Mobility Device - like:
+	- roller skates
+	- scooter
+	- mate cases
+	- driving couches
+	- [driving tents][48]
+- Running gear (shirt, pants, shoes, cellphone wristlet,...) in case the [3schweinehunde](https://mobile.twitter.com/3schweinehunde) are doing a run
 
 ## 🐶 If you travel with your dog
 Please check in advance if dogs are allowed at the event you want to attend. Guide dogs are usually exempt, even if dogs are not allowed.
@@ -656,6 +668,7 @@ These people have contributed to improve this list for everyone (in no particula
 - [joepie91][142]
 - [The Compiler][143]
 - [rixx][145]
+- [@qch3n][147]
 
 
 <!-- ## 🔗 Links -->
@@ -706,6 +719,7 @@ These people have contributed to improve this list for everyone (in no particula
 [45]:https://www.gesetze-im-internet.de/btmg_1981/
 [46]:https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel/Reisen/reise_scheng_formular.pdf?__blob=publicationFile&v=3
 [47]:https://events.ccc.de/congress/2017/wiki/index.php?title=Code_Of_Conduct "Code of Conducti: A galactic Congress welcomes all lifeforms"
+[48]:https://www.youtube.com/watch?v=HXi1g6lueTo
 
 [100]:https://twitter.com/Astarioth
 [101]:https://twitter.com/N4mes
@@ -754,3 +768,4 @@ These people have contributed to improve this list for everyone (in no particula
 [144]:https://twitter.com/Columbia19
 [145]:https://github.com/rixx
 [146]:https://www.wireguard.com/
+[147]:https://twitter.com/qch3n/
