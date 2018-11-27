@@ -49,6 +49,7 @@ You'll also find a list of all the nice humans who have contributed to this list
 - Send a pull request to this list for all the things I did not think of.
 - Feed the guinea pigs.
 - Water your plants.
+- Stock you pantry/freezer with some food that keeps so you have something to eat when you get home (that doesn't rely on shops/restaurants being open).
 - (optional but recommended) Create account in the [congress wiki][12], [add your projects][13] and [find your assembly][14].
 
 
@@ -494,6 +495,9 @@ Check out the [USB-C cable matrix][36] on what a certain manufacturer's cable ac
 	- reusable coffee mug to get your coffee @[coffeenerds](39) as environment friendly as possible!
 - a thermo travelling mug for coffee-nerds, cocoa addicts, ...
 - All the stickers to trade and give away!
+- A reusable bottle to stay hydrated (German tap water is drinking water unless specified otherwise)
+- Camping cutlery (or spork) to reduce on plastic waste on site and for takeaway/supermarket food
+- Easy snacks such as nuts or granola bars (Events like these are often hectic and sometimes it's easy to forget to eat. If you need food to take medications, make sure to always have snacks with you)
 - Personal Mobility Device - like:
 	- roller skates
 	- scooter
