@@ -489,6 +489,7 @@ Check out the [USB-C cable matrix][36] on what a certain manufacturer's cable ac
 	- reusable coffee mug to get your coffee @[coffeenerds](39) as environment friendly as possible!
 - a thermo travelling mug for coffee-nerds, cocoa addicts, ...
 - All the stickers to trade and give away!
+- Running gear (shirt, pants, shoes, cellphone wristlet,...) in case the [3schweinehunde](https://mobile.twitter.com/3schweinehunde) are doing a run
 
 ## 🐶 If you travel with your dog
 Please check in advance if dogs are allowed at the event you want to attend. Guide dogs are usually exempt, even if dogs are not allowed.
