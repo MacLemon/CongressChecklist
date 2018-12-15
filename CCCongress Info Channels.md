@@ -2,6 +2,15 @@
 This document collects all the outlets you might be interested in when following the Chaos Communication Congress Event series as it happens or in between the events to stay in the loop.
 Did I miss something? Please send a pull request or ping @[MacLemon] to add it for you. Thanks!
 
+## DECT/GSM
+
+Please use local DECT/GSM/SIP/… for calls, otherwise you might reach public emergency services which usually take longer to respond, are not used to our communities habits and generally do not know where "Geraffelvillage" is. If you do not carry a DECT ask at a bar, entry/exit, infodesk or people with angel-badges.
+
+- Security: 110
+- CERT (Fire, Medical): 112
+- Awareness-Team: 113
+- Autism care: 1199
+
 ## Websites
 
 
@@ -10,6 +19,7 @@ Did I miss something? Please send a pull request or ping @[MacLemon] to add it f
   organizational issues and announcements, worth following for every attendee.
 - [Chaos Emergency Response Team](https://cert.ccc.de/): The CERT team wiki, lists members and explains operating
   procedures.
+- [List of official support channels](https://help.ccc.de/index.en.html)
 
 
 ### Videos
@@ -31,8 +41,6 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 ## Twitter
 
 There is [a list containing all the C3 associated Twitter accounts][twitterlist] maintained by [@c3checklist].
-
-
 
 - @[34c3prodigybar] Helping with the tiny mishaps of everyday IT.
 - @[C3DieLounge] Official C3 Lounge floor. (Ten Forward, anti (t)error lounge, savage sector, section 9)
@@ -83,6 +91,7 @@ There is [a list containing all the C3 associated Twitter accounts][twitterlist]
 - @[infobeamer] The digital signage solution used by many Chaos events.
 - @[rad1obadge] Rad1o Badge (SDR)
 - @[therealcsystems] C-Systems
+- @[c3auti] Autism care
 
 
 [RSS]:https://en.wikipedia.org/wiki/Rss "Wikipedia: RSS"
@@ -143,4 +152,5 @@ event, not during. Contact addresses are listed in the [event wiki](https://even
 [infobeamer]:https://twitter.com/infobeamer "The digital signage solution used by many Chaos events."
 [rad1obadge]:https://twitter.com/rad1obadge "Rad1o Badge (SDR)"
 [therealcsystems]:https://twitter.com/therealcsystems "C-Systems"
+[c3auti]:https://twitter.com/c3auti "C3 Autism Care"
 [twitterlist]:https://twitter.com/C3Checklist/lists "C3 Chaos Event Lists and other Chaos related Twitter Accounts."
