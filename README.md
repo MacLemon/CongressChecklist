@@ -119,7 +119,7 @@ When using ATMs/Cash Machines/Bankomaten/Geldautomaten give them a good wiggle b
 - Credit card
 - Maestro card (Bankomatkarte, EC-Karte)
 - Coins (€uros, for automated vending machines, like public transport tickets)
-- Bitcoin wallet (the encrypted fashion with a good passphrase) or one for your preferred kind of crypo-currency
+- Bitcoin wallet (the encrypted fashion with a good passphrase) or one for your preferred kind of crypto-currency
 - Emergency numbers for your bank so you can lock your credit card/debit card/Bankomatkarte in case it gets lost/stolen/left behind.
     - German cards can be locked via the [locking hotline][34] 116 116 (or +49 - 30 4050 4050)
     - For your Bankomat Karte (EC debit card) check if the “Geo Control” of your bank allows withdrawing in your destination country.
@@ -128,6 +128,7 @@ When using ATMs/Cash Machines/Bankomaten/Geldautomaten give them a good wiggle b
 ### Mobility
 - Cards, PINs, Apps (and required account data) for Car- and bicycle sharing
 - An app to show local public transport times. Not all cities are available in Google/Apple/You-name-it Maps applications.
+- A [towel][49]
 
 
 ### Emergency Information for Events
@@ -168,7 +169,7 @@ Event and location related emergency information is in a seperate document for t
 	- Spectacle case
 	- Cleaning cloth
 - Oropax or other things to plug into your ears for a good “night”'s sleep.
-- Hair dryer (in case your place/hotel doesn't supply one)
+- Hair dryer (in case your place/hotel doesn't supply one, or you have cool ideas to use it for hacking)
 
 
 ### Cosmetics
@@ -720,6 +721,7 @@ These people have contributed to improve this list for everyone (in no particula
 [46]:https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel/Reisen/reise_scheng_formular.pdf?__blob=publicationFile&v=3
 [47]:https://events.ccc.de/congress/2017/wiki/index.php?title=Code_Of_Conduct "Code of Conducti: A galactic Congress welcomes all lifeforms"
 [48]:https://www.youtube.com/watch?v=HXi1g6lueTo
+[49]:https://en.wikipedia.org/wiki/Towel_Day
 
 [100]:https://twitter.com/Astarioth
 [101]:https://twitter.com/N4mes
