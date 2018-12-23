@@ -707,7 +707,7 @@ These people have contributed to improve this list for everyone (in no particula
 [32]:https://www.youtube.com/watch?v=J0MUEqzWve8 "YouTube: B.O.O.K."
 [33]:https://www.cryptoparty.in/location "List of international CryptoParty events"
 [34]:http://www.sperr-notruf.de/
-[35]:http://www.darc.de/der-club/referate/ausland/main-page-english/visitors-to-dl/ "Bundesverband für Amateurfunk in Deutschland - License information for non-germans"
+[35]:https://www.darc.de/der-club/referate/ausland/english-version/ "Bundesverband für Amateurfunk in Deutschland - License information for non-germans"
 [36]:https://docs.google.com/spreadsheets/d/1wJwqv3rTNmORXz-XJsQaXK1dl8I91V4-eP_sfNVNzbA/edit "USB-C cable and Nexus accessories"
 [37]:https://de.wikipedia.org/wiki/Datenklo "CCC Datenklo - Akustik Koppler"
 [38]:https://cert.ccc.de/ "C3 CERT"
