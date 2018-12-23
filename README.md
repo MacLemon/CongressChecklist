@@ -325,7 +325,7 @@ Yes, there are way too many different types of USB cables, connectors and standa
 
 ##### USB-C
 Keep in mind that USB-C *only* refers to the connector, not the charging, signals and alternative modes it actually supports.
-Check out the [USB-C cable matrix][36] on what a certain manufacturer's cable actually supports.
+Check out the [USB-C cable matrix][36] (Caution, Google Doc, may be gone as well. The contents have been liberated and are availabel tracking free in the [USB-C Cable Matrix CryptPad][50]) on what a certain manufacturer's cable actually supports.
 
 - USB-C from or to micro USB adapter (To charge a phone or laptop from a powerbank)
 - USB-C to mini USB cable to connect to a micro controller or serial adapter (like FTDI)
@@ -721,6 +721,7 @@ These people have contributed to improve this list for everyone (in no particula
 [46]:https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel/Reisen/reise_scheng_formular.pdf?__blob=publicationFile&v=3
 [48]:https://www.youtube.com/watch?v=HXi1g6lueTo
 [49]:https://en.wikipedia.org/wiki/Towel_Day
+[50]:https://pads.c3w.at/pad/#/2/pad/edit/-MsZU1EAGE5+5fxDfxqlG6He/ "USB-C Cable Matrix Pad"
 
 [100]:https://twitter.com/Astarioth
 [101]:https://twitter.com/N4mes
