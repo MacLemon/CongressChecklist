@@ -31,12 +31,23 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 
 
 ## Mastodon/GNUSocial/OStatus/Fediverse
-- [@ccc@quitter.se] "CCC e.V."
-- [@chaosupdates@quitter.se] "Chaos Event Updates"
+- [@ccc@social.bau-ha.us](https://social.bau-ha.us/@ccc) **Chaos Computer Club**
+- [@ccchor@chaos.social](https://chaos.social/@ccchor) **CCC Choir**
+- [@c3woc@chaos.social](https://chaos.social/@c3woc) **Waffel Operation Center**
+- [@chaosradio@chaos.social](https://chaos.social/@chaosradio) **Chaos Radio**
+- [@c3kidspace@chaos.social](https://chaos.social/@c3kidspace) **Kidspace**
+- [@c3seidenstrasse@chaos.social](https://chaos.social/@c3seidenstrasse) **Seidenstrasse** pneumatic tube transport system.
+- [@c3nochd@chaos.social](https://chaos.social/@c3nochd) **NOC Helpdesk**
+- [@c3voc@chaos.social](https://chaos.social/@c3voc) **Video Operation Center**
+- [@c3voc_releases@chaos.social](https://chaos.social/@c3voc_releases) Release bot of the c3voc team.
+- [@hackertours@chaos.social](https://chaos.social/@hackertours) **HackerTours** Your provider of sightseeing tours for technical enthusiasts!
+- [@west@chaos.social](https://chaos.social/@west) **Chaos West**
+- [@haecksen@chaos.social](https://chaos.social/@haecksen) **Haecksen** Frauen* im CCC
+- [@spaceapi@chaos.social](https://chaos.social/@spaceapi) **Space API**
 
-[@ccc@quitter.se]:https://quitter.se/ccc "Der Chaos Computer Club ist eine galaktische Gemeinschaft von Lebewesen für Informationsfreiheit und Technikfolgenabschätzung."
-[@chaosupdates@diasp.org/u]:https://diasp.org/u/chaosupdates "Chaos Event Updates"
-
+### Bots
+- [@cccupdatesbot@mastodonten.de](https://mastodonten.de/@cccupdatesbot) retoot of [@cccupdates]
+- [@chaosupdates@diasp.org](https://diasp.org/u/chaosupdates) retoot of [@cccupdates]
 
 ## Twitter
 
