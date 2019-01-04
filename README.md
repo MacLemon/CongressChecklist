@@ -506,6 +506,7 @@ Check out the [USB-C cable matrix][36] (Caution, Google Doc, may be gone as well
 	- driving couches
 	- [driving tents][48]
 - Running gear (shirt, pants, shoes, cellphone wristlet,...) in case the [3schweinehunde](https://mobile.twitter.com/3schweinehunde) are doing a run
+- for angel work: last year's lanyard with portrait-format card holder, to reduce waste
 
 ## 🐶 If you travel with your dog
 Please check in advance if dogs are allowed at the event you want to attend. Guide dogs are usually exempt, even if dogs are not allowed.
