@@ -13,6 +13,7 @@ If you're attenting a camping event, with the great outdoors, evil daystar and f
 - [📦 Things to send](#-things-to-send)
 - [🎒 Things to pack](#-things-to-pack)
 - [🐶 If you travel with your dog](#-if-you-travel-with-your-dog)
+- [🚗 If you travel by car](#-if-you-travel-by-car)
 - [⛺️ Camp](#%EF%B8%8F-camp)
 - [🔒 Securing your devices](#-securing-your-devices)
 - [📫 Staying up-to-date](#-staying-up-to-date)
@@ -521,6 +522,15 @@ Please check in advance if dogs are allowed at the event you want to attend. Gui
 - Paperwork, guide dog license (just in case someone gets annoyingly picky)
 
 
+## 🚗 If you travel by car
+- Check out where to park your car (some hotels offer free parking if you register in advance)
+- Make sure you have the [environmental zone sticker][51] on your windshield if you're driving to a German city
+- Make sure that your car is safe to drive
+	- Check the pressure in your tires
+	- Check the engine oil and refill the windshield washer
+	- Check the expiry date of your vehicle inspection sticker (TÜV) - Be aware that the tolerance period may be different to other countries
+
+
 ## ⛺️ Camp
 - Tent
 - Sleeping bag & pillow
@@ -723,6 +733,7 @@ These people have contributed to improve this list for everyone (in no particula
 [48]:https://www.youtube.com/watch?v=HXi1g6lueTo
 [49]:https://en.wikipedia.org/wiki/Towel_Day
 [50]:https://pads.c3w.at/pad/#/2/pad/edit/-MsZU1EAGE5+5fxDfxqlG6He/ "USB-C Cable Matrix Pad"
+[51]:https://www.umweltbundesamt.de/en/topics/air/particulate-matter-pm10/low-emission-zones-in-germany "Environmental Zone Info for Germany"
 
 [100]:https://twitter.com/Astarioth
 [101]:https://twitter.com/N4mes
