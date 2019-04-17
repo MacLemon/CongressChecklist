@@ -77,7 +77,7 @@ Stuff that you're not allowed to bring on a plane or otherwise need to send via 
 - Peroxides
 - Samsung Galaxy Note 7
 - Batteries >=100Wh
-- Self Balancing Scooters (Hoverboards)
+- Self Balancing Scooters(Hoverboards), unless you remove the battery.
 - (strong) rare-earths Magnets (really small and weak magnets, like the needle of a compass, are okay)
 
 
@@ -682,6 +682,7 @@ These people have contributed to improve this list for everyone (in no particula
 - [The Compiler][143]
 - [rixx][145]
 - [@qch3n][147]
+- [@peterpoetzi][147]
 
 
 <!-- ## 🔗 Links -->
