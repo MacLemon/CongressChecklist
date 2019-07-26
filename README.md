@@ -38,7 +38,7 @@ You'll also find a list of all the nice humans who have contributed to this list
 
 ### Children
 - Tag your children with an easy way to reach you, like DECT.
-- Remeber that they might not understand why they are in this crazy place and why you need to talk to all these people.
+- Remember that they might not understand why they are in this crazy place and why you need to talk to all these people.
 - If the children are grumpy, everyone's grumpy.
 
 
