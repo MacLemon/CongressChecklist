@@ -445,7 +445,7 @@ Check out the [USB-C cable matrix][36] (Caution, Google Doc, may be gone as well
 
 
 #### CCC originated Hardware
-- [r0cket][4], fully charged (needs a micro USB cable for charging/programming)
+- [r0ket][4], fully charged (needs a micro USB cable for charging/programming)
 - [Rad1o badge][30]
 - [Datenklo][37]
 
@@ -689,7 +689,7 @@ These people have contributed to improve this list for everyone (in no particula
 [1]:https://events.ccc.de/congress/2018/wiki/Static:How_To_Survive
 [2]:https://www.eventphone.de/
 [3]:https://help.ccc.de/
-[4]:http://r0cket.de/
+[4]:http://r0ket.de/
 [5]:https://www.noisebridge.net/wiki/Passport
 [6]:https://en.wikipedia.org/wiki/Schuko
 [7]:https://itunes.apple.com/at/app/onion-browser/id519296448?l=en&mt=8
