@@ -49,6 +49,7 @@ You'll also find a list of all the nice humans who have contributed to this list
 - Send a pull request to this list for all the things I did not think of.
 - Feed the guinea pigs.
 - Water your plants.
+- Clean your coffee-machine and take out the trash.
 - When bringing credit cards and not living in Germany: call your bank and have them pre-approve payments from Germany. Otherwise, your bank may decline all purchases when they don't know you're traveling and suspect fraud.
 - Stock you pantry/freezer with some food that keeps so you have something to eat when you get home (that doesn't rely on shops/restaurants being open).
 - (optional but recommended) Create account in the [congress wiki][12], [add your projects][13] and [find your assembly][14].
