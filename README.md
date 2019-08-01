@@ -36,6 +36,11 @@ You'll also find a list of all the nice humans who have contributed to this list
 - Read the Code of Conduct and all linked documents at [help.ccc.de][3] and live by it.
 - Ask if it is ok to take a picture BEFORE taking the picture.
 
+### Children
+- Tag your children with an easy way to reach you, like DECT.
+- Remember that they might not understand why they are in this crazy place and why you need to talk to all these people.
+- If the children are grumpy, everyone's grumpy.
+
 
 ## ⏰ Things to do before traveling
 - Charge ALL the batteries!
