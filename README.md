@@ -101,6 +101,7 @@ Stuff that you're not allowed to bring on a plane or otherwise need to send via 
 
 ### Decoration
 - Bring ridiculous amounts of LED strips and other photon emitting devices so we can illuminate ALL the things.
+- Bring battery-powered LEDs/EL-wire/etc to illuminate yourself in the dark (but try not to blind others).
 
 This applies to the Congress Center as well as your hotel windows.
 
