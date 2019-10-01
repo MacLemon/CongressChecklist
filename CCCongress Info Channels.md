@@ -44,6 +44,7 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 - [@west@chaos.social](https://chaos.social/@west) **Chaos West**
 - [@haecksen@chaos.social](https://chaos.social/@haecksen) **Haecksen** Frauen* im CCC
 - [@spaceapi@chaos.social](https://chaos.social/@spaceapi) **Space API**
+- [@c3infodek@chaos.social](https://chaos.social/@c3infodek) **Infodesk** Providing information
 
 ### Bots
 - [@cccupdatesbot@mastodonten.de](https://mastodonten.de/@cccupdatesbot) retoot of [@cccupdates]
