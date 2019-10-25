@@ -90,6 +90,7 @@ Stuff that you're not allowed to bring on a plane or otherwise need to send via 
 ### Not allowed or often problematic on flights, or at least not in hand-lagguage
 - All kind of blades
   - Knives, even small pocket knives
+  - This includes nail files over 6cm, for some reason
 - Lockpicking equipment
 - Handcuffs
 
