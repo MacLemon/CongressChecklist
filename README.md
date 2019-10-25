@@ -335,7 +335,7 @@ Yes, there are way too many different types of USB cables, connectors and standa
 
 ##### USB-C
 Keep in mind that USB-C *only* refers to the connector, not the charging, signals and alternative modes it actually supports.
-Check out the [USB-C cable matrix][36] (Caution, Google Doc, may be gone as well. The contents have been liberated and are availabel tracking free in the [USB-C Cable Matrix CryptPad][50]) on what a certain manufacturer's cable actually supports.
+Check out the [USB-C cable matrix][36] (Caution, Google Doc, may be gone as well. The contents have been liberated and are available tracking free in the [USB-C Cable Matrix CryptPad][50]) on what a certain manufacturer's cable actually supports.
 
 - USB-C from or to micro USB adapter (To charge a phone or laptop from a powerbank)
 - USB-C to mini USB cable to connect to a micro controller or serial adapter (like FTDI)
@@ -366,7 +366,7 @@ Check out the [USB-C cable matrix][36] (Caution, Google Doc, may be gone as well
     - m/m
     - f/f
 - RJ11 to connect to an analog modem or DSL line
-- TAE to RJ11 adapter or cable to connect to a phone network outlet (There are different TAE plugs for Germany and Austria which are not interchangable)
+- TAE to RJ11 adapter or cable to connect to a phone network outlet (There are different TAE plugs for Germany and Austria which are not interchangeable)
 - SATA, eSATA cables
 - Your trusty VT100
 
@@ -408,7 +408,7 @@ Check out the [USB-C cable matrix][36] (Caution, Google Doc, may be gone as well
 		- for your day-to-day SIM card
 		- for an optional SIM card of the country you travel to
 		- for a local GSM network at the venue,
-	- DECT phone (for the local wireless phone network avilable at many CCC events)
+	- DECT phone (for the local wireless phone network available at many CCC events)
         - Be sure to register your extension number at [Eventphone][2] prior to the event.
         - Check if your DECT model is [compatible with Eventphone][31]
 - SIM cards (your usual one,european SIM [no roaming fees inside EU], CCC SIM)
@@ -477,7 +477,7 @@ Check out the [USB-C cable matrix][36] (Caution, Google Doc, may be gone as well
     - + USB Keyboard
     - + USB Rodent
     - + HDMI cable to connect a display
-- Pocket knife ([Conforming to the German Weapons Act:][29] Blade must not exceed 12cm; Folding knifes with locking blades must not be designed to be opened with one hand. Also, “thrusting weapons” such as daggers, stilettos, swords etc. are restricted items.)
+- Pocket knife ([Conforming to the German Weapons Act:][29] Blade must not exceed 12cm; Folding knives with locking blades must not be designed to be opened with one hand. Also, “thrusting weapons” such as daggers, stilettos, swords etc. are restricted items.)
     - Swiss knife
     - Victorinox cybertool
     - Leatherman (check for one-handed opening mechanisms, such as thumb holes or studs)
@@ -717,7 +717,7 @@ These people have contributed to improve this list for everyone (in no particula
 [20]:https://events.ccc.de/congress/2018/Fahrplan/ "35C3 Fahrplan aka conference schedule"
 [21]:https://www.organspende-info.de
 [22]:https://play.google.com/store/apps/details?id=com.googlecode.droidwall.free
-[24]:https://wifipineapple.com/ "WiFi Pinapple"
+[24]:https://wifipineapple.com/ "WiFi Pineapple"
 [25]:https://greatscottgadgets.com/throwingstar/ "Throwing star"
 [26]:https://play.google.com/store/apps/details?id=info.metadude.android.congress.schedule
 [27]:https://github.com/EventFahrplan/EventFahrplan
