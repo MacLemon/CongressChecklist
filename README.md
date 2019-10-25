@@ -224,7 +224,7 @@ Check the expiry date of the meds you bring.
 
 #### Personal medication
 Your personal medication does not belong on the public interwebs for your privacy. This is just a reminder to pack it. Please do not include your personal medications in pull requests. :-)
-If you need refrigeration for your personal medication, that is possible at the [C3 CERT][38]on site.
+If you need refrigeration for your personal medication, that is possible at the [C3 CERT][38] on site.
 Pack some reserves of your medication. Better to have too much than not enough with you ;-)
 Some meds require papers to be allowed legally in some countries, don't forget those to spare yourself unnecessary hassle by authorities. In Germany these are all drugs listed in [Appendix III][44] to the [Betäubungsmittelgesetz][45] (e.g. ritalin, medical uses of marihuana). You need [this form][46], filled out and signed by your local doctor.
 
@@ -471,12 +471,12 @@ Check out the [USB-C cable matrix][36] (Caution, Google Doc, may be gone as well
 - replacement plush cushions for headphones
 - Neck cushion (for long journeys)
 - All your devices!!1 ((Raspberry|Orange|Banana) Pi, Arduino, FreedomBox, DreamPlug, …)
-	- + cables + SD-cards (+ GPIO equipment)
-	- + extra WiFi antenna (USB) and/or extra Ethernet cord
-    - + WiFi Dongle (USB)
-    - + USB Keyboard
-    - + USB Rodent
-    - + HDMI cable to connect a display
+	- \+ cables + SD-cards (+ GPIO equipment)
+	- \+ extra WiFi antenna (USB) and/or extra Ethernet cord
+    - \+ WiFi Dongle (USB)
+    - \+ USB Keyboard
+    - \+ USB Rodent
+    - \+ HDMI cable to connect a display
 - Pocket knife ([Conforming to the German Weapons Act:][29] Blade must not exceed 12cm; Folding knives with locking blades must not be designed to be opened with one hand. Also, “thrusting weapons” such as daggers, stilettos, swords etc. are restricted items.)
     - Swiss knife
     - Victorinox cybertool
