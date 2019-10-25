@@ -703,7 +703,7 @@ These people have contributed to improve this list for everyone (in no particula
 [7]:https://itunes.apple.com/at/app/onion-browser/id519296448?l=en&mt=8
 [orbot]:https://guardianproject.info/apps/orbot/
 [8]:https://en.wikipedia.org/wiki/Euro_plug
-[9]:https://github.com/apenwarr/sshuttle
+[9]:https://github.com/sshuttle/sshuttle
 [10]:https://www.blau.de/
 [11]:https://en.wikipedia.org/wiki/Sim_card#Formats "SIM card formats"
 [12]:https://events.ccc.de/congress/2018/wiki/
