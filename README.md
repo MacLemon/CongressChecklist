@@ -34,7 +34,7 @@ You'll also find a list of all the nice humans who have contributed to this list
 - If you don't want to be called $swearword, don't behave like one.
 - Help each other out.
 - Read the Code of Conduct and all linked documents at [help.ccc.de][3] and live by it.
-- Ask if it is ok to take a picture BEFORE taking the picture.
+- Ask if it is OK to take a picture BEFORE taking the picture.
 
 ### Children
 - Tag your children with an easy way to reach you, like DECT.
@@ -50,7 +50,7 @@ You'll also find a list of all the nice humans who have contributed to this list
 - You might want to empty your drives to make room for some COMPLETELY LEGAL media files that might be shared.
 - Put your name on your stuff, especially on things you’ll likely lend to someone (power strips, cables etc). Twitter handles make excellent name tags because people know how to contact you right away. Prefer permanent markers over stickers, for theft reasons.
 - You DID make backups of all your devices, didn't you? That includes portable computers, servers, mobile phones, tablets, navigation devices, wrist watches and all your other $gadgets.
-- Store the backups not only on the device you're backing up or another device you’re taking with you. A swiss bank locker is good, if you have one.
+- Store the backups not only on the device you're backing up or another device you’re taking with you. A Swiss bank locker is good, if you have one.
 - Send a pull request to this list for all the things I did not think of.
 - Feed the guinea pigs.
 - Water your plants.
@@ -75,7 +75,7 @@ Stuff that you're not allowed to bring on a plane or otherwise need to send via 
 - Butane cartridges
 - Propane cartridges
 - Radioactive medication
-- Toxics
+- Anything toxic
 - Lead acid batteries
 - Mercury (Quecksilber)
 - Acids
@@ -83,18 +83,18 @@ Stuff that you're not allowed to bring on a plane or otherwise need to send via 
 - Peroxides
 - Samsung Galaxy Note 7
 - Batteries >=100Wh
-- Self Balancing Scooters(Hoverboards), unless you remove the battery.
-- (strong) rare-earths Magnets (really small and weak magnets, like the needle of a compass, are okay)
+- Self-balancing scooters (hoverboards), unless you remove the battery.
+- (Strong) rare-earth magnets (really small and weak magnets, like the needle of a compass, are okay)
 
 
-### Not allowed or often problematic on flights, or at least not in hand-lagguage
+### Not allowed or often problematic on flights, or at least not in hand luggage
 - All kind of blades
   - Knives, even small pocket knives
 - Lockpicking equipment
 - Handcuffs
 
 
-### Items *only* allowed to be carried *on your body*, but *neither* in checked in luggage nor hand-lagguage.
+### Items *only* allowed to be carried *on your body*, but *neither* in checked in luggage nor hand luggage.
 - Small lighters (one per person)
 
 ## 🎒 Things to pack
@@ -145,7 +145,7 @@ If you're in an emergency shout *HELP!*
 
 If you need help, call for help, there are many, many friendly people around to help you.
 
-Event and location related emergency information is in a seperate document for the corresponding event in this repository! You may want to copy that info to a notes application on your smartphone or have a printed card in your wallet.
+Event and location related emergency information is in a separate document for the corresponding event in this repository! You may want to copy that info to a notes application on your smartphone or have a printed card in your wallet.
 
 
 
@@ -154,7 +154,7 @@ Event and location related emergency information is in a seperate document for t
 - Toothpaste
 - Dental floss
 - Shower gel
-- Flip Flops for shared showers
+- Flip-flops for shared showers
 - Shampoo (to avoid bad hair days)
 - Conditioner
 - Tampons
@@ -191,7 +191,7 @@ Event and location related emergency information is in a seperate document for t
 - Shaving soap
 - Shaving brush
 - Lipstick/lipgloss
-- Lipbalm
+- Lip balm
 - Tweezers
 - Cotton swabs (Wattestäbchen)
 - Make up remover pads
@@ -203,7 +203,7 @@ Check the expiry date of the meds you bring.
 
 
 #### Personal Hygiene ####
-- Hand desinfectant, yet always wash your hands
+- Hand disinfectant, yet always wash your hands
 
 
 #### Generic medication
@@ -234,7 +234,7 @@ Come as you are, as a friend.
 - At least ONE set of clean underwear for each day you stay, plus two for traveling to and from congress (Doesn't necessarily need to be in matching pairs, but that is up to you.)
 - At least ONE pair of clean socks/stockings/tights/overknees for each day you stay, plus two for traveling to and from congress (again, matching pairs optional)
 - Enough pants/skirts/trousers/dresses/etc. so you can wear clean clothes every day you attend congress (even if somebody accidentally (or intentionally) spills a beverage all over you!)
-- Cycling Shorts. You will walk, a lot. Prevent chafing your thighs.
+- Cycling shorts. You will walk, a lot. Prevent chafing your thighs.
 - Sewing set (needle, thread, spare button for your trousers/skirts/shirts/blouses/etc.)
 - Long sleeve shirts
 - Hoodies, pullovers, zippers, vests (it's cold outside!)
@@ -334,7 +334,7 @@ Yes, there are way too many different types of USB cables, connectors and standa
 
 ##### USB-C
 Keep in mind that USB-C *only* refers to the connector, not the charging, signals and alternative modes it actually supports.
-Check out the [USB-C cable matrix][36] (Caution, Google Doc, may be gone as well. The contents have been liberated and are availabel tracking free in the [USB-C Cable Matrix CryptPad][50]) on what a certain manufacturer's cable actually supports.
+Check out the [USB-C cable matrix][36] (Caution, Google Doc, may be gone as well. The contents have been liberated and are available tracking free in the [USB-C Cable Matrix CryptPad][50]) on what a certain manufacturer's cable actually supports.
 
 - USB-C from or to micro USB adapter (To charge a phone or laptop from a powerbank)
 - USB-C to mini USB cable to connect to a micro controller or serial adapter (like FTDI)
@@ -410,7 +410,7 @@ Check out the [USB-C cable matrix][36] (Caution, Google Doc, may be gone as well
 	- DECT phone (for the local wireless phone network avilable at many CCC events)
         - Be sure to register your extension number at [Eventphone][2] prior to the event.
         - Check if your DECT model is [compatible with Eventphone][31]
-- SIM cards (your usual one,european SIM [no roaming fees inside EU], CCC SIM)
+- SIM cards (your usual one, european SIM [no roaming fees inside EU], CCC SIM)
 - Apple certified SIM eject tool™ (aka bent paperclip) to swap SIM cards
 
 - Smart Watches
@@ -542,7 +542,7 @@ Please check in advance if dogs are allowed at the event you want to attend. Gui
 ## ⛺️ Camp
 - Tent
 - Sleeping bag & pillow
-- Air-matress
+- Air mattress
 - Water proof clothing
 - 230V/16A(*blue*)-to-your-country adaptor & extension (single phase)
 - 230V/32A(*red*)-to-your-country adaptor & extensions (3-phase)
@@ -588,7 +588,7 @@ Check that _all_ your server services are using proper TLS. See [bettercrypto.or
 
 
 ### VPN tunnel
-Have at least one trusted, working and tested VPN endpoint available for tunneling out of the congress network. If you don't have your own VPN server at your disposal ask friends you trust to help you out. If you do, ask your friends if they need a VPN endpoint and share!
+Have at least one trusted, working and tested VPN endpoint available for tunneling out of the congress network. If you don't have your own VPN server at your disposal, ask friends you trust to help you out. If you do, ask your friends if they need a VPN endpoint and share!
 
 - [WireGuard][146]
 - [OpenVPN][16]
@@ -605,7 +605,7 @@ Also have those tunnels configured on ALL the devices you intend to use on the l
 
 
 ### Phones
-It is not recommended to connect your smartphone to the congress wifi, if you still can't resist, here are a few things to consider:
+It is not recommended to connect your smartphone to the congress wifi -- if you still can't resist, here are a few things to consider:
 
 - Make sure that it's **not a 802.11b** device, as it would slow down the complete wifi network.
 - Disable all synchronization services, as they might be using plaintext.
@@ -616,13 +616,13 @@ It is not recommended to connect your smartphone to the congress wifi, if you st
 - Use a VPN tunnel if possible.
 - Use a Firewall and only allow the (few) services you trust.
 	- [DroidWall][22] for Android (root required)
-- If you don't have a VPN tunnel available, you can use [OnionBrowser][7] (iOS) or [Orbot][orbot] (Android) to surf via tor (which may be it's own kind of risk).
+- If you don't have a VPN tunnel available, you can use [OnionBrowser][7] (iOS) or [Orbot][orbot] (Android) to surf via Tor (which may be its own kind of risk).
 - Set your GSM network selection to **manual** or you might end up connected to a rogue GSM network.
 
 **If you are unsure** if there are still some services transmitting plaintext data, **do not connect**.
 
 
-### PrePaid SIM Cards
+### Pre-paid SIM Cards
 Make sure you get a [right sized SIM card][11] for your GSM mobile phone!
 If you need help with buying a SIM card, ask a local for assistance. They're friendly!
 
@@ -690,6 +690,7 @@ These people have contributed to improve this list for everyone (in no particula
 - [rixx][145]
 - [@qch3n][147]
 - [@peterpoetzi][147]
+- [iwonder][148]
 
 
 <!-- ## 🔗 Links -->
@@ -792,3 +793,4 @@ These people have contributed to improve this list for everyone (in no particula
 [145]:https://github.com/rixx
 [146]:https://www.wireguard.com/
 [147]:https://twitter.com/qch3n/
+[148]:https://mastodon.social/@iwonder
