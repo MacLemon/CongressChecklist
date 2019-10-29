@@ -90,6 +90,7 @@ Stuff that you're not allowed to bring on a plane or otherwise need to send via 
 ### Not allowed or often problematic on flights, or at least not in hand-lagguage
 - All kind of blades
   - Knives, even small pocket knives
+  - This includes nail files over 6cm, for some reason
 - Lockpicking equipment
 - Handcuffs
 
@@ -223,7 +224,7 @@ Check the expiry date of the meds you bring.
 
 #### Personal medication
 Your personal medication does not belong on the public interwebs for your privacy. This is just a reminder to pack it. Please do not include your personal medications in pull requests. :-)
-If you need refrigeration for your personal medication, that is possible at the [C3 CERT][38]on site.
+If you need refrigeration for your personal medication, that is possible at the [C3 CERT][38] on site.
 Pack some reserves of your medication. Better to have too much than not enough with you ;-)
 Some meds require papers to be allowed legally in some countries, don't forget those to spare yourself unnecessary hassle by authorities. In Germany these are all drugs listed in [Appendix III][44] to the [Betäubungsmittelgesetz][45] (e.g. ritalin, medical uses of marihuana). You need [this form][46], filled out and signed by your local doctor.
 
@@ -334,7 +335,7 @@ Yes, there are way too many different types of USB cables, connectors and standa
 
 ##### USB-C
 Keep in mind that USB-C *only* refers to the connector, not the charging, signals and alternative modes it actually supports.
-Check out the [USB-C cable matrix][36] (Caution, Google Doc, may be gone as well. The contents have been liberated and are availabel tracking free in the [USB-C Cable Matrix CryptPad][50]) on what a certain manufacturer's cable actually supports.
+Check out the [USB-C cable matrix][36] (Caution, Google Doc, may be gone as well. The contents have been liberated and are available tracking free in the [USB-C Cable Matrix CryptPad][50]) on what a certain manufacturer's cable actually supports.
 
 - USB-C from or to micro USB adapter (To charge a phone or laptop from a powerbank)
 - USB-C to mini USB cable to connect to a micro controller or serial adapter (like FTDI)
@@ -365,7 +366,7 @@ Check out the [USB-C cable matrix][36] (Caution, Google Doc, may be gone as well
     - m/m
     - f/f
 - RJ11 to connect to an analog modem or DSL line
-- TAE to RJ11 adapter or cable to connect to a phone network outlet (There are different TAE plugs for Germany and Austria which are not interchangable)
+- TAE to RJ11 adapter or cable to connect to a phone network outlet (There are different TAE plugs for Germany and Austria which are not interchangeable)
 - SATA, eSATA cables
 - Your trusty VT100
 
@@ -407,7 +408,7 @@ Check out the [USB-C cable matrix][36] (Caution, Google Doc, may be gone as well
 		- for your day-to-day SIM card
 		- for an optional SIM card of the country you travel to
 		- for a local GSM network at the venue,
-	- DECT phone (for the local wireless phone network avilable at many CCC events)
+	- DECT phone (for the local wireless phone network available at many CCC events)
         - Be sure to register your extension number at [Eventphone][2] prior to the event.
         - Check if your DECT model is [compatible with Eventphone][31]
 - SIM cards (your usual one,european SIM [no roaming fees inside EU], CCC SIM)
@@ -470,13 +471,13 @@ Check out the [USB-C cable matrix][36] (Caution, Google Doc, may be gone as well
 - replacement plush cushions for headphones
 - Neck cushion (for long journeys)
 - All your devices!!1 ((Raspberry|Orange|Banana) Pi, Arduino, FreedomBox, DreamPlug, …)
-	- + cables + SD-cards (+ GPIO equipment)
-	- + extra WiFi antenna (USB) and/or extra Ethernet cord
-    - + WiFi Dongle (USB)
-    - + USB Keyboard
-    - + USB Rodent
-    - + HDMI cable to connect a display
-- Pocket knife ([Conforming to the German Weapons Act:][29] Blade must not exceed 12cm; Folding knifes with locking blades must not be designed to be opened with one hand. Also, “thrusting weapons” such as daggers, stilettos, swords etc. are restricted items.)
+	- \+ cables + SD-cards (+ GPIO equipment)
+	- \+ extra WiFi antenna (USB) and/or extra Ethernet cord
+    - \+ WiFi Dongle (USB)
+    - \+ USB Keyboard
+    - \+ USB Rodent
+    - \+ HDMI cable to connect a display
+- Pocket knife ([Conforming to the German Weapons Act:][29] Blade must not exceed 12cm; Folding knives with locking blades must not be designed to be opened with one hand. Also, “thrusting weapons” such as daggers, stilettos, swords etc. are restricted items.)
     - Swiss knife
     - Victorinox cybertool
     - Leatherman (check for one-handed opening mechanisms, such as thumb holes or studs)
@@ -702,7 +703,7 @@ These people have contributed to improve this list for everyone (in no particula
 [7]:https://itunes.apple.com/at/app/onion-browser/id519296448?l=en&mt=8
 [orbot]:https://guardianproject.info/apps/orbot/
 [8]:https://en.wikipedia.org/wiki/Euro_plug
-[9]:https://github.com/apenwarr/sshuttle
+[9]:https://github.com/sshuttle/sshuttle
 [10]:https://www.blau.de/
 [11]:https://en.wikipedia.org/wiki/Sim_card#Formats "SIM card formats"
 [12]:https://events.ccc.de/congress/2018/wiki/
@@ -716,7 +717,7 @@ These people have contributed to improve this list for everyone (in no particula
 [20]:https://events.ccc.de/congress/2018/Fahrplan/ "35C3 Fahrplan aka conference schedule"
 [21]:https://www.organspende-info.de
 [22]:https://play.google.com/store/apps/details?id=com.googlecode.droidwall.free
-[24]:https://wifipineapple.com/ "WiFi Pinapple"
+[24]:https://wifipineapple.com/ "WiFi Pineapple"
 [25]:https://greatscottgadgets.com/throwingstar/ "Throwing star"
 [26]:https://play.google.com/store/apps/details?id=info.metadude.android.congress.schedule
 [27]:https://github.com/EventFahrplan/EventFahrplan
