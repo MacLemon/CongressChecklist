@@ -696,7 +696,7 @@ These people have contributed to improve this list for everyone (in no particula
 
 <!-- ## 🔗 Links -->
 [1]:https://events.ccc.de/congress/2018/wiki/Static:How_To_Survive
-[2]:https://www.eventphone.de/
+[2]:https://guru3.eventphone.de/
 [3]:https://help.ccc.de/
 [4]:http://r0ket.de/
 [5]:https://www.noisebridge.net/wiki/Passport
@@ -725,7 +725,7 @@ These people have contributed to improve this list for everyone (in no particula
 [28]:https://itunes.apple.com/us/app/30c3-fahrplan-30c3-event-organizer/id764609606?mt=8
 [29]:http://en.wikipedia.org/wiki/Knife_legislation#Germany
 [30]:https://rad1o.badge.events.ccc.de/ "Rad1o Badge, CCCamp 2015"
-[31]:https://eventphone.de/doku/dect_phone_compatibility_list_v2:start "Eventphone DECT handset compatibility list v2"
+[31]:https://eventphone.de/doku/dect_phone_compatibility_list "Eventphone DECT handset compatibility list"
 [32]:https://www.youtube.com/watch?v=J0MUEqzWve8 "YouTube: B.O.O.K."
 [33]:https://www.cryptoparty.in/location "List of international CryptoParty events"
 [34]:http://www.sperr-notruf.de/
