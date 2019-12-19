@@ -695,7 +695,7 @@ These people have contributed to improve this list for everyone (in no particula
 
 
 <!-- ## 🔗 Links -->
-[1]:https://events.ccc.de/congress/2018/wiki/Static:How_To_Survive
+[1]:https://events.ccc.de/congress/2019/wiki/Static:Information_Security
 [2]:https://www.eventphone.de/
 [3]:https://help.ccc.de/
 [4]:http://r0ket.de/
@@ -707,15 +707,15 @@ These people have contributed to improve this list for everyone (in no particula
 [9]:https://github.com/sshuttle/sshuttle
 [10]:https://www.blau.de/
 [11]:https://en.wikipedia.org/wiki/Sim_card#Formats "SIM card formats"
-[12]:https://events.ccc.de/congress/2018/wiki/
-[13]:https://events.ccc.de/congress/2018/wiki/Static:Projects
-[14]:https://events.ccc.de/congress/2018/wiki/Static:Assemblies
+[12]:https://events.ccc.de/congress/2019/wiki/
+[13]:https://events.ccc.de/congress/2019/wiki/Static:Projects
+[14]:https://events.ccc.de/congress/2019/wiki/Static:Assemblies
 [15]:https://bettercrypto.org/ "Better Crypto"
 [16]:https://openvpn.net/ "OpenVPN"
 [17]:http://code.kryo.se/iodine/ "iodine"
 [18]:http://openssh.org/ "OpenSSH"
 [19]:https://www.torproject.org/ "Tor Project"
-[20]:https://events.ccc.de/congress/2018/Fahrplan/ "35C3 Fahrplan aka conference schedule"
+[20]:https://fahrplan.events.ccc.de/congress/2019/Fahrplan/ "36C3 Fahrplan aka conference schedule"
 [21]:https://www.organspende-info.de
 [22]:https://play.google.com/store/apps/details?id=com.googlecode.droidwall.free
 [24]:https://wifipineapple.com/ "WiFi Pineapple"
