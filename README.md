@@ -456,6 +456,7 @@ Check out the [USB-C cable matrix][36] (Caution, Google Doc, may be gone as well
 - [r0ket][4], fully charged (needs a micro USB cable for charging/programming)
 - [Rad1o badge][30]
 - [Datenklo][37]
+- [card10]
 
 
 #### Other
@@ -745,6 +746,7 @@ These people have contributed to improve this list for everyone (in no particula
 [49]:https://en.wikipedia.org/wiki/Towel_Day
 [50]:https://pads.c3w.at/pad/#/2/pad/edit/-MsZU1EAGE5+5fxDfxqlG6He/ "USB-C Cable Matrix Pad"
 [51]:https://www.umweltbundesamt.de/en/topics/air/particulate-matter-pm10/low-emission-zones-in-germany "Environmental Zone Info for Germany"
+[52]:https://card10.badge.events.ccc.de "CCC Card10 Badge"
 
 [100]:https://twitter.com/Astarioth
 [101]:https://twitter.com/N4mes
