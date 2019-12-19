@@ -362,9 +362,9 @@ Check out the [USB-C cable matrix][36] (Caution, Google Doc, may be gone as well
 - Null Modem cable
 - Level shifter for 5V or 3.3V serial connections like on embedded or SoC boards
 - Patch wires to connect to micro controllers and embedded systems
-    - f/m
-    - m/m
-    - f/f
+    - socket/plug
+    - plug/plug
+    - socket/socket
 - RJ11 to connect to an analog modem or DSL line
 - TAE to RJ11 adapter or cable to connect to a phone network outlet (There are different TAE plugs for Germany and Austria which are not interchangeable)
 - SATA, eSATA cables
@@ -389,7 +389,8 @@ Check out the [USB-C cable matrix][36] (Caution, Google Doc, may be gone as well
 - SFP, SFP+ module (copper or fibre)
 - 1-100Gigabit Ethernet Switch
 - Splicing equipment
-- Ethernet cords (Cat5e) of multiple lengths (bring a spare to tether a friend)
+- Ethernet cords (Cat5e/Cat6) of multiple lengths (bring a spare to tether a friend)
+- Datenklo for Dial-Up over Fieldphone
 
 
 ##### Audio
@@ -400,6 +401,7 @@ Check out the [USB-C cable matrix][36] (Caution, Google Doc, may be gone as well
 - XLR gender changer or coupler
 - Large or 3.5mm audio jack to cinch/RCA
 - S/PDIF or Toslink optical cables
+- Wired or wireless headphones so you can space out while the world around you is too loud.
 
 
 #### Mobile and Communications
@@ -449,14 +451,40 @@ Check out the [USB-C cable matrix][36] (Caution, Google Doc, may be gone as well
 - A recording device
 	- Charger
 	- Extra batteries (and check you charged them)
-	- Connector cables
+	- Connector cables (¼″/6.3mm audio jack mono/unbalanced or stereo/balanced)
+    - XLR cables
 
 
 #### CCC originated Hardware
 - [r0ket][4], fully charged (needs a micro USB cable for charging/programming)
 - [Rad1o badge][30]
 - [Datenklo][37]
-- [card10]
+- [card10][52]
+
+#### RC models
+There may be an RC racetrack on site or some other suitable spot to drive or fly your RCs.
+There maybe children roaming around, so please RC responsibly. Also no flying over humans.
+- Electric vehicles are fine, espescially indoors
+- Refrain from nitro/gas/fuel burning vehicles
+- bike, trike, quad, Car, Drifter, Monster-Truck, Buggy, Truggy, Short-Course, Crawler, Trailer-Truck
+- Any scale is fine
+- Gliders, boats, multi-rotors, helicopters, ducks, shops, submarine, whatevery you like
+- Chargers for your vehicle batteries
+- Chargers for your transmitter batteries
+- LiPo safety gear, we don't want to cause a smelly fire
+- All the necessary cables
+    - Maybe an adapter from the connectors you use to other common connectors
+    - Tamiya plug
+    - XT30, XT60, XT90
+    - Deans
+- The usual tools you need for maintenance and the occasional repair
+- Transmitter (and a few pairs of crystals if you run analog FM/AM gear)
+    - Check that the frequencies used are legal in your destination country
+    - 2.4GHz digital should be fine almost everywhere
+    - 27MHz, 40MHz are legal for surface vehicles in AT, DE
+    - 35MHz is legal for flying models in AT, DE
+- Inform yourselves if you need a kind of permit for flying with a camera/FPV (AT)
+
 
 
 #### Other
@@ -510,10 +538,12 @@ Check out the [USB-C cable matrix][36] (Caution, Google Doc, may be gone as well
 - A reusable bottle to stay hydrated (German tap water is drinking water unless specified otherwise)
 - Camping cutlery (or spork) to reduce on plastic waste on site and for takeaway/supermarket food
 - Easy snacks such as nuts or granola bars (Events like these are often hectic and sometimes it's easy to forget to eat. If you need food to take medications, make sure to always have snacks with you)
+
+Please drive responsibly on site! We don't want anyone to end up injured.
 - Personal Mobility Device - like:
 	- roller skates
 	- scooter
-	- mate cases
+	- mate crates
 	- driving couches
 	- [driving tents][48]
 - Running gear (shirt, pants, shoes, cellphone wristlet,...) in case the [3schweinehunde](https://twitter.com/3schweinehunde) are doing a run
@@ -533,6 +563,7 @@ Please check in advance if dogs are allowed at the event you want to attend. Gui
 
 
 ## 🚗 If you travel by car
+Please consider ride-sharing or consolidating all your boxes into one transporter and take a train instead.
 - Check out where to park your car (some hotels offer free parking if you register in advance)
 - Make sure you have the [environmental zone sticker][51] on your windshield if you're driving to a German city
 - Make sure that your car is safe to drive
@@ -628,7 +659,10 @@ It is not recommended to connect your smartphone to the congress wifi -- if you 
 Make sure you get a [right sized SIM card][11] for your GSM mobile phone!
 If you need help with buying a SIM card, ask a local for assistance. They're friendly!
 
-- [Blau.de][10]
+Since citizens from the EU can now use their dataplan while roaming within the EU, consider using that if you can. Keep in mind that you may travel through countries that are not part of the EU where you may get charged enormous amounts. You want to turn off mobile data while travelling through those countries.
+
+These SIM cards have proven to work well if you need one. When in doubt, ask people who are local to the country of the venue. They surely can recommend a good prepaid SIM to get.
+- [Blau.de][10] (Germany)
 
 
 ## 📫 Staying up-to-date
