@@ -48,7 +48,7 @@ You'll also find a list of all the nice humans who have contributed to this list
 - Bonus points for even testing restore.
 - Update all the software on your devices.
 - You might want to empty your drives to make room for some COMPLETELY LEGAL media files that might be shared.
-- Put your name on your stuff, especially on things you’ll likely lend to someone (power strips, cables etc). Twitter handles make excellent name tags because people know how to contact you right away. Prefer permanent markers over stickers, for theft reasons.
+- Put your name on your stuff, especially on things you’ll likely lend to someone (power strips, cables etc). Mastodon handles make excellent name tags because people know how to contact you right away. Prefer permanent markers over stickers, for theft reasons.
 - You DID make backups of all your devices, didn't you? That includes portable computers, servers, mobile phones, tablets, navigation devices, wrist watches and all your other $gadgets.
 - Store the backups not only on the device you're backing up or another device you’re taking with you. A Swiss bank locker is good, if you have one.
 - Send a pull request to this list for all the things I did not think of.
@@ -259,7 +259,7 @@ Come as you are, as a friend.
 
 
 ### Gear
-Label ALL your gear in a consistent manner. (Twitter handle and DECT numbers have proven to be working well.)
+Label ALL your gear in a consistent manner. (Mastodon handle and DECT numbers have proven to be working well.)
 In case something gets lost it can find its way back to you.
 
 
@@ -297,7 +297,7 @@ For travelling abroad there is a handy [World Electrical Plug & Socket Map][40]
 - Laptop (with a working battery)
         - Maybe clean display and keyboard while you're at it ;-)
 - USB flash drives
-	- Put an OWNER.txt file on them with information on how to contact you in case one gets lost accidentally. (Twitter, phone (for example DECT, 33C3 GSM extensions), email, name of the assembly you're well known at, owl, raven)
+	- Put an OWNER.txt file on them with information on how to contact you in case one gets lost accidentally. (Mastodon, phone (for example DECT, 33C3 GSM extensions), email, name of the assembly you're well known at, owl, raven)
 	- For devices with private information be sure to encrypt them! (VeraCrypt, GPG, FileVault, EncFS, Bitlocker, gbde, geli, dm-crypt, LUKS, eCryptFS)
         - Make a GPT Label or Volume label with your online nickname or handle because people can't read your owner.txt file on encrypted devices. You may also create multiple partitions (plaintext and encrypted ones).
 	- If physically possible, add an actual label (just write on it/add a tag) with your nick on it – many people will be rightfully hesitant to plug in a found USB stick.
@@ -515,7 +515,7 @@ Check out the [USB-C cable matrix][36] (Caution, Google Doc, may be gone as well
 	- mate cases
 	- driving couches
 	- [driving tents][48]
-- Running gear (shirt, pants, shoes, cellphone wristlet,...) in case the [3schweinehunde](https://mobile.twitter.com/3schweinehunde) are doing a run
+- Running gear (shirt, pants, shoes, cellphone wristlet,...) in case the [3schweinehunde](https://twitter.com/3schweinehunde) are doing a run
 - for angel work: last year's lanyard with portrait-format card holder, to reduce waste
 
 ## 🐶 If you travel with your dog
@@ -631,7 +631,7 @@ If you need help with buying a SIM card, ask a local for assistance. They're fri
 
 
 ## 📫 Staying up-to-date
-Most events publish a lot of information about events as they happen. There are many ways to stay in the loop during the event or in between by subscribing to RSS feeds, Twitter accounts, mailing lists and even newsletters [sic].
+Most events publish a lot of information about events as they happen. There are many ways to stay in the loop during the event or in between by subscribing to RSS feeds, Twitter accounts, Mastodon accounts, mailing lists and even newsletters [sic].
 For a list of CCC related news sources you may be interested in following, see 'CCCongress Info Channels.md' in this repository.
 
 ## 🔙 For when you return home
