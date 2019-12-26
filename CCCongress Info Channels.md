@@ -17,7 +17,7 @@ Please use local DECT/GSM/SIP/… for calls, otherwise you might reach public em
 ### Organisation
 - [CCC Event Weblog](https://events.ccc.de/) ([RSS](https://events.ccc.de/feed/)): provides current information on all
   organizational issues and announcements, worth following for every attendee.
-- [Chaos Emergency Response Team](https://cert.ccc.de/): The CERT team wiki, lists members and explains operating
+- [CERT](https://cert.ccc.de/): The Chaos Emergency Response Team wiki, lists members and explains operating
   procedures.
 - [List of official support channels](https://help.ccc.de/index.en.html)
 
@@ -44,7 +44,8 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 - [@west@chaos.social](https://chaos.social/@west) **Chaos West**
 - [@haecksen@chaos.social](https://chaos.social/@haecksen) **Haecksen** Frauen* im CCC
 - [@spaceapi@chaos.social](https://chaos.social/@spaceapi) **Space API**
-- [@c3infodek@chaos.social](https://chaos.social/@c3infodek) **Infodesk** Providing information
+- [@c3infodesk@chaos.social](https://chaos.social/@c3infodesk) **Infodesk** Providing information
+- [@c3cert@chaos.social](https://chaos.social/@c3cert) **CERT** Providing medical and firefighting support
 
 ### Bots
 - [@cccupdatesbot@mastodonten.de](https://mastodonten.de/@cccupdatesbot) retoot of [@cccupdates]
@@ -64,7 +65,7 @@ There is [a list containing all the C3 associated Twitter accounts][twitterlist]
 - @[c3bar] Bar Operation Center - Department of Tschunk Quality Assurance
 - @[c3bass] C3 Low Frequency Longitudinal Wave Operations Center
 - @[c3bottles] Collect ALL the bottles!
-- @[c3cert] Chaos Emergency Response Team
+- @[c3cert] CERT - Providing medical and firefighting support
 - @[c3daysleft] Waiting for ..c3 countdown (bot)
 - @[c3diversity] Promoting diversity and supporting humans of all genders
 - @[c3edu] Bildungsurlaubsteilnahmebescheinigungsabstempelstelle
