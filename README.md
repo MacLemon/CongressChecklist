@@ -218,7 +218,7 @@ Check the expiry date of the meds you bring.
 - Contraceptives, prophylactic (contraceptive pill, condoms, etc.)
 - Caffeine pills (In case you don't like Mate and nobody knows if you can actually drink the “coffee” served at the venue.)
 - Something for your stomach (if you've got a nervous digestive system when under stress, while flying or generally traveling)
-- Camomile tea relives hyperacidity very well
+- Camomile tea relieves hyperacidity very well
 - Bepanthen
 
 
