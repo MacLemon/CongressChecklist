@@ -665,6 +665,11 @@ These SIM cards have proven to work well if you need one. When in doubt, ask peo
 - [Blau.de][10] (Germany)
 
 
+### Wifi connection
+WIFI connections are identified by their SSID. Some operating systems automatically reconnect to known WIFI networks by default.
+Make sure that your OS is not configured to automatically connect to any networks automatically (for example "OEBB" or "Wifi-on-ICE" for Austrian and German public transport networks respectively), otherwise your device might be tricked into connecting to a malicious network.
+
+
 ## 📫 Staying up-to-date
 Most events publish a lot of information about events as they happen. There are many ways to stay in the loop during the event or in between by subscribing to RSS feeds, Twitter accounts, Mastodon accounts, mailing lists and even newsletters [sic].
 For a list of CCC related news sources you may be interested in following, see 'CCCongress Info Channels.md' in this repository.
