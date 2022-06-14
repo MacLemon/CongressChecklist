@@ -573,6 +573,7 @@ Please consider ride-sharing or consolidating all your boxes into one transporte
 
 
 ## ⛺️ Camp
+
 - Tent
 - Sleeping bag & pillow
 - Air mattress
@@ -582,6 +583,8 @@ Please consider ride-sharing or consolidating all your boxes into one transporte
 - Cat5e extension cable (10-100m)
 - Food
 - Bin bags (for rubbish and dirty clothes)
+
+See also the [CampingChecklist](https://github.com/Columbia19/Camping-Checklist) for more camping gear.
 
 
 ### Schedule
