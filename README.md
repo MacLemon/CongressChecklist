@@ -220,6 +220,8 @@ Check the expiry date of the meds you bring.
 - Something for your stomach (if you've got a nervous digestive system when under stress, while flying or generally traveling)
 - Camomile tea relieves hyperacidity very well
 - Bepanthen
+- Protective masks (FFP2)
+- Covid-19 test kit (according to recommendation of the event you're visiting)
 
 
 #### Personal medication
