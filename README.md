@@ -108,7 +108,7 @@ This applies to the Congress Center as well as your hotel windows.
 
 
 ### Documents
-- Train/plane tickets (including verification documents for self-printed DB tickets. Check the List of accepted documents! [Was ist als Identifizierungskarte zugelassen?][41])
+- Train/plane tickets (including verification documents for self-printed DB tickets. Check the List of accepted documents! [Welche Lichtbildausweise werden anerkannt?][41])
 - Congress tickets (printed or digital. iOS passbook/wallet, PDF)
   - have them ready before your line up at the cash desk!
 - Passport or other kind of photo ID (Personalausweis)
@@ -780,7 +780,7 @@ These people have contributed to improve this list for everyone (in no particula
 [38]:https://cert.ccc.de/ "C3 CERT"
 [39]:https://events.ccc.de/congress/2016/wiki/Assembly:Coffeenerds "Coffeenerds at 33c3"
 [40]:http://britishbusinessenergy.co.uk/plug-socket/ "World Electrical Plug & Socket Map"
-[41]:https://www.bahn.de/hilfe/view/pk/de/ticketbuchung/identifizierungskarte.shtml "Deutsche Bahn: Was ist als Identifizierungskarte zugelassen?"
+[41]:https://www.bahn.de/hilfe/view/pk/de/popup_faq/id3.shtml "Deutsche Bahn: Welche Lichtbildausweise werden anerkannt?"
 [42]:http://travel.stackexchange.com/questions/55409/what-is-the-hotel-room-card-slot-inside-the-room-for
 [43]:https://github.com/Columbia19/Camping-Checklist "Columbia19's Campinbg-Checklist on Github!"
 [44]:https://www.gesetze-im-internet.de/btmg_1981/anlage_iii.html
