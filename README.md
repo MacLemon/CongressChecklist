@@ -268,7 +268,7 @@ In case something gets lost it can find its way back to you.
 #### Power and Chargers
 Start charging your batteries right now so they're ready when you finish packing and leave.
 
-For travelling abroad there is a handy [World Electrical Plug & Socket Map][40]
+For travelling abroad there is a handy [World map showing the spread of plug types][40]
 
 
 - Charger for laptop
@@ -779,7 +779,7 @@ These people have contributed to improve this list for everyone (in no particula
 [37]:https://de.wikipedia.org/wiki/Datenklo "CCC Datenklo - Akustik Koppler"
 [38]:https://cert.ccc.de/ "C3 CERT"
 [39]:https://events.ccc.de/congress/2016/wiki/Assembly:Coffeenerds "Coffeenerds at 33c3"
-[40]:http://britishbusinessenergy.co.uk/plug-socket/ "World Electrical Plug & Socket Map"
+[40]:https://www.worldstandards.eu/electricity/spread-plug-types-map/ "World map showing the spread of plug types"
 [41]:https://www.bahn.de/hilfe/view/pk/de/popup_faq/id3.shtml "Deutsche Bahn: Welche Lichtbildausweise werden anerkannt?"
 [42]:http://travel.stackexchange.com/questions/55409/what-is-the-hotel-room-card-slot-inside-the-room-for
 [43]:https://github.com/Columbia19/Camping-Checklist "Columbia19's Campinbg-Checklist on Github!"
