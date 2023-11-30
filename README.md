@@ -462,6 +462,7 @@ Check out the [USB-C cable matrix][36] (Caution, Google Doc, may be gone as well
 - [Rad1o badge][30]
 - [Datenklo][37]
 - [card10][52]
+- [flow3r][53]
 
 #### RC models
 There may be an RC racetrack on site or some other suitable spot to drive or fly your RCs.
@@ -791,6 +792,7 @@ These people have contributed to improve this list for everyone (in no particula
 [50]:https://pads.c3w.at/pad/#/2/pad/edit/-MsZU1EAGE5+5fxDfxqlG6He/ "USB-C Cable Matrix Pad"
 [51]:https://www.umweltbundesamt.de/en/topics/air/particulate-matter-pm10/low-emission-zones-in-germany "Environmental Zone Info for Germany"
 [52]:https://card10.badge.events.ccc.de "CCC Card10 Badge"
+[53]:https://flow3r.garden/
 
 [100]:https://twitter.com/Astarioth
 [101]:https://twitter.com/N4mes
