@@ -756,13 +756,13 @@ These people have contributed to improve this list for everyone (in no particula
 [11]:https://en.wikipedia.org/wiki/Sim_card#Formats "SIM card formats"
 [12]:https://events.ccc.de/congress/2023/infos/startpage.html
 [13]:https://events.ccc.de/congress/2019/wiki/Static:Projects
-[14]:https://events.ccc.de/congress/2023/hub/en/assemblies
+[14]:https://events.ccc.de/congress/2023/hub/assemblies
 [15]:https://bettercrypto.org/ "Better Crypto"
 [16]:https://openvpn.net/ "OpenVPN"
 [17]:http://code.kryo.se/iodine/ "iodine"
 [18]:http://openssh.org/ "OpenSSH"
 [19]:https://www.torproject.org/ "Tor Project"
-[20]:https://events.ccc.de/congress/2023/hub/en/fahrplan
+[20]:https://events.ccc.de/congress/2023/hub/fahrplan
 [21]:https://www.organspende-info.de
 [22]:https://play.google.com/store/apps/details?id=com.googlecode.droidwall.free
 [24]:https://wifipineapple.com/ "WiFi Pineapple"
@@ -780,7 +780,7 @@ These people have contributed to improve this list for everyone (in no particula
 [36]:https://docs.google.com/spreadsheets/d/1wJwqv3rTNmORXz-XJsQaXK1dl8I91V4-eP_sfNVNzbA/edit "USB-C cable and Nexus accessories"
 [37]:https://de.wikipedia.org/wiki/Datenklo "CCC Datenklo - Akustik Koppler"
 [38]:https://cert.ccc.de/ "C3 CERT"
-[39]:https://events.ccc.de/congress/2023/hub/en/assembly/coffenerds/
+[39]:https://events.ccc.de/congress/2023/hub/assembly/coffenerds/
 [40]:https://www.worldstandards.eu/electricity/spread-plug-types-map/ "World map showing the spread of plug types"
 [41]:https://www.bahn.de/hilfe/view/pk/de/popup_faq/id3.shtml "Deutsche Bahn: Welche Lichtbildausweise werden anerkannt?"
 [42]:http://travel.stackexchange.com/questions/55409/what-is-the-hotel-room-card-slot-inside-the-room-for
