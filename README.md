@@ -689,7 +689,15 @@ Read the Angel Guide ([de](https://angelguide.c3heaven.de/angelguide_de.pdf)/[en
 ### Things to pack as an angel
 In addition to the things listed above (and beyond), you might want to also pack these:
 
-- 
+- Refillable water bottle
+- DECT phone (seriously. You WILL need one)
+- Lanyard and any badge holder you might have lying around
+- Laptop/tablet (depending on your shift/duty)
+- Simple multitool
+- Charging cable and euro-adapter (if necessary)
+- A good pair of working shoes
+- Utility belt
+- Nametag (ideally with your pronouns)
 
 ## 🔙 For when you return home
 - Store chocolate/chips/crisps at home as an post-event depression antidote
