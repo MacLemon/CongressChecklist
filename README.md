@@ -17,6 +17,7 @@ If you're attenting a camping event, with the great outdoors, evil daystar and f
 - [⛺️ Camp](#%EF%B8%8F-camp)
 - [🔒 Securing your devices](#-securing-your-devices)
 - [📫 Staying up-to-date](#-staying-up-to-date)
+- [🪽 Angel Special](#-angel-special)
 - [🔙 For when you return home](#-for-when-you-return-home)
 - [❤️ Thanks for being awesome ✨](#%EF%B8%8F-thanks-for-being-awesome-)
 
@@ -678,6 +679,17 @@ Make sure that your OS is not configured to automatically connect to any network
 ## 📫 Staying up-to-date
 Most events publish a lot of information about events as they happen. There are many ways to stay in the loop during the event or in between by subscribing to RSS feeds, Twitter accounts, Mastodon accounts, mailing lists and even newsletters [sic].
 For a list of CCC related news sources you may be interested in following, see 'CCCongress Info Channels.md' in this repository.
+
+## 🪽 Angel special
+If you are registered to aid as an angel at congress, consider these tips:
+
+### Angel Guide
+Read the Angel Guide ([de](https://angelguide.c3heaven.de/angelguide_de.pdf)/[en](https://angelguide.c3heaven.de/angelguide_en.pdf)) for infos about the angel system and everything that's associated with it.
+
+### Things to pack as an angel
+In addition to the things listed above (and beyond), you might want to also pack these:
+
+- 
 
 ## 🔙 For when you return home
 - Store chocolate/chips/crisps at home as an post-event depression antidote
