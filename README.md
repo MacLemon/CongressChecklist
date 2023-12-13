@@ -698,6 +698,7 @@ In addition to the things listed above (and beyond), you might want to also pack
 - A good pair of working shoes
 - Utility belt
 - Nametag (ideally with your pronouns)
+- Heavy-duty gloves might also come in handy
 
 ## 🔙 For when you return home
 - Store chocolate/chips/crisps at home as an post-event depression antidote
