@@ -755,9 +755,9 @@ These people have contributed to improve this list for everyone (in no particula
 [9]:https://github.com/sshuttle/sshuttle
 [10]:https://www.blau.de/
 [11]:https://en.wikipedia.org/wiki/Sim_card#Formats "SIM card formats"
-[12]:https://events.ccc.de/congress/2019/wiki/
-[13]:https://events.ccc.de/congress/2019/wiki/Static:Projects
-[14]:https://events.ccc.de/congress/2019/wiki/Static:Assemblies
+[12]:https://events.ccc.de/congress/2023/hub/en/wiki/start/
+[13]:https://events.ccc.de/congress/2023/hub/en/projects
+[14]:https://events.ccc.de/congress/2023/hub/en/assemblies
 [15]:https://bettercrypto.org/ "Better Crypto"
 [16]:https://openvpn.net/ "OpenVPN"
 [17]:http://code.kryo.se/iodine/ "iodine"
