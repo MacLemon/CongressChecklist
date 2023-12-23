@@ -176,6 +176,9 @@ Event and location related emergency information is in a separate document for t
 	- replacement contact lenses
 	- replacement glasses
 	- eye drops
+- Glass Eye(s)
+	- case
+	- cleaning utilities
 - Glasses
 	- Spectacle case
 	- Cleaning cloth
