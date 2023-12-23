@@ -57,7 +57,8 @@ You'll also find a list of all the nice humans who have contributed to this list
 - Clean your coffee-machine and take out the trash.
 - When bringing credit cards and not living in Germany: call your bank and have them pre-approve payments from Germany. Otherwise, your bank may decline all purchases when they don't know you're traveling and suspect fraud.
 - Stock you pantry/freezer with some food that keeps so you have something to eat when you get home (that doesn't rely on shops/restaurants being open).
-- (optional but recommended) Create account in the [congress wiki][12], [add your projects][13] and [find your assembly][14].
+- (optional but recommended) Visit the [congress overview page][53], create account in the [congress wiki][12], [add your projects][13], [find your assembly][14] and join the [37C3 chat][54].
+- (optional but recommended) [Pre-order your merch][55] if the event you're visitng offers it
 
 
 ## 📦 Things to send
@@ -536,8 +537,8 @@ There maybe children roaming around, so please RC responsibly. Also no flying ov
 - A blanket
 - A pillow (and sleeping bag/camping mat if you intend to sleep at the gym or in heaven)
 - Velcro straps to mount things to other things or people to things
-- Your favourite tea/coffee for [Coffeenerds](39)
-	- reusable coffee mug to get your coffee @[coffeenerds](39) as environment friendly as possible!
+- Your favourite tea/coffee for [Coffeenerds][39]
+	- reusable coffee mug to get your coffee @[coffeenerds][39] as environment friendly as possible!
 - a thermo travelling mug for coffee-nerds, cocoa addicts, ...
 - All the stickers to trade and give away!
 - A reusable bottle to stay hydrated (German tap water is drinking water unless specified otherwise)
@@ -596,7 +597,7 @@ See also the [CampingChecklist](https://github.com/Columbia19/Camping-Checklist)
 - Have a look at the [Fahrplan][20] and maybe make a preselection of talks you really “have to”, “want to” or “would be nice to“ see
 - Install one of the Fahrplan apps for Android ([PlayStore][26], [Source][27]) or iOS ([iTunes][28])
 - Be sure to schedule a period of time to get your T-Shirt or pullover/hoodie/zipper (when preordered in the first two days)!
-- To have a sense of train schedules, enter "Leipzig, Messegelände" as destination on the [public transport schedule page](https://www.l.de/verkehrsbetriebe).
+- To have a sense of train schedules, enter "Hamburg Dammtor" as destination on the [public transport schedule page](https://www.hvv.de/en).
 
 
 ## 🔒 Securing your devices
@@ -740,10 +741,11 @@ These people have contributed to improve this list for everyone (in no particula
 - [@qch3n][147]
 - [@peterpoetzi][147]
 - [iwonder][148]
+- [Phil5555][149]
 
 
 <!-- ## 🔗 Links -->
-[1]:https://events.ccc.de/congress/2019/wiki/Static:Information_Security
+[1]:https://events.ccc.de/congress/2019/wiki/index.php/Static:Information_Security
 [2]:https://www.eventphone.de/
 [3]:https://help.ccc.de/
 [4]:http://r0ket.de/
@@ -755,15 +757,15 @@ These people have contributed to improve this list for everyone (in no particula
 [9]:https://github.com/sshuttle/sshuttle
 [10]:https://www.blau.de/
 [11]:https://en.wikipedia.org/wiki/Sim_card#Formats "SIM card formats"
-[12]:https://events.ccc.de/congress/2023/hub/en/wiki/start/
+[12]:https://events.ccc.de/congress/2023/infos/startpage.html
 [13]:https://events.ccc.de/congress/2023/hub/en/projects
-[14]:https://events.ccc.de/congress/2023/hub/en/assemblies
+[14]:https://events.ccc.de/congress/2023/hub/assemblies
 [15]:https://bettercrypto.org/ "Better Crypto"
 [16]:https://openvpn.net/ "OpenVPN"
 [17]:http://code.kryo.se/iodine/ "iodine"
 [18]:http://openssh.org/ "OpenSSH"
 [19]:https://www.torproject.org/ "Tor Project"
-[20]:https://fahrplan.events.ccc.de/congress/2019/Fahrplan/ "36C3 Fahrplan aka conference schedule"
+[20]:https://events.ccc.de/congress/2023/hub/fahrplan
 [21]:https://www.organspende-info.de
 [22]:https://play.google.com/store/apps/details?id=com.googlecode.droidwall.free
 [24]:https://wifipineapple.com/ "WiFi Pineapple"
@@ -781,7 +783,7 @@ These people have contributed to improve this list for everyone (in no particula
 [36]:https://docs.google.com/spreadsheets/d/1wJwqv3rTNmORXz-XJsQaXK1dl8I91V4-eP_sfNVNzbA/edit "USB-C cable and Nexus accessories"
 [37]:https://de.wikipedia.org/wiki/Datenklo "CCC Datenklo - Akustik Koppler"
 [38]:https://cert.ccc.de/ "C3 CERT"
-[39]:https://events.ccc.de/congress/2016/wiki/Assembly:Coffeenerds "Coffeenerds at 33c3"
+[39]:https://events.ccc.de/congress/2023/hub/assembly/coffenerds/
 [40]:https://www.worldstandards.eu/electricity/spread-plug-types-map/ "World map showing the spread of plug types"
 [41]:https://www.bahn.de/hilfe/view/pk/de/popup_faq/id3.shtml "Deutsche Bahn: Welche Lichtbildausweise werden anerkannt?"
 [42]:http://travel.stackexchange.com/questions/55409/what-is-the-hotel-room-card-slot-inside-the-room-for
@@ -794,6 +796,9 @@ These people have contributed to improve this list for everyone (in no particula
 [50]:https://pads.c3w.at/pad/#/2/pad/edit/-MsZU1EAGE5+5fxDfxqlG6He/ "USB-C Cable Matrix Pad"
 [51]:https://www.umweltbundesamt.de/en/topics/air/particulate-matter-pm10/low-emission-zones-in-germany "Environmental Zone Info for Germany"
 [52]:https://card10.badge.events.ccc.de "CCC Card10 Badge"
+[53]:https://events.ccc.de/congress/2023/infos/startpage.html
+[54]:https://matrix.to/#/#37c3:events.ccc.de
+[55]:https://tickets.events.ccc.de/37c3-merch/
 
 [100]:https://twitter.com/Astarioth
 [101]:https://twitter.com/N4mes
@@ -844,3 +849,4 @@ These people have contributed to improve this list for everyone (in no particula
 [146]:https://www.wireguard.com/
 [147]:https://twitter.com/qch3n/
 [148]:https://mastodon.social/@iwonder
+[149]:https://github.com/Phil5555
