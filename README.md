@@ -467,6 +467,7 @@ Check out the [USB-C cable matrix][36] (Caution, Google Doc, may be gone as well
 - [Rad1o badge][30]
 - [Datenklo][37]
 - [card10][52]
+- [flow3r][56]
 
 #### RC models
 There may be an RC racetrack on site or some other suitable spot to drive or fly your RCs.
@@ -820,6 +821,7 @@ These people have contributed to improve this list for everyone (in no particula
 [53]:https://events.ccc.de/congress/2023/infos/startpage.html
 [54]:https://matrix.to/#/#37c3:events.ccc.de
 [55]:https://tickets.events.ccc.de/37c3-merch/
+[56]:https://flow3r.garden/
 
 [100]:https://twitter.com/Astarioth
 [101]:https://twitter.com/N4mes
