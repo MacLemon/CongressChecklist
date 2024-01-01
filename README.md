@@ -394,7 +394,7 @@ Check out the [USB-C cable matrix][36] (Caution, Google Doc, may be gone as well
 - RJ45 Ethernet adapter (from USB-A, USB-C or Thunderbolt) to access the wired network. Thanks for not leeching on the WiFi!
 - Antenna wire for WiFi or ham radio equipment
 - SFP, SFP+ module (copper or fibre)
-- 1-100Gigabit Ethernet Switch
+- 1-100Gigabit Ethernet Switch (make sure to disable Spanning Tree Protocol for the Switch to work in Congress network)
 - Splicing equipment
 - Ethernet cords (Cat5e/Cat6) of multiple lengths (bring a spare to tether a friend)
 - Datenklo for Dial-Up over Fieldphone
