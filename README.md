@@ -554,6 +554,7 @@ Please drive responsibly on site! We don't want anyone to end up injured.
 	- mate crates
 	- driving couches
 	- [driving tents][48]
+	- funwheel (diy vesced onewhell/floatwheel) board
 - Running gear (shirt, pants, shoes, cellphone wristlet,...) in case the [3schweinehunde](https://twitter.com/3schweinehunde) are doing a run
 - for angel work: last year's lanyard with portrait-format card holder, to reduce waste
 
