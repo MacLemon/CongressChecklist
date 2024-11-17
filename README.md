@@ -58,7 +58,7 @@ You'll also find a list of all the nice humans who have contributed to this list
 - Clean your coffee-machine and take out the trash.
 - When bringing credit cards and not living in Germany: call your bank and have them pre-approve payments from Germany. Otherwise, your bank may decline all purchases when they don't know you're traveling and suspect fraud.
 - Stock you pantry/freezer with some food that keeps so you have something to eat when you get home (that doesn't rely on shops/restaurants being open).
-- (optional but recommended) Visit the [congress overview page][53], create account in the [congress wiki][12], [add your projects][13], [find your assembly][14] and join the [37C3 chat][54].
+- (optional but recommended) Visit the [congress overview page][53], create account in the [congress wiki][12], [add your projects][13], [find your assembly][14] and join the [38C3 chat][54].
 - (optional but recommended) [Pre-order your merch][55] if the event you're visitng offers it
 
 
@@ -822,7 +822,7 @@ These people have contributed to improve this list for everyone (in no particula
 [51]:https://www.umweltbundesamt.de/en/topics/air/particulate-matter-pm10/low-emission-zones-in-germany "Environmental Zone Info for Germany"
 [52]:https://card10.badge.events.ccc.de "CCC Card10 Badge"
 [53]:https://events.ccc.de/congress/2023/infos/startpage.html
-[54]:https://matrix.to/#/#37c3:events.ccc.de
+[54]:https://matrix.to/#/#38c3:events.ccc.de
 [55]:https://tickets.events.ccc.de/37c3-merch/
 [56]:https://flow3r.garden/
 
