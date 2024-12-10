@@ -59,7 +59,9 @@ You'll also find a list of all the nice humans who have contributed to this list
 - When bringing credit cards and not living in Germany: call your bank and have them pre-approve payments from Germany. Otherwise, your bank may decline all purchases when they don't know you're traveling and suspect fraud.
 - Stock you pantry/freezer with some food that keeps so you have something to eat when you get home (that doesn't rely on shops/restaurants being open).
 - (optional but recommended) Visit the [congress overview page][53], create account in the [congress wiki][12], [add your projects][13], [find your assembly][14] and join the [37C3 chat][54].
-- (optional but recommended) [Pre-order your merch][55] if the event you're visitng offers it
+- (optional but recommended) [Read the Engel Guide][150] and create an account in the [Engelsystem][151].
+- Install one of the Fahrplan apps for Android ([PlayStore][26], [Source][27]) or iOS ([iTunes][28])
+- (optional but recommended) [Pre-order your merch][55] if the event you're visitng offers it.
 
 
 ## 📦 Things to send
@@ -123,6 +125,7 @@ This applies to the Congress Center as well as your hotel windows.
 - Health insurance card
 - Vaccination documents or history (Impfpass)
 - "Business cards" to hand out to people with essential information like email address and OpenPGP fingerprint. Optionally other ways to reach you as well. Normally simple DIN A4 paper strips with the information printed on is enough. No need to get fancy.
+- Note with the most important telephone numbers, e.g. family, roommates, lawyer in case you no longer have access to your devices.
 
 
 ### Payment stuff
@@ -797,7 +800,7 @@ These people have contributed to improve this list for everyone (in no particula
 [25]:https://greatscottgadgets.com/throwingstar/ "Throwing star"
 [26]:https://play.google.com/store/apps/details?id=info.metadude.android.congress.schedule
 [27]:https://github.com/EventFahrplan/EventFahrplan
-[28]:https://itunes.apple.com/us/app/30c3-fahrplan-30c3-event-organizer/id764609606?mt=8
+[28]:https://apps.apple.com/de/app/congress-38c3/id941205524
 [29]:http://en.wikipedia.org/wiki/Knife_legislation#Germany
 [30]:https://rad1o.badge.events.ccc.de/ "Rad1o Badge, CCCamp 2015"
 [31]:https://eventphone.de/doku/dect_phone_compatibility_list "Eventphone DECT handset compatibility list"
@@ -876,3 +879,5 @@ These people have contributed to improve this list for everyone (in no particula
 [147]:https://twitter.com/qch3n/
 [148]:https://mastodon.social/@iwonder
 [149]:https://github.com/Phil5555
+[150]:https://guide.c3heaven.de/index.de.html
+[151]:https://engel.events.ccc.de
