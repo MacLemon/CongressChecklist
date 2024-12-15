@@ -825,7 +825,7 @@ These people have contributed to improve this list for everyone (in no particula
 [51]:https://www.umweltbundesamt.de/en/topics/air/particulate-matter-pm10/low-emission-zones-in-germany "Environmental Zone Info for Germany"
 [52]:https://card10.badge.events.ccc.de "CCC Card10 Badge"
 [53]:https://events.ccc.de/congress/2023/infos/startpage.html
-[54]:https://matrix.to/#/#37c3:events.ccc.de
+[54]:https://matrix.to/#/#38c3:events.ccc.de
 [55]:https://tickets.events.ccc.de/37c3-merch/
 [56]:https://flow3r.garden/
 
