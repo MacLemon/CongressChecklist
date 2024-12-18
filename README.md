@@ -549,6 +549,7 @@ There maybe children roaming around, so please RC responsibly. Also no flying ov
 	- reusable coffee mug to get your coffee @[Coffeenerds][39] as environment friendly as possible!
 - a thermo travelling mug for coffee-nerds, cocoa addicts, ...
 - All the stickers to trade and give away!
+- A bag or folder to keep all your stickers safe and pristine
 - A reusable bottle to stay hydrated (German tap water is drinking water unless specified otherwise)
 - Camping cutlery (or spork) to reduce on plastic waste on site and for takeaway/supermarket food
 - Easy snacks such as nuts or granola bars (Events like these are often hectic and sometimes it's easy to forget to eat. If you need food to take medications, make sure to always have snacks with you)
