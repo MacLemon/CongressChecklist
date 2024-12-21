@@ -520,7 +520,7 @@ There maybe children roaming around, so please RC responsibly. Also no flying ov
     - \+ USB Keyboard
     - \+ USB Rodent
     - \+ HDMI cable to connect a display
-- Pocket knife ([Conforming to the German Weapons Act:][29] Blade must not exceed 12cm; Folding knives with locking blades must not be designed to be opened with one hand. Also, “thrusting weapons” such as daggers, stilettos, swords etc. are restricted items.)
+- Pocket knife ([Knifes and are forbidden in public transport in Hamburg!][153] [Conforming to the German Weapons Act:][29] Blade must not exceed 12cm; Folding knives with locking blades must not be designed to be opened with one hand. Also, “thrusting weapons” such as daggers, stilettos, swords etc. are restricted items.)
     - Swiss knife
     - Victorinox cybertool
     - Leatherman (check for one-handed opening mechanisms, such as thumb holes or studs)
@@ -885,3 +885,4 @@ These people have contributed to improve this list for everyone (in no particula
 [150]:https://guide.c3heaven.de/index.de.html
 [151]:https://engel.events.ccc.de
 [152]:https://github.com/Obsidi88
+[153]:https://www.polizei.hamburg/services/recht/waffen-und-messerverbot-oepnv-und-weitere-gebiete
