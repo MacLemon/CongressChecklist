@@ -348,7 +348,7 @@ Yes, there are way too many different types of USB cables, connectors and standa
 
 ##### USB-C
 Keep in mind that USB-C *only* refers to the connector, not the charging, signals and alternative modes it actually supports.
-Check out the [USB-C cable matrix][36] (Caution, Google Doc, may be gone as well. The contents have been liberated and are available tracking free in the [USB-C Cable Matrix CryptPad][50]) on what a certain manufacturer's cable actually supports.
+Check out the [USB-C Cable Matrix CryptPad][50] (Note, [Google Doc Copy][35], is gone) on what a certain manufacturer's cable actually supports.
 
 - USB-C from or to micro USB adapter (To charge a phone or laptop from a powerbank)
 - USB-C to mini USB cable to connect to a micro controller or serial adapter (like FTDI)
@@ -667,7 +667,7 @@ It is not recommended to connect your smartphone to the congress wifi -- if you 
 - Update your apps, especially your browser.
 - Use a VPN tunnel if possible.
 - Use a Firewall and only allow the (few) services you trust.
-	- [DroidWall][22] for Android (root required)
+	- [NetGuard][22] for Android
 - If you don't have a VPN tunnel available, you can use [OnionBrowser][7] (iOS) or [Orbot][orbot] (Android) to surf via Tor (which may be its own kind of risk).
 - Set your GSM network selection to **manual** or you might end up connected to a rogue GSM network.
 
@@ -798,7 +798,7 @@ These people have contributed to improve this list for everyone (in no particula
 [19]:https://www.torproject.org/ "Tor Project"
 [20]:https://events.ccc.de/congress/2024/hub/fahrplan
 [21]:https://www.organspende-info.de
-[22]:https://play.google.com/store/apps/details?id=com.googlecode.droidwall.free
+[22]:https://f-droid.org/de/packages/eu.faircode.netguard/
 [24]:https://wifipineapple.com/ "WiFi Pineapple"
 [25]:https://greatscottgadgets.com/throwingstar/ "Throwing star"
 [26]:https://play.google.com/store/apps/details?id=info.metadude.android.congress.schedule
@@ -886,4 +886,3 @@ These people have contributed to improve this list for everyone (in no particula
 [151]:https://engel.events.ccc.de
 [152]:https://github.com/Obsidi88
 [153]:https://www.polizei.hamburg/services/recht/waffen-und-messerverbot-oepnv-und-weitere-gebiete
-
