@@ -667,7 +667,7 @@ It is not recommended to connect your smartphone to the congress wifi -- if you 
 - Update your apps, especially your browser.
 - Use a VPN tunnel if possible.
 - Use a Firewall and only allow the (few) services you trust.
-	- [DroidWall][22] for Android (root required)
+	- [NetGuard][22] for Android
 - If you don't have a VPN tunnel available, you can use [OnionBrowser][7] (iOS) or [Orbot][orbot] (Android) to surf via Tor (which may be its own kind of risk).
 - Set your GSM network selection to **manual** or you might end up connected to a rogue GSM network.
 
@@ -798,7 +798,7 @@ These people have contributed to improve this list for everyone (in no particula
 [19]:https://www.torproject.org/ "Tor Project"
 [20]:https://events.ccc.de/congress/2024/hub/fahrplan
 [21]:https://www.organspende-info.de
-[22]:https://play.google.com/store/apps/details?id=com.googlecode.droidwall.free
+[22]:https://f-droid.org/de/packages/eu.faircode.netguard/
 [24]:https://wifipineapple.com/ "WiFi Pineapple"
 [25]:https://greatscottgadgets.com/throwingstar/ "Throwing star"
 [26]:https://play.google.com/store/apps/details?id=info.metadude.android.congress.schedule
