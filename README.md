@@ -113,7 +113,7 @@ This applies to the Congress Center as well as your hotel windows.
 
 
 ### Documents
-- Train/plane tickets (including verification documents for self-printed DB tickets. Check the List of accepted documents! [Welche Lichtbildausweise werden anerkannt?][41])
+- Train/plane tickets (including verification documents for self-printed DB tickets. Check the List of accepted documents! [Muss ich mich zu meinem Online-Ticket im Zug zusätzlich ausweisen?][41])
 - Congress tickets (printed or digital. iOS passbook/wallet, PDF)
   - have them ready before your line up at the cash desk!
   - use PassAndroid (via [F-Droid](https://f-droid.org/packages/org.ligi.passandroid/), via [Google Play](https://play.google.com/store/apps/details?id=org.ligi.passandroid))
@@ -816,7 +816,7 @@ These people have contributed to improve this list for everyone (in no particula
 [38]:https://cert.ccc.de/ "C3 CERT"
 [39]:https://events.ccc.de/congress/2024/hub/en/assembly/Coffeenerds/
 [40]:https://www.worldstandards.eu/electricity/spread-plug-types-map/ "World map showing the spread of plug types"
-[41]:https://www.bahn.de/hilfe/view/pk/de/popup_faq/id3.shtml "Deutsche Bahn: Welche Lichtbildausweise werden anerkannt?"
+[41]:https://www.bahn.de/bahnbusiness/faq/muss-ich-mich-zu-meinem-online-ticket-im-zug-zusaetzlich-ausweisen "Deutsche Bahn: Muss ich mich zu meinem Online-Ticket im Zug zusätzlich ausweisen?"
 [42]:http://travel.stackexchange.com/questions/55409/what-is-the-hotel-room-card-slot-inside-the-room-for
 [43]:https://github.com/Columbia19/Camping-Checklist "Columbia19's Campinbg-Checklist on Github!"
 [44]:https://www.gesetze-im-internet.de/btmg_1981/anlage_iii.html
@@ -886,3 +886,4 @@ These people have contributed to improve this list for everyone (in no particula
 [151]:https://engel.events.ccc.de
 [152]:https://github.com/Obsidi88
 [153]:https://www.polizei.hamburg/services/recht/waffen-und-messerverbot-oepnv-und-weitere-gebiete
+
