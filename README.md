@@ -554,6 +554,7 @@ There maybe children roaming around, so please RC responsibly. Also no flying ov
 - A reusable bottle to stay hydrated (German tap water is drinking water unless specified otherwise)
 - Camping cutlery (or spork) to reduce on plastic waste on site and for takeaway/supermarket food
 - Easy snacks such as nuts or granola bars (Events like these are often hectic and sometimes it's easy to forget to eat. If you need food to take medications, make sure to always have snacks with you)
+- A collection of your most sparkly math rocks (also known as dice) 
 
 Please drive responsibly on site! We don't want anyone to end up injured.
 - Personal Mobility Device - like:
