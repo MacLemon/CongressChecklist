@@ -449,6 +449,7 @@ Check out the [USB-C Cable Matrix CryptPad][50] (Note, [Google Doc Copy][35], is
 	- External Flash
         - Batteries, Battery Pack
         - Charger for those as well
+- [Photo Policy Enforcing device](https://en.wikipedia.org/wiki/Pool_noodle)
 - Tripod or Monopod
 
 
