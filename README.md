@@ -73,7 +73,7 @@ Stuff that you're not allowed to bring on a plane or otherwise need to send via 
 - Ammunition
 - Fireworks
 - Explosives
-- Lighter benzine
+- Lighter fluid
 - Lighter gas (Butane)
 - Matches
 - Lighters (*only* allowed on your person)
@@ -218,7 +218,7 @@ Check the expiry date of the meds you bring.
 
 
 #### Generic medication
-- Patches (Pflaster, for your webcam or if a MacBook AirFrisbee hit you)
+- Band-aids/adhesive bandages (Pflaster, for your webcam or if a MacBook AirFrisbee hit you)
 - Aspirin (If you partied too long…)
 - Thomapyrin (analgetic)
 - Parkemed (DE/AT), Ponstel (USA/UK) (analgetic)
