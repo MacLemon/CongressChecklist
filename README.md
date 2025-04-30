@@ -215,6 +215,8 @@ Check the expiry date of the meds you bring.
 
 #### Personal Hygiene ####
 - Hand disinfectant, yet always wash your hands
+- Anti lice spray
+- Lice shampoo
 
 
 #### Generic medication
