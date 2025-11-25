@@ -116,7 +116,7 @@ This applies to the Congress Center as well as your hotel windows.
 - Train/plane tickets (including verification documents for self-printed DB tickets. Check the List of accepted documents! [Muss ich mich zu meinem Online-Ticket im Zug zusätzlich ausweisen?][41])
 - Congress tickets (printed or digital. iOS passbook/wallet, PDF)
   - have them ready before your line up at the cash desk!
-  - use PassAndroid (via [F-Droid](https://f-droid.org/packages/org.ligi.passandroid/), via [Google Play](https://play.google.com/store/apps/details?id=org.ligi.passandroid)) or [KDE Itinerary](https://apps.kde.org/itinerary) (Linux/Androix)
+  - use PassAndroid (via [F-Droid](https://f-droid.org/packages/org.ligi.passandroid/), via [Google Play](https://play.google.com/store/apps/details?id=org.ligi.passandroid)), [KDE Itinerary](https://apps.kde.org/itinerary) (Linux/Android) or [FossWallet](https://github.com/SeineEloquenz/fosswallet) (Android)
 - Passport or other kind of photo ID (Personalausweis)
 - Driver's license (even an international one)
 - Hotel booking
