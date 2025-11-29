@@ -1,4 +1,4 @@
-# Emergency Information for [39c3][0]:
+# Emergency Information for [39c3][0]
 
 ## English
 
@@ -11,9 +11,10 @@ If you need help, call for help, there are many, many friendly people around to 
 * 39c3 Awareness: Call local DECT 113
 * local law enforcement in Hamburg: 110 or +49 40 4286 - 51410
 * local sexual assault hotline for women in Hamburg: +49 40 - 255566 [Frauennotruf](https://www.frauennotruf-hamburg.de/)
-* Hamburg fire department: +49 40 3569 6666 (BETTER USE 112 ON YOUR non-39c3 PHONE)
-* Hamburg ambulance: +49 40 3569 6666 (BETTER USE 112 ON YOUR non-39c3 PHONE)
-* 39c3 organizers: [39c3-orga@cccv.de](mailto:39c3-orga@cccv.de)
+* Hamburg fire department: +49 40 3569 6666 (BETTER USE 112 ON YOUR non-38c3 PHONE)
+* Hamburg ambulance: +49 40 3569 6666 (BETTER USE 112 ON YOUR non-38c3 PHONE)
+* 39c3 organizers: [38c3-orga@cccv.de](mailto:38c3-orga@cccv.de)
+* 39c3 help page: [Support at CCC Events](https://help.ccc.de/index.en.html)
 
 ## Deutsch
 
@@ -28,6 +29,7 @@ Wenn du Hilfe benötigst, frage nach Hilfe. Es sind viele, viele freundliche Men
 * Frauennotruf in Hamburg (bei sexuellen Übergriffen oder sexueller Gewalt): +49 40 - 255566 [Frauennotruf](https://www.frauennotruf-hamburg.de/)
 * Feuerwehr Hamburg: +49 40 3569 6666 (BESSER: 112 im öffentlichen Telefonnetz)
 * Rettungsdienst Hamburg: +49 40 3569 6666  (BESSER: 112 im öffentlichen Telefonnetz)
-* 39c3 Orga: [39c3-orga@cccv.de](mailto:39c3-orga@cccv.de)
+* 39c3 Orga: [38c3-orga@cccv.de](mailto:38c3-orga@cccv.de)
+* 39c3 Hilfe-Seite: [Hilfe auf CCC Events](https://help.ccc.de/)
 
 [0]: https://events.ccc.de/category/39c3/ "39c3 Event Blog"
