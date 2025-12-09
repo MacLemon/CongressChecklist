@@ -59,7 +59,7 @@ You'll also find a list of all the nice humans who have contributed to this list
 - Close all windows and set all radiator thermostats
 - When bringing credit cards and not living in Germany: call your bank and have them pre-approve payments from Germany. Otherwise, your bank may decline all purchases when they don't know you're traveling and suspect fraud.
 - Stock you pantry/freezer with some food that keeps so you have something to eat when you get home (that doesn't rely on shops/restaurants being open).
-- (optional but recommended) Visit the [congress overview page][53], create account in the [congress wiki][12], [add your projects][13], [find your assembly][14] and join the [38C3 chat][54].
+- (optional but recommended) Visit the [congress overview page][53], create account in the [congress wiki][12], [add your projects][13], [find your assembly][14] and join the [39C3 chat][54].
 - (optional but recommended) [Read the Engel Guide][150] and create an account in the [Engelsystem][151].
 - Install one of the Fahrplan apps for Android ([PlayStore][26], [Source][27]) or iOS ([iTunes][28])
 - (optional but recommended) [Pre-order your merch][55] if the event you're visiting offers it
@@ -777,6 +777,7 @@ These people have contributed to improve this list for everyone (in no particula
 - [iwonder][148]
 - [Phil5555][149]
 - [Obsidian][150]
+- [HyperCraft3r][154]
 
 
 <!-- ## 🔗 Links -->
@@ -792,15 +793,15 @@ These people have contributed to improve this list for everyone (in no particula
 [9]:https://github.com/sshuttle/sshuttle
 [10]:https://www.blau.de/
 [11]:https://en.wikipedia.org/wiki/Sim_card#Formats "SIM card formats"
-[12]:https://events.ccc.de/congress/2024/infos/startpage.html
-[13]:https://events.ccc.de/congress/2024/hub/en/projects
-[14]:https://events.ccc.de/congress/2024/hub/assemblies
+[12]:https://events.ccc.de/congress/2025/infos/startpage.html
+[13]:https://events.ccc.de/congress/2025/hub/en/projects
+[14]:https://events.ccc.de/congress/2025/hub/assemblies
 [15]:https://bettercrypto.org/ "Better Crypto"
 [16]:https://openvpn.net/ "OpenVPN"
 [17]:http://code.kryo.se/iodine/ "iodine"
 [18]:http://openssh.org/ "OpenSSH"
 [19]:https://www.torproject.org/ "Tor Project"
-[20]:https://events.ccc.de/congress/2024/hub/fahrplan
+[20]:https://events.ccc.de/congress/2025/hub/fahrplan
 [21]:https://www.organspende-info.de
 [22]:https://f-droid.org/de/packages/eu.faircode.netguard/
 [24]:https://wifipineapple.com/ "WiFi Pineapple"
@@ -818,7 +819,7 @@ These people have contributed to improve this list for everyone (in no particula
 [36]:https://docs.google.com/spreadsheets/d/1wJwqv3rTNmORXz-XJsQaXK1dl8I91V4-eP_sfNVNzbA/edit "USB-C cable and Nexus accessories"
 [37]:https://de.wikipedia.org/wiki/Datenklo "CCC Datenklo - Akustik Koppler"
 [38]:https://cert.ccc.de/ "C3 CERT"
-[39]:https://events.ccc.de/congress/2024/hub/en/assembly/Coffeenerds/
+[39]:https://events.ccc.de/congress/2025/hub/en/assembly/coffeenerds/
 [40]:https://www.worldstandards.eu/electricity/spread-plug-types-map/ "World map showing the spread of plug types"
 [41]:https://www.bahn.de/bahnbusiness/faq/muss-ich-mich-zu-meinem-online-ticket-im-zug-zusaetzlich-ausweisen "Deutsche Bahn: Muss ich mich zu meinem Online-Ticket im Zug zusätzlich ausweisen?"
 [42]:http://travel.stackexchange.com/questions/55409/what-is-the-hotel-room-card-slot-inside-the-room-for
@@ -832,8 +833,8 @@ These people have contributed to improve this list for everyone (in no particula
 [51]:https://www.umweltbundesamt.de/en/topics/air/particulate-matter-pm10/low-emission-zones-in-germany "Environmental Zone Info for Germany"
 [52]:https://card10.badge.events.ccc.de "CCC Card10 Badge"
 [53]:https://events.ccc.de/congress/2024/infos/startpage.html
-[54]:https://matrix.to/#/#38c3:events.ccc.de
-[55]:https://tickets.events.ccc.de/38c3-merch/
+[54]:https://matrix.to/#/#39c3:events.ccc.de
+[55]:https://tickets.events.ccc.de/39c3-merch/
 [56]:https://flow3r.garden/
 
 [100]:https://twitter.com/Astarioth
@@ -890,3 +891,4 @@ These people have contributed to improve this list for everyone (in no particula
 [151]:https://engel.events.ccc.de
 [152]:https://github.com/Obsidi88
 [153]:https://www.polizei.hamburg/services/recht/waffen-und-messerverbot-oepnv-und-weitere-gebiete
+[154]:https://chaos.social/@HyperCraft3r
