@@ -226,7 +226,7 @@ Check the expiry date of the meds you bring.
 - Band-aids/adhesive bandages (Pflaster, for your webcam or if a MacBook AirFrisbee hit you)
 - Aspirin (If you partied too long…)
 - Thomapyrin (analgetic)
-- Parkemed (DE/AT), Ponstel (USA/UK) (analgetic)
+- Parkemed (AT), Ponstel (USA/UK) (analgetic)
 - Clarityn (or other histamine blocker if you're allergic to something)
 - Blister Pads. You will walk, a lot.
 - Neocitran/Theraflu/Paracetamol (just in case hacker pest strikes)
