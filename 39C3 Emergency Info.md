@@ -1,4 +1,4 @@
-# Emergency Information for [39c3][0]:
+# Emergency Information for [39c3][0]
 
 ## English
 

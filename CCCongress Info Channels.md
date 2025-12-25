@@ -1,4 +1,5 @@
 # CCCongress Info channels
+
 This document collects all the outlets you might be interested in when following the Chaos Communication Congress Event series as it happens or in between the events to stay in the loop.
 Did I miss something? Please send a pull request or ping @[MacLemon] to add it for you. Thanks!
 
@@ -13,24 +14,24 @@ Please use local DECT/GSM/SIP/… for calls, otherwise you might reach public em
 
 ## Websites
 
-
 ### Organisation
+
 - [CCC Event Weblog](https://events.ccc.de/) ([RSS](https://events.ccc.de/feed/)): provides current information on all
   organizational issues and announcements, worth following for every attendee.
 - [CERT](https://cert.ccc.de/): The Chaos Emergency Response Team wiki, lists members and explains operating
   procedures.
 - [List of official support channels](https://help.ccc.de/index.en.html)
 
-
 ### Videos
+
 Many CCC Events record videos of the given lectures and some event offer live [streaming]. Both is valid for Chaos Communication Congress.
 
 - [CCC Live Streaming via C3VOC](https://streaming.media.ccc.de/)
 - [C3 Subtitles Team](https://c3subtitles.de/) Crowdsources subtiles and translations
 - [CongressEverywhere](https://events.ccc.de/congress/2017/wiki/Congress_Everywhere) Locations with public live-stream viewing
 
-
 ## Mastodon/GNUSocial/OStatus/Fediverse
+
 - [@ccc@social.bau-ha.us](https://social.bau-ha.us/@ccc) **Chaos Computer Club**
 - [@ccchor@chaos.social](https://chaos.social/@ccchor) **CCC Choir**
 - [@c3woc@chaos.social](https://chaos.social/@c3woc) **Waffel Operation Center**
@@ -48,6 +49,7 @@ Many CCC Events record videos of the given lectures and some event offer live [s
 - [@c3cert@chaos.social](https://chaos.social/@c3cert) **CERT** Providing medical and firefighting support
 
 ### Bots
+
 - [@cccupdatesbot@mastodonten.de](https://mastodonten.de/@cccupdatesbot) retoot of [@cccupdates]
 - [@chaosupdates@diasp.org](https://diasp.org/u/chaosupdates) retoot of [@cccupdates]
 
@@ -106,11 +108,10 @@ There is [a list containing all the C3 associated Twitter accounts][twitterlist]
 - @[therealcsystems] C-Systems
 - @[c3auti] Autism care
 
-
-[RSS]:https://en.wikipedia.org/wiki/Rss "Wikipedia: RSS"
 [Streaming]:https://streaming.media.ccc.de/ "C3VOC Streaming - LIVE!"
 
 ### Contact
+
 You can contact some of the organizing teams via email. Please note that this makes mostly sense before and after the
 event, not during. Contact addresses are listed in the [event wiki](https://events.ccc.de/congress/2016/wiki/Static:Contact).
 
@@ -126,7 +127,6 @@ event, not during. Contact addresses are listed in the [event wiki](https://even
 [c3bass]:https://twitter.com/c3bass "C3 Low Frequency Longitudinal Wave Operations Center"
 [c3bottles]:https://twitter.com/c3bottles "Collect ALL the bottles"
 [c3cert]:https://twitter.com/c3cert "Chaos Emergency Response Team"
-[c3checklist]:https://twitter.com/c3checklist "Twitter Lists for C3 Chaos associated accounts"
 [c3daysleft]:https://twitter.com/c3daysleft "Friendly Countdown bot to the next Chaos Communication Congress"
 [c3diversity]:https://twitter.com/c3diversity "Promoting diversity and supporting humans of all genders"
 [c3edu]:https://twitter.com/@c3edu "Bildungsurlaubsteilnahmebescheinigungsabstempelstelle"
