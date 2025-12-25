@@ -790,8 +790,8 @@ These people have contributed to improve this list for everyone (in no particula
 - [@peterpoetzi][147]
 - [iwonder][148]
 - [Phil5555][149]
-- [HyperCraft3r][154]
 - [Obsidian][152]
+- [HyperCraft3r][154]
 
 <!-- ## 🔗 Links -->
 [1]:https://events.ccc.de/congress/2019/wiki/index.php/Static:Information_Security
@@ -815,39 +815,39 @@ These people have contributed to improve this list for everyone (in no particula
 [18]:http://openssh.org/ "OpenSSH"
 [19]:https://www.torproject.org/ "Tor Project"
 [20]:https://events.ccc.de/congress/2025/hub/en/schedule
-[21]:<https://www.organspende-info.de>
-[22]:<https://f-droid.org/de/packages/eu.faircode.netguard/>
-[24]:<https://wifipineapple.com/> "WiFi Pineapple"
-[25]:<https://greatscottgadgets.com/throwingstar/> "Throwing star"
-[26]:<https://play.google.com/store/apps/details?id=info.metadude.android.congress.schedule>
-[27]:<https://github.com/EventFahrplan/EventFahrplan>
-[28]:<https://apps.apple.com/de/app/congress-39c3/id941205524>
-[29]:<http://en.wikipedia.org/wiki/Knife_legislation#Germany>
-[30]:<https://rad1o.badge.events.ccc.de/> "Rad1o Badge, CCCamp 2015"
-[31]:<https://eventphone.de/doku/dect_phone_compatibility_list> "Eventphone DECT handset compatibility list"
-[32]:<https://www.youtube.com/watch?v=J0MUEqzWve8> "YouTube: B.O.O.K."
-[33]:<https://www.cryptoparty.in/location> "List of international CryptoParty events"
-[34]:<http://www.sperr-notruf.de/>
-[35]:<https://www.darc.de/der-club/referate/ausland/english-version/> "Bundesverband für Amateurfunk in Deutschland - License information for non-germans"
-[37]:<https://de.wikipedia.org/wiki/Datenklo> "CCC Datenklo - Akustik Koppler"
-[38]:<https://cert.ccc.de/> "C3 CERT"
-[39]:<https://events.ccc.de/congress/2025/hub/en/assembly/detail/coffeenerds> "Coffeenerds"
-[40]:<https://www.worldstandards.eu/electricity/spread-plug-types-map/> "World map showing the spread of plug types"
-[41]:<https://www.bahn.de/bahnbusiness/faq/muss-ich-mich-zu-meinem-online-ticket-im-zug-zusaetzlich-ausweisen> "Deutsche Bahn: Muss ich mich zu meinem Online-Ticket im Zug zusätzlich ausweisen?"
-[42]:<http://travel.stackexchange.com/questions/55409/what-is-the-hotel-room-card-slot-inside-the-room-for>
-[43]:<https://github.com/Columbia19/Camping-Checklist> "Columbia19's Campinbg-Checklist on Github!"
-[44]:<https://www.gesetze-im-internet.de/btmg_1981/anlage_iii.html>
-[45]:<https://www.gesetze-im-internet.de/btmg_1981/>
-[46]:<https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel/Reisen/reise_scheng_formular.pdf?__blob=publicationFile&v=3>
-[48]:<https://www.youtube.com/watch?v=HXi1g6lueTo>
-[49]:<https://en.wikipedia.org/wiki/Towel_Day>
-[50]:<https://pads.c3w.at/pad/#/2/pad/edit/-MsZU1EAGE5+5fxDfxqlG6He/> "USB-C Cable Matrix Pad"
-[51]:<https://www.umweltbundesamt.de/en/topics/air/particulate-matter-pm10/low-emission-zones-in-germany> "Environmental Zone Info for Germany"
-[52]:<https://card10.badge.events.ccc.de> "CCC Card10 Badge"
-[53]:<https://events.ccc.de/congress/2024/infos/startpage.html>
-[54]:<https://matrix.to/#/#39c3:events.ccc.de>
-[55]:<https://tickets.events.ccc.de/39c3-merch/>
-[56]:<https://flow3r.garden/>
+[21]:https://www.organspende-info.de
+[22]:https://f-droid.org/de/packages/eu.faircode.netguard/
+[24]:https://wifipineapple.com/ "WiFi Pineapple"
+[25]:https://greatscottgadgets.com/throwingstar/ "Throwing star"
+[26]:https://play.google.com/store/apps/details?id=info.metadude.android.congress.schedule
+[27]:https://github.com/EventFahrplan/EventFahrplan
+[28]:https://apps.apple.com/de/app/congress-39c3/id941205524
+[29]:http://en.wikipedia.org/wiki/Knife_legislation#Germany
+[30]:https://rad1o.badge.events.ccc.de/ "Rad1o Badge, CCCamp 2015"
+[31]:https://eventphone.de/doku/dect_phone_compatibility_list "Eventphone DECT handset compatibility list"
+[32]:https://www.youtube.com/watch?v=J0MUEqzWve8 "YouTube: B.O.O.K."
+[33]:https://www.cryptoparty.in/location "List of international CryptoParty events"
+[34]:http://www.sperr-notruf.de/
+[35]:https://www.darc.de/der-club/referate/ausland/english-version/ "Bundesverband für Amateurfunk in Deutschland - License information for non-germans"
+[37]:https://de.wikipedia.org/wiki/Datenklo "CCC Datenklo - Akustik Koppler"
+[38]:https://cert.ccc.de/ "C3 CERT"
+[39]:https://events.ccc.de/congress/2025/hub/en/assembly/detail/coffeenerds
+[40]:https://www.worldstandards.eu/electricity/spread-plug-types-map/ "World map showing the spread of plug types"
+[41]:https://www.bahn.de/bahnbusiness/faq/muss-ich-mich-zu-meinem-online-ticket-im-zug-zusaetzlich-ausweisen "Deutsche Bahn: Muss ich mich zu meinem Online-Ticket im Zug zusätzlich ausweisen?"
+[42]:http://travel.stackexchange.com/questions/55409/what-is-the-hotel-room-card-slot-inside-the-room-for
+[43]:https://github.com/Columbia19/Camping-Checklist "Columbia19's Campinbg-Checklist on Github!"
+[44]:https://www.gesetze-im-internet.de/btmg_1981/anlage_iii.html
+[45]:https://www.gesetze-im-internet.de/btmg_1981/
+[46]:https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel/Reisen/reise_scheng_formular.pdf?__blob=publicationFile&v=3
+[48]:https://www.youtube.com/watch?v=HXi1g6lueTo
+[49]:https://en.wikipedia.org/wiki/Towel_Day
+[50]:https://pads.c3w.at/pad/#/2/pad/edit/-MsZU1EAGE5+5fxDfxqlG6He/ "USB-C Cable Matrix Pad"
+[51]:https://www.umweltbundesamt.de/en/topics/air/particulate-matter-pm10/low-emission-zones-in-germany "Environmental Zone Info for Germany"
+[52]:https://card10.badge.events.ccc.de "CCC Card10 Badge"
+[53]:https://events.ccc.de/congress/2025/infos/startpage.html
+[54]:https://matrix.to/#/#39c3:events.ccc.de
+[55]:https://tickets.events.ccc.de/39c3-merch/
+[56]:https://flow3r.garden/
 
 [100]:https://twitter.com/Astarioth
 [101]:https://twitter.com/N4mes
