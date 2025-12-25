@@ -127,7 +127,7 @@ This applies to the Congress Center as well as your hotel windows.
 - Vaccination documents or history (Impfpass)
 - "Business cards" to hand out to people with essential information like email address and OpenPGP fingerprint. Optionally other ways to reach you as well. Normally simple DIN A4 paper strips with the information printed on is enough. No need to get fancy.
 - Note with the most important telephone numbers, e.g. family, roommates, lawyer in case you no longer have access to your devices.
-
+- Prepare a list of postal addresses to which you might want to send postcards from the event.
 
 ### Payment stuff
 When using ATMs/Cash Machines/Bankomaten/Geldautomaten give them a good wiggle before inserting your card. During 32C3 a Skimmer device had been found at an ATM at Bahnhof Dammtor. This is just a reminder, you should do that every time you use your card.
