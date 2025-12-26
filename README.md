@@ -563,6 +563,8 @@ There maybe children roaming around, so please RC responsibly. Also no flying ov
 - Camping cutlery (or spork) to reduce on plastic waste on site and for takeaway/supermarket food
 - Easy snacks such as nuts or granola bars (Events like these are often hectic and sometimes it's easy to forget to eat. If you need food to take medications, make sure to always have snacks with you)
 - A collection of your most sparkly math rocks (also known as dice)
+- Personal reusable Tschunk straw, ideally engraved
+- Blåhaj
 
 Please drive responsibly on site! We don't want anyone to end up injured.
 
