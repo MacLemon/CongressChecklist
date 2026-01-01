@@ -237,6 +237,7 @@ Check the expiry date of the meds you bring.
 - Camomile tea relieves hyperacidity very well
 - Bepanthen
 - Protective masks (FFP2)
+  - Also, extension hooks for mask straps (aka ear protectors, ear savers, mask clips)
 - Covid-19 test kit (according to recommendation of the event you're visiting)
 
 #### Personal medication
