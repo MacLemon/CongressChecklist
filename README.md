@@ -535,7 +535,7 @@ There maybe children roaming around, so please RC responsibly. Also no flying ov
   - Swiss knife
   - Victorinox cybertool
   - Leatherman (check for one-handed opening mechanisms, such as thumb holes or studs)
-- Screw drivers, pit set
+- Screw drivers, bit set
 - Soldering iron
   - solder
   - solder pump
