@@ -466,6 +466,7 @@ Check out the [USB-C Cable Matrix CryptPad][50] (Note, [Google Doc Copy][35], is
 - Remote control (infrared/bluetooth/radio) for your presentation / lightning talk
   - Check the batteries
   - Take the USB dongle, if the remote has one
+  - For a hybrid talk, use the [hybrid pointing rehearsal record](https://light-tracer.com/wp-content/uploads/2026/10/hybrid-pointing-rehearsal-record-open-v1.pdf) (PDF, CC BY 4.0) to record what the remote attendee sees after slide and shared-window changes.
 
 #### Podcast Gear
 
