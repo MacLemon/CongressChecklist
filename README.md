@@ -568,7 +568,7 @@ There maybe children roaming around, so please RC responsibly. Also no flying ov
 - Personal reusable Tschunk straw, ideally engraved
 - Blåhaj
 
-Please drive responsibly on site! We don't want anyone to end up injured.
+Please check beforehand if mobility devices are allowed on site. If so, have fun and drive responsibly! We don't want anyone to end up injured.
 
 - Personal Mobility Device - like:
   - roller skates
