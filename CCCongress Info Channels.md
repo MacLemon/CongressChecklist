@@ -24,146 +24,55 @@ Please use local DECT/GSM/SIP/… for calls, otherwise you might reach public em
 
 ### Videos
 
-Many CCC Events record videos of the given lectures and some event offer live [streaming]. Both is valid for Chaos Communication Congress.
+Many CCC Events record videos of the given lectures and some event offer live streaming. Both is valid for Chaos Communication Congress.
 
 - [CCC Live Streaming via C3VOC](https://streaming.media.ccc.de/)
 - [C3 Subtitles Team](https://c3subtitles.de/) Crowdsources subtiles and translations
 - [CongressEverywhere](https://events.ccc.de/congress/2017/wiki/Congress_Everywhere) Locations with public live-stream viewing
 
-## Mastodon/GNUSocial/OStatus/Fediverse
+## Fediverse
 
-- [@ccc@social.bau-ha.us](https://social.bau-ha.us/@ccc) **Chaos Computer Club**
+- [@dect@chaos.social](https://chaos.social/@dect) **dect.fail** DECT and Desk phone rental service.
+- [@C3_LightningTLK@chaos.social](https://chaos.social/@C3_LightningTLK) **Lightning Talks** Lightning talk announcements.
+- [@FahrplanUpdate@chaos.social](https://chaos.social/@FahrplanUpdate) **Fahrplan Updates** Schedule changes and updates.
+- [@ChaosPost@chaos.social](https://chaos.social/@ChaosPost) **Chaos Post Office** Mail and postal service.
+- [@c3power@chaos.social](https://chaos.social/@c3power) **Power** Power supply team.
+- [@c3awareness@chaos.social](https://chaos.social/@c3awareness) **Awareness** Safety and awareness information.
+- [@c3bar@chaos.social](https://chaos.social/@c3bar) **Bar** The Congress bar.
+- [@c3bottles@chaos.social](https://chaos.social/@c3bottles) **Bottles** Bottle return and deposit service.
+- [@c3cert@chaos.social](https://chaos.social/@c3cert) **CERT** Providing medical and firefighting support.
+- [@c3countdown@ruhr.social](https://ruhr.social/@c3countdown) **Countdown** Countdown to the next Congress.
+- [@c3gelb@chaos.social](https://chaos.social/@c3gelb) **Gelb** Hygiene team.
+- [@c3infodesk@chaos.social](https://chaos.social/@c3infodesk) **Infodesk** Providing information with crystal balls (allegedly).
+- [@C3Kidspace@chaos.social](https://chaos.social/@C3Kidspace) **Kidspace** Childcare and activities for kids.
+- [@c3lingo@chaos.social](https://chaos.social/@c3lingo) **Lingo** Translation and language support.
+- [@c3lock@chaos.social](https://chaos.social/@c3lock) **Lock** Lockpicking area.
+- [@c3loc@chaos.social](https://chaos.social/@c3loc) **Logistics Operation Center** Your friends when you need to move stuff from A to B.
+- [@c3lounge@chaos.social](https://chaos.social/@c3lounge) **Lounge** The Congress lounge.
+- [@c3nav@chaos.social](https://chaos.social/@c3nav) **c3nav** Indoor navigation for the venue.
+- [@c3noc@chaos.social](https://chaos.social/@c3noc) **NOC** Network operations center.
+- [@c3nochd@chaos.social](https://chaos.social/@c3nochd) **NOC Helpdesk**
+- [@c3seidenstrasse@chaos.social](https://chaos.social/@c3seidenstrasse) **Seidenstrasse** Pneumatic tube transport system.
 - [@ccchor@chaos.social](https://chaos.social/@ccchor) **CCC Choir**
 - [@c3woc@chaos.social](https://chaos.social/@c3woc) **Waffel Operation Center**
-- [@chaosradio@chaos.social](https://chaos.social/@chaosradio) **Chaos Radio**
-- [@c3kidspace@chaos.social](https://chaos.social/@c3kidspace) **Kidspace**
-- [@c3seidenstrasse@chaos.social](https://chaos.social/@c3seidenstrasse) **Seidenstrasse** pneumatic tube transport system.
-- [@c3nochd@chaos.social](https://chaos.social/@c3nochd) **NOC Helpdesk**
-- [@c3voc@chaos.social](https://chaos.social/@c3voc) **Video Operation Center**
-- [@c3voc_releases@chaos.social](https://chaos.social/@c3voc_releases) Release bot of the c3voc team.
-- [@hackertours@chaos.social](https://chaos.social/@hackertours) **HackerTours** Your provider of sightseeing tours for technical enthusiasts!
+- [@c3spaeti@chaos.social](https://chaos.social/@c3spaeti) **Späti** The best late-night shop at congress.
+- [@c3subtitles@chaos.social](https://chaos.social/@c3subtitles) **Subtitles** Subtitles for Congress talks.
+- [@chaosvermittlung@chaos.social](https://chaos.social/@chaosvermittlung) **Vermittlung** Community-like helpdesk (sort of like a Switchboard).
+- [@c3voc@chaos.social](https://chaos.social/@c3voc) **Video Operation Center** Recording and streaming of talks.
+- [@ccc@social.bau-ha.us](https://social.bau-ha.us/@ccc) **Chaos Computer Club** Official CCC updates.
+- [@events@chaos.social](https://chaos.social/@events) **CCC Events** Event announcements from the Chaos Computer Club.
+- [@chaospatinnen@chaos.social](https://chaos.social/@chaospatinnen) **Chaospatinnen** Your mentors for those new to congress.
+- [@CongressApp@social.mrtoto.net](https://social.mrtoto.net/@CongressApp) **Congress App** The Congress app for iOS.
+- [@engelsystem@chaos.social](https://chaos.social/@engelsystem) **Engelsystem** Volunteer shift planning system.
+- [@infobeamer@mastodon.social](https://mastodon.social/@infobeamer) **infobeamer** Digital signage software used at the Congress.
+- [@c3auti@chaos.social](https://chaos.social/@c3auti) **Auti** Support for neurodivergent attendees.
+- [@eventphone@chaos.social](https://chaos.social/@eventphone) **Phone Operation Center** 
 - [@west@chaos.social](https://chaos.social/@west) **Chaos West**
 - [@haecksen@chaos.social](https://chaos.social/@haecksen) **Haecksen** Frauen* im CCC
 - [@spaceapi@chaos.social](https://chaos.social/@spaceapi) **Space API**
-- [@c3infodesk@chaos.social](https://chaos.social/@c3infodesk) **Infodesk** Providing information
-- [@c3cert@chaos.social](https://chaos.social/@c3cert) **CERT** Providing medical and firefighting support
-
-### Bots
-
-- [@cccupdatesbot@mastodonten.de](https://mastodonten.de/@cccupdatesbot) retoot of [@cccupdates]
-- [@chaosupdates@diasp.org](https://diasp.org/u/chaosupdates) retoot of [@cccupdates]
-
-## Twitter
-
-There is [a list containing all the C3 associated Twitter accounts][twitterlist] maintained by [@c3checklist].
-
-- @[34c3prodigybar] Helping with the tiny mishaps of everyday IT.
-- @[C3DieLounge] Official C3 Lounge floor. (Ten Forward, anti (t)error lounge, savage sector, section 9)
-- @[C3_LightningTLK] C3 Lighting talks organisation
-- @[FahrplanUpdate] Fahrplan Update notification Bot
-- @[c3postoffice] Snail Mail
-- @[c3_power] C3 Power (electrical)
-- @[c3awareness] C3 Awareness Team
-- @[c3bar] Bar Operation Center - Department of Tschunk Quality Assurance
-- @[c3bass] C3 Low Frequency Longitudinal Wave Operations Center
-- @[c3bottles] Collect ALL the bottles!
-- @[c3cert] CERT - Providing medical and firefighting support
-- @[c3daysleft] Waiting for ..c3 countdown (bot)
-- @[c3diversity] Promoting diversity and supporting humans of all genders
-- @[c3edu] Bildungsurlaubsteilnahmebescheinigungsabstempelstelle
-- @[c3fotobox] The foto box
-- @[c3gelb] C3 Hygene
-- @[c3hoc] Hair operations center
-- @[c3infodesk] Infodesk/Travelservice for CCC related events
-- @[c3kidspace] Childcare at Chaos events
-- @[c3lingo] Translation and interpreter service - Volunteers welcome!
-- @[c3lock] C3 Lockpicking Area
-- @[c3logistic] C3 Logistics
-- @[c3lounge] Lounge Operations and Line Up
-- @[c3nav] C3 Indoor Navigation for Chaos Events
-- @[c3noc] Network operation center
-- @[c3queue] C3 Merchandise Queue
-- @[c3roc_] C3 Radio Operation Center - Frequency coordination for events
-- @[c3seidenstrasse] C3 pneumatic tube transport system
-- @[c3sheep] C3 Sheep
-- @[c3soc] C3 Seidenstrasse Operations Center
-- @[c3spaeti] C3 Spaeti (Late night corner store)
-- @[c3srt_releases] C3 Subtitle Releases (Bot)
-- @[c3streaming] Joint Venture to deliver videostream
-- @[c3subtitles] Making C3 events more barrier-free by providing subtitles and translations
-- @[c3troc] Train operation center
-- @[c3vermittlung] C3 Field phone service
-- @[c3voc] Video operation center (Recordings and live streaming)
-- @[c3voc_releases] Bot that posts releases of fresh recordings in many formats
-- @[ccc] The CCC events blog
-- @[chaosknoten] "Just Chaos"
-- @[chaospatinnen] Mentoring Operation Center
-- @[chaosupdates] CCC related news
-- @[congress_ios] Congress App for iOS devices
-- @[engelsystem] Engelsystem information system for chaos events
-- @[espressobicycle] Serving mobile high quality espresso since 30c3
-- @[eventphone] DECT wireless phone network operations
-- @[infobeamer] The digital signage solution used by many Chaos events.
-- @[rad1obadge] Rad1o Badge (SDR)
-- @[therealcsystems] C-Systems
-- @[c3auti] Autism care
-
-[Streaming]:https://streaming.media.ccc.de/ "C3VOC Streaming - LIVE!"
-
-### Contact
+- [@hackertours@chaos.social](https://chaos.social/@hackertours) **HackerTours** Your provider of sightseeing tours for technical enthusiasts!
+- [@chaosradio@chaos.social](https://chaos.social/@chaosradio) **Chaos Radio**
 
 You can contact some of the organizing teams via email. Please note that this makes mostly sense before and after the
-event, not during. Contact addresses are listed in the [event wiki](https://events.ccc.de/congress/2016/wiki/Static:Contact).
+event, not during. Contact addresses are listed in the [event wiki](https://events.ccc.de/congress/2026/infos/communication/).
 
-[34c3prodigybar]:https://twitter.com/34c3prodigybar "Trying to help you out with Linux-ISOs, Powerbricks, Adaptors and connecting you to those who can assist you."
-[C3DieLounge]:https://twitter.com/c3dielounge "Official C3 Lounge Floor"
-[C3_LightningTLK]:https://twitter.com/c3_lightningtlk "C3 lightning talks organisation"
-[FahrplanUpdate]:https://twitter.com/FahrplanUpdate "C3 Fahrplan Update notification bot"
-[MacLemon]:https://twitter.com/MacLemon "MacLemon"
-[c3postoffice]:https://twitter.com/c3postoffice "Snail Mail Delivery at C3 events"
-[c3_power]:https://twitter.com/c3_power "Power supply for events and installations"
-[c3awareness]:https://twitter.com/c3awareness "C3 Awareness Team"
-[c3bar]:https://twitter.com/c3bar "Bar Operation Center - Department of Tschunk Quality Assurance"
-[c3bass]:https://twitter.com/c3bass "C3 Low Frequency Longitudinal Wave Operations Center"
-[c3bottles]:https://twitter.com/c3bottles "Collect ALL the bottles"
-[c3cert]:https://twitter.com/c3cert "Chaos Emergency Response Team"
-[c3daysleft]:https://twitter.com/c3daysleft "Friendly Countdown bot to the next Chaos Communication Congress"
-[c3diversity]:https://twitter.com/c3diversity "Promoting diversity and supporting humans of all genders"
-[c3edu]:https://twitter.com/@c3edu "Bildungsurlaubsteilnahmebescheinigungsabstempelstelle"
-[c3fotobox]:https://twitter.com/c3fotobox "A box, taking fotos"
-[c3gelb]:https://twitter.com/c3gelb "C3 hygene team"
-[c3hoc]:https://twitter.com/c3hoc "Hair operations center"
-[c3infodesk]:https://twitter.com/c3infodesk "Infodesk/Travelservice for CCC related events"
-[c3kidspace]:https://twitter.com/c3kidspace "C3 Kidspace"
-[c3lingo]:https://twitter.com/c3lingo "Translation and interpreter service"
-[c3lock]:https://twitter.com/c3lock "C3 Lockpicking Area"
-[c3logistic]:https://twitter.com/c3logistic "C3 logistics"
-[c3lounge]:https://twitter.com/c3lounge "Lounge Operations and Line Up"
-[c3nav]:https://twitter.com/c3nav "C3 Indoor Navigation for Chaos Events"
-[c3noc]:https://twitter.com/c3noc "C3 network operation center"
-[c3queue]:https://twitter.com/c3queue "C3 Merchandise Queue"
-[c3roc_]:https://twitter.com/c3roc_ "Radio Operation Center - Frequency coordination for events"
-[c3seidenstrasse]:https://twitter.com/c3seidenstrasse "C3 pneumatic tube transport system"
-[c3sheep]:https://twitter.com/c3sheep "The C3 writer's sheep. Yes, a sheep."
-[c3soc]:https://twitter.com/c3soc "C3 Seidenstrasse Operations at Events"
-[c3spaeti]:https://twitter.com/c3spaeti "C3 Spaeti - Late night corner store"
-[c3srt_releases]:https://twitter.com/c3srt_releases "C3 Subtitles Release Info (Bot)"
-[c3streaming]:https://twitter.com/c3streaming "Joint Venture to deliver videostream"
-[c3subtitles]:https://twitter.com/c3subtitles "Making C3 events more barrier-free by providing subtitles and translations"
-[c3troc]:https://twitter.com/c3troc "C3 Train operation center"
-[c3vermittlung]:https://twitter.com/c3vermittlung "C3 field phone service"
-[c3voc]:https://twitter.com/c3voc "C3 video operation center"
-[c3voc_releases]:https://twitter.com/c3voc_releases "C3 video operation center - New releases Bot"
-[ccc]:https://twitter.com/ccc "The CCC events blog"
-[chaosknoten]:https://twitter.com/chaosknoten "Kabelsalat ist gesund!"
-[chaospatinnen]:https://twitter.com/chaospatinnen "Mentoring Operation Center"
-[chaosupdates]:https://twitter.com/chaosupdates "CCC related news"
-[congress_ios]:https://twitter.com/congress_ios "Congress App for iOS devices"
-[engelsystem]:https://twitter.com/engelsystem "Engelsystem information system for chaos events"
-[espressobicycle]:https://twitter.com/espressobicycle "Transparent and fair from bean producer to espresso afficionado"
-[eventphone]:https://twitter.com/eventphone "DECT wireless phone network operations"
-[infobeamer]:https://twitter.com/infobeamer "The digital signage solution used by many Chaos events."
-[rad1obadge]:https://twitter.com/rad1obadge "Rad1o Badge (SDR)"
-[therealcsystems]:https://twitter.com/therealcsystems "C-Systems"
-[c3auti]:https://twitter.com/c3auti "C3 Autism Care"
-[twitterlist]:https://twitter.com/C3Checklist/lists "C3 Chaos Event Lists and other Chaos related Twitter Accounts."

@@ -63,7 +63,7 @@ You'll also find a list of all the nice humans who have contributed to this list
 - When bringing credit cards and not living in Germany: call your bank and have them pre-approve payments from Germany. Otherwise, your bank may decline all purchases when they don't know you're traveling and suspect fraud.
 - Stock you pantry/freezer with some food that keeps so you have something to eat when you get home (that doesn't rely on shops/restaurants being open).
 - (optional but recommended) Visit the [congress overview page][53], create account in the [congress wiki][12], [add your projects][13], [find your assembly][14] and join the [39C3 chat][54].
-- (optional but recommended) [Read the Engel Guide][150] and create an account in the [Engelsystem][151].
+- (optional but recommended) [Read the Engel Guide][60] and create an account in the [Engelsystem][61].
 - Install one of the Fahrplan apps for Android ([PlayStore][26], [Source][27]) or iOS ([iTunes][28])
 - (optional but recommended) [Pre-order your merch][55] if the event you're visiting offers it
 
@@ -317,7 +317,7 @@ For travelling abroad there is a handy [World map showing the spread of plug typ
 - Laptop (with a working battery)
         - Maybe clean display and keyboard while you're at it ;-)
 - USB flash drives
-  - Put an OWNER.txt file on them with information on how to contact you in case one gets lost accidentally. (Mastodon, phone (for example DECT, 33C3 GSM extensions), email, name of the assembly you're well known at, owl, raven)
+  - Put an OWNER.txt file on them with information on how to contact you in case one gets lost accidentally. (Mastodon, phone (for example DECT, C3 GSM extensions), email, name of the assembly you're well known at, owl, raven)
   - For devices with private information be sure to encrypt them! (VeraCrypt, GPG, FileVault, EncFS, Bitlocker, gbde, geli, dm-crypt, LUKS, eCryptFS)
   - Make a GPT Label or Volume label with your online nickname or handle because people can't read your owner.txt file on encrypted devices. You may also create multiple partitions (plaintext and encrypted ones).
   - If physically possible, add an actual label (just write on it/add a tag) with your nick on it – many people will be rightfully hesitant to plug in a found USB stick.
@@ -432,6 +432,7 @@ Check out the [USB-C Cable Matrix CryptPad][50] (Note, [Google Doc Copy][35], is
     - for an optional SIM card of the country you travel to
     - for a local GSM network at the venue,
   - DECT phone (for the local wireless phone network available at many CCC events)
+      - If you don't have one, you can rent one for free via [dect.fail][57] or [eventphone][2]
   - Be sure to register your extension number at [Eventphone][2] prior to the event.
   - Check if your DECT model is [compatible with Eventphone][31]
 - SIM cards (your usual one, european SIM [no roaming fees inside EU], CCC SIM)
@@ -531,7 +532,7 @@ There maybe children roaming around, so please RC responsibly. Also no flying ov
   - \+ USB Keyboard
   - \+ USB Rodent
   - \+ HDMI cable to connect a display
-- Pocket knife ([Knifes and are forbidden in public transport in Hamburg!][153] [Conforming to the German Weapons Act:][29] Blade must not exceed 12cm; Folding knives with locking blades must not be designed to be opened with one hand. Also, “thrusting weapons” such as daggers, stilettos, swords etc. are restricted items.)
+- Pocket knife ([Knifes and are forbidden in public transport in Hamburg!][58] [Conforming to the German Weapons Act:][29] Blade must not exceed 12cm; Folding knives with locking blades must not be designed to be opened with one hand. Also, “thrusting weapons” such as daggers, stilettos, swords etc. are restricted items.)
   - Swiss knife
   - Victorinox cybertool
   - Leatherman (check for one-handed opening mechanisms, such as thumb holes or studs)
@@ -566,7 +567,7 @@ There maybe children roaming around, so please RC responsibly. Also no flying ov
 - Easy snacks such as nuts or granola bars (Events like these are often hectic and sometimes it's easy to forget to eat. If you need food to take medications, make sure to always have snacks with you)
 - A collection of your most sparkly math rocks (also known as dice)
 - Personal reusable Tschunk straw, ideally engraved
-- Blåhaj
+- Blåhaj (or Blåvingad if you're cool)
 
 Please drive responsibly on site! We don't want anyone to end up injured.
 
@@ -659,7 +660,7 @@ Check that *all* your server services are using proper TLS. See [bettercrypto.or
 
 Have at least one trusted, working and tested VPN endpoint available for tunneling out of the congress network. If you don't have your own VPN server at your disposal, ask friends you trust to help you out. If you do, ask your friends if they need a VPN endpoint and share!
 
-- [WireGuard][146]
+- [WireGuard][59]
 - [OpenVPN][16]
 - L2TP/IPSec/IKEv2
 - [SSH][18]
@@ -796,6 +797,7 @@ These people have contributed to improve this list for everyone (in no particula
 - [Phil5555][149]
 - [Obsidian][152]
 - [HyperCraft3r][154]
+- [@estrogeN][153]
 
 <!-- ## 🔗 Links -->
 [1]:https://events.ccc.de/congress/2019/wiki/index.php/Static:Information_Security
@@ -852,6 +854,11 @@ These people have contributed to improve this list for everyone (in no particula
 [54]:https://matrix.to/#/#39c3:events.ccc.de
 [55]:https://tickets.events.ccc.de/39c3-merch/
 [56]:https://flow3r.garden/
+[57]:https://dect.fail
+[58]:https://www.polizei.hamburg/services/recht/waffen-und-messerverbot-oepnv-und-weitere-gebiete
+[59]:https://www.wireguard.com/
+[60]:https://guide.c3heaven.de/index.de.html
+[61]:https://engel.events.ccc.de
 
 [100]:https://twitter.com/Astarioth
 [101]:https://twitter.com/N4mes
@@ -899,12 +906,9 @@ These people have contributed to improve this list for everyone (in no particula
 [143]:https://github.com/The-Compiler
 [144]:https://twitter.com/Columbia19
 [145]:https://github.com/rixx
-[146]:https://www.wireguard.com/
 [147]:https://twitter.com/qch3n/
 [148]:https://mastodon.social/@iwonder
 [149]:https://github.com/Phil5555
-[150]:https://guide.c3heaven.de/index.de.html
-[151]:https://engel.events.ccc.de
 [152]:https://github.com/Obsidi88
-[153]:https://www.polizei.hamburg/services/recht/waffen-und-messerverbot-oepnv-und-weitere-gebiete
+[153]:https://chaos.social/@estrogeN
 [154]:https://chaos.social/@HyperCraft3r
